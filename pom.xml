@@ -11,8 +11,8 @@
     <groupId>com.b2</groupId>
     <artifactId>CorrectAnAdreess</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>CorrectAnAdreess</name>
-    <description>O descriere.</description>
+    <name>CorrectAnAddress</name>
+    <description>A description</description>
     <properties>
         <java.version>17</java.version>
         <!-- JaCoCo Properties -->
@@ -30,6 +30,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>2.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

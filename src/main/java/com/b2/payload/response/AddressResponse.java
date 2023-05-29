@@ -17,5 +17,5 @@ public class AddressResponse {
     private String city;
 
     @NotNull
-    private int probability;
+    private Float probability;
 }

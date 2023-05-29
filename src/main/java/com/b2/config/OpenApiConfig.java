@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @OpenAPIDefinition(
-        info = @Info(title = "CorrectAnAdress", version = "0.0.1-SNAPSHOT"),
+        info = @Info(title = "CorrectAnAddress", version = "0.0.1-SNAPSHOT"),
         servers = {@Server(url = "http://localhost:8081")},
         tags = {
             @Tag(

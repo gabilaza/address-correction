@@ -1,8 +1,7 @@
 package com.b2.controller;
 
-import com.b2.exception.*;
-import com.b2.exception.address.*;
-
+import com.b2.exception.address.AddressExistsException;
+import com.b2.exception.address.AddressNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.MethodArgumentNotValidException;
