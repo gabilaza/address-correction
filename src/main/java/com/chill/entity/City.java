@@ -5,6 +5,9 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.HashSet;
+import java.util.Set;
+
 @Data
 @NoArgsConstructor
 @Entity
@@ -16,15 +19,21 @@ public class City {
 
     private String name;
 
-    private String postalCode;
-
     @ManyToOne
     @JoinColumn(name = "state_id", nullable = false)
     private State state;
 
-    public City(String name, String postalCode, State state) {
+    @OneToMany(mappedBy = "city", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+    private Set<PostalCode> postalCodes;
+
+    public City(String name, State state) {
         this.name = name;
-        this.postalCode = postalCode;
         this.state = state;
+
+        this.postalCodes = new HashSet<>();
+    }
+
+    public void addPostalCode(PostalCode postalCode) {
+        this.postalCodes.add(postalCode);
     }
 }
