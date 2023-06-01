@@ -1,5 +1,19 @@
 version: '0.1'
 services:
+  db:
+    image: postgres:latest
+    container_name: db
+    environment:
+      POSTGRES_DB: addresses
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: student
+    networks:
+      - db_conn
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
   app:
     container_name: app
     build:
@@ -7,4 +21,12 @@ services:
       dockerfile: ./Dockerfile
     ports:
       - "8081:8081"
+    networks:
+      - db_conn
+    depends_on:
+      db:
+        condition: service_healthy
     tty: true
+networks:
+  db_conn:
+    driver: bridge
