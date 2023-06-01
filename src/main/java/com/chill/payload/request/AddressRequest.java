@@ -1,10 +1,9 @@
 package com.chill.payload.request;
 
-import jakarta.validation.constraints.NotBlank;
-
+import jakarta.validation.constraints.NotNull;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
 
 import java.io.Serializable;
 
@@ -12,15 +11,15 @@ import java.io.Serializable;
 @NoArgsConstructor
 @AllArgsConstructor
 public class AddressRequest implements Serializable {
-    @NotBlank
+    @NotNull
     private String country;
 
-    @NotBlank
+    @NotNull
     private String state;
 
-    @NotBlank
+    @NotNull
     private String city;
 
-    @NotBlank
+    @NotNull
     private String postalCode;
 }
