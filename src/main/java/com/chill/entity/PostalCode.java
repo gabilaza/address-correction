@@ -1,10 +1,12 @@
 package com.chill.entity;
 
 import jakarta.persistence.*;
-import lombok.Data;
+import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 @RequiredArgsConstructor
 @Entity
 @Table(name = "postalcodes")
@@ -22,5 +24,15 @@ public class PostalCode {
     public PostalCode(String name, City city) {
         this.name = name;
         this.city = city;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null || !(obj instanceof PostalCode)) {
+            return false;
+        }
+
+        PostalCode other = (PostalCode) obj;
+        return this.name.equals(other.name);
     }
 }

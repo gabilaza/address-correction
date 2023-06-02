@@ -6,4 +6,8 @@ public class CountryNotFoundException extends EntityNotFoundException {
     public CountryNotFoundException(Integer id) {
         super(String.format("Country Not Found: %s", id));
     }
+
+    public CountryNotFoundException(String name) {
+        super(String.format("Country Not Found: %s", name));
+    }
 }
