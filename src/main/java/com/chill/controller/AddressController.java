@@ -25,7 +25,8 @@ public class AddressController {
     @Operation(tags = {"Address"})
     public AddressResponse getCorrectAddress(@Valid @RequestBody AddressRequest addressRequest) {
         Address address = addressMapper.mapToAddress(addressRequest);
-        Address correctAddress = addressService.correctAddress(address);
+        Address normalizedAddress = addressService.normalizeAddress(address);
+        Address correctAddress = addressService.correctAddress(normalizedAddress);
         return addressMapper.mapToAddressResponse(correctAddress);
     }
 
