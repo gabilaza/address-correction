@@ -24,6 +24,10 @@ public class CountryService {
         return countryRepository.findAll();
     }
 
+    public Country getCountryByName(String name) {
+        return countryRepository.findByName(name).orElseThrow(() -> new CountryNotFoundException(name));
+    }
+
     public void createCountry(Country country) {
         if (Boolean.TRUE.equals(existsCountryById(country.getId()))) {
             throw new CountryExistsException(country.getId());
@@ -54,6 +58,13 @@ public class CountryService {
     public Boolean existsCountryById(Integer id) {
         if (id != null) {
             return countryRepository.existsById(id);
+        }
+        return Boolean.FALSE;
+    }
+
+    public Boolean existsCountryByName(String name) {
+        if (name != null) {
+            return countryRepository.existsByName(name);
         }
         return Boolean.FALSE;
     }

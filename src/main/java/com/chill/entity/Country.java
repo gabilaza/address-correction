@@ -2,13 +2,15 @@ package com.chill.entity;
 
 import jakarta.persistence.*;
 
-import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.util.Set;
 import java.util.HashSet;
 
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @Entity
 @Table(name = "countries")
@@ -30,5 +32,15 @@ public class Country {
 
     public void addState(State state) {
         this.states.add(state);
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null || !(obj instanceof Country)) {
+            return false;
+        }
+
+        Country other = (Country) obj;
+        return this.name.equals(other.name);
     }
 }
