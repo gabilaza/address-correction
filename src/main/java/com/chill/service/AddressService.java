@@ -7,6 +7,8 @@ import com.chill.normalize.Spellchecker;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 @RequiredArgsConstructor
 public class AddressService {
@@ -14,15 +16,14 @@ public class AddressService {
 
     private final Spellchecker spellchecker;
 
-    public Address correctAddress(Address address) {
-        return address;
+    public Address correctAddress(List<String> suggestionList) {
+        return addressMapper.mapToAddress(suggestionList);
     }
 
-    public Address normalizeAddress(Address address) {
+    public List<String> normalizeAddress(Address address) {
         String addressStr = addressMapper.mapToString(address);
         addressStr = spellchecker.normalize(addressStr);
-        addressStr = spellchecker.spellcheck(addressStr);
-        address = addressMapper.mapToAddress(addressStr);
-        return address;
+
+        return spellchecker.spellcheck(addressStr);
     }
 }

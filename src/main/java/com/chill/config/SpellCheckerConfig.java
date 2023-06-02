@@ -9,9 +9,15 @@ import org.springframework.context.annotation.Configuration;
 public class SpellCheckerConfig {
     @Value("${app.spellchecker.dictionary.path}")
     private String dictionaryPath;
+    @Value("${app.spellchecker.dictionary.workDir}")
+    private String dictionaryWorkDir;
+    @Value("${app.spellchecker.suggestion.number}")
+    private int suggestionNumber;
+    @Value("${app.spellchecker.suggestion.accuracy}")
+    private float suggestionAccuracy;
 
     @Bean
     public Spellchecker spellchecker() {
-        return new Spellchecker(dictionaryPath);
+        return new Spellchecker(dictionaryPath, dictionaryWorkDir, suggestionNumber, suggestionAccuracy);
     }
 }

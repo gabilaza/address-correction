@@ -1,54 +1,61 @@
 package com.chill.normalize;
 
-import com.swabunga.spell.engine.SpellDictionaryHashMap;
-import com.swabunga.spell.engine.Word;
-import com.swabunga.spell.event.SpellChecker;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.search.spell.PlainTextDictionary;
+import org.apache.lucene.search.spell.SpellChecker;
+import org.apache.lucene.store.FSDirectory;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Paths;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
 
 public class Spellchecker {
 
-    File dictionary;
+    private final int suggestionsNumber;
 
-    SpellDictionaryHashMap dictionaryHashMap;
-    SpellChecker spellChecker;
+    private final float accuracy;
 
-    public Spellchecker(String dictionaryPath) {
+    private final org.apache.lucene.search.spell.SpellChecker spellChecker;
+
+    public Spellchecker(String dictionaryPath, String dictionaryWorkDir, int suggestionsNumber, float accuracy) {
         try {
-            dictionary = new File(dictionaryPath);
-            dictionaryHashMap = new SpellDictionaryHashMap(dictionary);
-            spellChecker = new SpellChecker(dictionaryHashMap);
-        } catch (IOException exception) {
-            exception.printStackTrace();
+            FSDirectory dir = FSDirectory.open(Paths.get(dictionaryWorkDir));
+            File dictionary = new File(dictionaryPath);
+            spellChecker = new SpellChecker(dir);
+            this.suggestionsNumber = suggestionsNumber;
+            this.accuracy = accuracy;
+            try {
+                spellChecker.indexDictionary(new PlainTextDictionary(dictionary.toPath()), new IndexWriterConfig(new StandardAnalyzer()), true);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
     }
 
     public String normalize(String word) {
         return word.replaceAll("[^\\p{L}\\p{N}\\p{M} ]", "");
-
     }
 
-    public String spellcheck(String text) {
-        StringTokenizer stringTokenizer = new StringTokenizer(text, " ");
-        StringBuilder stringBuilder = new StringBuilder();
-        while (stringTokenizer.hasMoreTokens()) {
-            String word = stringTokenizer.nextToken();
-            if (!spellChecker.isCorrect(word)) {
-                List<?> rawSuggestions = spellChecker.getSuggestions(word, 0);
-                if (!rawSuggestions.isEmpty()) {
-                    Word suggestedWord = (Word) rawSuggestions.get(0);
-                    stringBuilder.append(suggestedWord.getWord());
+    public List<String> spellcheck(String text) {
+        StringTokenizer tokenizer = new StringTokenizer(text, " ");
+        List<String> suggestions = new LinkedList<>();
+        while (tokenizer.hasMoreTokens()) {
+            String word = tokenizer.nextToken();
+            try {
+                if (!spellChecker.exist(word)) {
+                    String[] rawSuggestions = spellChecker.suggestSimilar(word, suggestionsNumber, accuracy);
+                    suggestions.addAll(List.of(rawSuggestions));
                 }
-            } else {
-                stringBuilder.append(word);
-            }
-            if (stringTokenizer.hasMoreTokens()) {
-                stringBuilder.append(" ");
+            } catch (IOException e) {
+                throw new RuntimeException(e);
             }
         }
-        return stringBuilder.toString();
+        return suggestions;
     }
 }

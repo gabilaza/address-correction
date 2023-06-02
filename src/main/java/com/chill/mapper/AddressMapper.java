@@ -12,6 +12,8 @@ import lombok.RequiredArgsConstructor;
 
 import org.springframework.stereotype.Component;
 
+import java.util.List;
+
 @Component
 @RequiredArgsConstructor
 public final class AddressMapper {
@@ -32,12 +34,11 @@ public final class AddressMapper {
         return address.getCountry().getName() + " " + address.getState().getName() + " " + address.getCity().getName() + " " + address.getPostalCode().getName();
     }
 
-    public Address mapToAddress(String addressStr) {
-        String[] addressArr = addressStr.split(" ");
-        Country country = new Country(addressArr.length > 0 ? addressArr[0] : "");
-        State state = new State(addressArr.length > 1 ? addressArr[1] : "", country);
-        City city = new City(addressArr.length > 2 ? addressArr[2] : "", state);
-        PostalCode postalCode = new PostalCode(addressArr.length > 3 ? addressArr[3] : "", city);
+    public Address mapToAddress(List<String> addressStr) {
+        Country country = new Country(addressStr.size() > 0 ? addressStr.get(0) : "");
+        State state = new State(addressStr.size() > 1 ? addressStr.get(1) : "", country);
+        City city = new City(addressStr.size() > 2 ? addressStr.get(2) : "", state);
+        PostalCode postalCode = new PostalCode(addressStr.size() > 3 ? addressStr.get(3) : "", city);
         return new Address(country, state, city, postalCode);
     }
 }
