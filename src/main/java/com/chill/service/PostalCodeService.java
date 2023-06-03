@@ -1,4 +1,3 @@
-
 package com.chill.service;
 
 import com.chill.entity.PostalCode;
@@ -26,7 +25,9 @@ public class PostalCodeService {
     }
 
     public PostalCode getPostalCodeByName(String name) {
-        return postalCodeRepository.findByName(name).orElseThrow(() -> new PostalCodeNotFoundException(name));
+        return postalCodeRepository
+                .findByName(name)
+                .orElseThrow(() -> new PostalCodeNotFoundException(name));
     }
 
     public void createPostalCode(PostalCode postalCode) {

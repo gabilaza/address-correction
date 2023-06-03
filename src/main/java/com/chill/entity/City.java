@@ -39,7 +39,6 @@ public class City {
         this.postalCodes.add(postalCode);
     }
 
-
     @Override
     public boolean equals(Object obj) {
         if (obj == null || !(obj instanceof City)) {
