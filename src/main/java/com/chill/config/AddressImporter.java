@@ -43,7 +43,6 @@ class AddressImporter implements ApplicationRunner {
             List<Country> countries = csvMapper.mapToCountry(reader);
 
             for(Country country : countries) {
-                logs.info(country.getName());
                 countryService.createCountry(country);
             }
         }

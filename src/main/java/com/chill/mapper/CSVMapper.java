@@ -4,10 +4,6 @@ import com.chill.entity.Country;
 import com.chill.entity.State;
 import com.chill.entity.City;
 import com.chill.entity.PostalCode;
-import com.chill.service.CountryService;
-import com.chill.service.StateService;
-import com.chill.service.CityService;
-import com.chill.service.PostalCodeService;
 
 import lombok.RequiredArgsConstructor;
 
@@ -36,14 +32,6 @@ public final class CSVMapper {
                     .setHeader(AddressHeaders.class)
                     .setSkipHeaderRecord(true)
                     .build();
-
-    private final CountryService countryService;
-
-    private final StateService stateService;
-
-    private final CityService cityService;
-
-    private final PostalCodeService postalCodeService;
 
     public List<Country> mapToCountry(Reader csvReader) {
         List<Country> countries = new LinkedList<>();
