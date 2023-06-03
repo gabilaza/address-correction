@@ -8,16 +8,16 @@ import lombok.RequiredArgsConstructor;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
-import org.springframework.beans.factory.annotation.Value;
 
-import java.nio.file.Paths;
-import java.nio.file.Path;
-import java.nio.file.Files;
-import java.io.Reader;
 import java.io.IOException;
+import java.io.Reader;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 
 @Component
@@ -42,8 +42,7 @@ class AddressImporter implements ApplicationRunner {
         try (Reader reader = Files.newBufferedReader(csvPath)) {
             List<Country> countries = csvMapper.mapToCountry(reader);
 
-            for(Country country : countries) {
-                logs.info(country.getName());
+            for (Country country : countries) {
                 countryService.createCountry(country);
             }
         }
