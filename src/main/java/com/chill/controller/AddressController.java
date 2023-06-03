@@ -15,6 +15,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController
 @RequestMapping(path = "/api/v1/address")
 @RequiredArgsConstructor
@@ -28,7 +30,8 @@ public class AddressController {
     @Operation(tags = {"Address"})
     public AddressResponse getCorrectAddress(@Valid @RequestBody AddressRequest addressRequest) {
         Address address = addressMapper.mapToAddress(addressRequest);
-        Address correctAddress = addressService.correctAddress(address);
+        List<String> suggestionList = addressService.normalizeAddress(address);
+        Address correctAddress = addressService.correctAddress(suggestionList);
         return addressMapper.mapToAddressResponse(correctAddress);
     }
 }
