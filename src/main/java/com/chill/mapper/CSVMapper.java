@@ -31,7 +31,7 @@ public final class CSVMapper {
         COUNTRY, POSTAL_CODE, CITY, STATE
     }
 
-    private final CSVFormat csvFomat = CSVFormat.DEFAULT
+    private final CSVFormat csvFormat = CSVFormat.DEFAULT
                     .builder()
                     .setHeader(AddressHeaders.class)
                     .setSkipHeaderRecord(true)
@@ -53,7 +53,7 @@ public final class CSVMapper {
         PostalCode postalCode = null;
 
         try {
-            Iterable<CSVRecord> records = csvFomat.parse(csvReader);
+            Iterable<CSVRecord> records = csvFormat.parse(csvReader);
 
             for(CSVRecord record : records) {
                 String countryName = record.get(AddressHeaders.COUNTRY);
