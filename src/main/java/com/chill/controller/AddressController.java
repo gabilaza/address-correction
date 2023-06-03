@@ -5,14 +5,17 @@ import com.chill.mapper.AddressMapper;
 import com.chill.payload.request.AddressRequest;
 import com.chill.payload.response.AddressResponse;
 import com.chill.service.AddressService;
+
 import io.swagger.v3.oas.annotations.Operation;
+
 import jakarta.validation.Valid;
+
 import lombok.RequiredArgsConstructor;
+
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
 
 @RestController
 @RequestMapping(path = "/api/v1/address")
@@ -31,5 +34,4 @@ public class AddressController {
         Address correctAddress = addressService.correctAddress(suggestionList);
         return addressMapper.mapToAddressResponse(correctAddress);
     }
-
 }

@@ -9,4 +9,3 @@ public class CorrectAnAddressApplication {
         SpringApplication.run(CorrectAnAddressApplication.class, args);
     }
 }
-

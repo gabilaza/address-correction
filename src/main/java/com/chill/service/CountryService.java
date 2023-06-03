@@ -25,7 +25,9 @@ public class CountryService {
     }
 
     public Country getCountryByName(String name) {
-        return countryRepository.findByName(name).orElseThrow(() -> new CountryNotFoundException(name));
+        return countryRepository
+                .findByName(name)
+                .orElseThrow(() -> new CountryNotFoundException(name));
     }
 
     public void createCountry(Country country) {
