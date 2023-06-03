@@ -14,28 +14,19 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Spellchecker {
-
     private final int suggestionsNumber;
 
     private final float accuracy;
 
-    private final org.apache.lucene.search.spell.SpellChecker spellChecker;
+    private final SpellChecker spellChecker;
 
-    public Spellchecker(String dictionaryPath, String dictionaryWorkDir, int suggestionsNumber, float accuracy) {
-        try {
-            FSDirectory dir = FSDirectory.open(Paths.get(dictionaryWorkDir));
-            File dictionary = new File(dictionaryPath);
-            spellChecker = new SpellChecker(dir);
-            this.suggestionsNumber = suggestionsNumber;
-            this.accuracy = accuracy;
-            try {
-                spellChecker.indexDictionary(new PlainTextDictionary(dictionary.toPath()), new IndexWriterConfig(new StandardAnalyzer()), true);
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public Spellchecker(String dictionaryPath, String dictionaryWorkDir, int suggestionsNumber, float accuracy) throws IOException {
+        FSDirectory dir = FSDirectory.open(Paths.get(dictionaryWorkDir));
+        File dictionary = new File(dictionaryPath);
+        spellChecker = new SpellChecker(dir);
+        this.suggestionsNumber = suggestionsNumber;
+        this.accuracy = accuracy;
+        spellChecker.indexDictionary(new PlainTextDictionary(dictionary.toPath()), new IndexWriterConfig(new StandardAnalyzer()), true);
     }
 
     public String normalize(String word) {
