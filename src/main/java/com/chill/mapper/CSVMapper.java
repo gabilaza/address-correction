@@ -65,7 +65,7 @@ public final class CSVMapper {
                     city = new City(cityName, state);
                     state.addCity(city);
                 }
-                if (postalCode == null || postalCodeStr.equals(postalCode.getName())) {
+                if (postalCode == null || !postalCodeStr.equals(postalCode.getName())) {
                     postalCode = new PostalCode(postalCodeStr, city);
                     city.addPostalCode(postalCode);
                 }

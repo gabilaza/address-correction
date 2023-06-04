@@ -9,15 +9,19 @@ import java.util.Set;
 @Data
 public class Chain<T> implements Comparable<Chain<T>> {
     private int score;
+
+    private int factorScore;
+
     private List<T> chain;
 
     public Chain() {
         this.score = 0;
+        this.factorScore = 0;
         this.chain = new LinkedList<>();
     }
 
     private void incScore() {
-        this.score += 1;
+        this.score += this.factorScore;
     }
 
     public void addVertex(T vertex) {
@@ -25,10 +29,12 @@ public class Chain<T> implements Comparable<Chain<T>> {
     }
 
     public void computeScore(Set<T> vertices) {
+        this.factorScore = this.chain.size();
         for (T vertex : this.chain) {
             if (vertices.contains(vertex)) {
                 incScore();
             }
+            this.factorScore -= 1;
         }
     }
 
