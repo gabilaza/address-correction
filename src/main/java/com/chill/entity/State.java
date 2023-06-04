@@ -1,5 +1,7 @@
 package com.chill.entity;
 
+import com.chill.graph.Vertex;
+
 import jakarta.persistence.*;
 
 import lombok.Getter;
@@ -14,7 +16,7 @@ import java.util.Set;
 @NoArgsConstructor
 @Entity
 @Table(name = "states")
-public class State {
+public class State implements Vertex<String> {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
@@ -47,5 +49,31 @@ public class State {
 
         State other = (State) obj;
         return this.name.equals(other.name);
+    }
+
+    @Override
+    public String element() {
+        return this.name;
+    }
+
+    @Override
+    public Vertex<String> getParent() {
+        return this.country;
+    }
+
+    @Override
+    public Iterable<Vertex<String>> getChildren() {
+        return this.cities.stream().map(c -> (Vertex<String>)c).toList();
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder str = new StringBuilder();
+
+        str.append("State(name=");
+        str.append(this.name);
+        str.append(")");
+
+        return str.toString();
     }
 }
