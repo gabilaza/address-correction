@@ -33,11 +33,10 @@ public class PostalCode implements Vertex<String> {
 
     @Override
     public boolean equals(Object obj) {
-        if (obj == null || !(obj instanceof PostalCode)) {
+        if (!(obj instanceof PostalCode other)) {
             return false;
         }
 
-        PostalCode other = (PostalCode) obj;
         return this.name.equals(other.name);
     }
 
@@ -58,12 +57,6 @@ public class PostalCode implements Vertex<String> {
 
     @Override
     public String toString() {
-        StringBuilder str = new StringBuilder();
-
-        str.append("PostalCode(name=");
-        str.append(this.name);
-        str.append(")");
-
-        return str.toString();
+        return "PostalCode(name=" + this.name + ")";
     }
 }

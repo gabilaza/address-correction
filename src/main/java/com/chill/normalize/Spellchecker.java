@@ -20,13 +20,18 @@ public class Spellchecker {
 
     private final SpellChecker spellChecker;
 
-    public Spellchecker(String dictionaryPath, String dictionaryWorkDir, int suggestionsNumber, float accuracy) throws IOException {
+    public Spellchecker(
+            String dictionaryPath, String dictionaryWorkDir, int suggestionsNumber, float accuracy)
+            throws IOException {
         FSDirectory dir = FSDirectory.open(Paths.get(dictionaryWorkDir));
         File dictionary = new File(dictionaryPath);
         spellChecker = new SpellChecker(dir);
         this.suggestionsNumber = suggestionsNumber;
         this.accuracy = accuracy;
-        spellChecker.indexDictionary(new PlainTextDictionary(dictionary.toPath()), new IndexWriterConfig(new StandardAnalyzer()), true);
+        spellChecker.indexDictionary(
+                new PlainTextDictionary(dictionary.toPath()),
+                new IndexWriterConfig(new StandardAnalyzer()),
+                true);
     }
 
     public String normalize(String word) {
@@ -42,7 +47,8 @@ public class Spellchecker {
                 if (spellChecker.exist(word) || word.matches("\\d+")) {
                     suggestions.add(word);
                 } else {
-                    String[] rawSuggestions = spellChecker.suggestSimilar(word, suggestionsNumber, accuracy);
+                    String[] rawSuggestions =
+                            spellChecker.suggestSimilar(word, suggestionsNumber, accuracy);
                     suggestions.addAll(List.of(rawSuggestions));
                 }
             } catch (IOException e) {

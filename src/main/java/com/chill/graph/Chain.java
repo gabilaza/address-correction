@@ -2,8 +2,8 @@ package com.chill.graph;
 
 import lombok.Data;
 
-import java.util.List;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Set;
 
 @Data
@@ -40,6 +40,6 @@ public class Chain<T> implements Comparable<Chain<T>> {
 
     @Override
     public int compareTo(Chain<T> other) {
-        return this.score > other.score? -1 : this.score < other.score? 1 : 0;
+        return Integer.compare(other.score, this.score);
     }
 }

@@ -61,6 +61,7 @@ public class CountryService {
         if (id != null) {
             return countryRepository.existsById(id);
         }
+
         return Boolean.FALSE;
     }
 
@@ -68,6 +69,7 @@ public class CountryService {
         if (name != null) {
             return countryRepository.existsByName(name);
         }
+
         return Boolean.FALSE;
     }
 }

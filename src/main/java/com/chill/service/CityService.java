@@ -59,6 +59,7 @@ public class CityService {
         if (id != null) {
             return cityRepository.existsById(id);
         }
+
         return Boolean.FALSE;
     }
 
@@ -66,6 +67,7 @@ public class CityService {
         if (name != null) {
             return cityRepository.existsByName(name);
         }
+
         return Boolean.FALSE;
     }
 }

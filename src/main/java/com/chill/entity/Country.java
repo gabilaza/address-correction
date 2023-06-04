@@ -38,11 +38,10 @@ public class Country implements Vertex<String> {
 
     @Override
     public boolean equals(Object obj) {
-        if (obj == null || !(obj instanceof Country)) {
+        if (!(obj instanceof Country other)) {
             return false;
         }
 
-        Country other = (Country) obj;
         return this.name.equals(other.name);
     }
 
@@ -58,17 +57,11 @@ public class Country implements Vertex<String> {
 
     @Override
     public Iterable<Vertex<String>> getChildren() {
-        return this.states.stream().map(s -> (Vertex<String>)s).toList();
+        return this.states.stream().map(s -> (Vertex<String>) s).toList();
     }
 
     @Override
     public String toString() {
-        StringBuilder str = new StringBuilder();
-
-        str.append("Country(name=");
-        str.append(this.name);
-        str.append(")");
-
-        return str.toString();
+        return "Country(name=" + this.name + ")";
     }
 }
