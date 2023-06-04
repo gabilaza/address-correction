@@ -39,7 +39,9 @@ public class Spellchecker {
         while (tokenizer.hasMoreTokens()) {
             String word = tokenizer.nextToken();
             try {
-                if (!spellChecker.exist(word)) {
+                if (spellChecker.exist(word) || word.matches("\\d+")) {
+                    suggestions.add(word);
+                } else {
                     String[] rawSuggestions = spellChecker.suggestSimilar(word, suggestionsNumber, accuracy);
                     suggestions.addAll(List.of(rawSuggestions));
                 }
