@@ -59,6 +59,7 @@ public class StateService {
         if (id != null) {
             return stateRepository.existsById(id);
         }
+
         return Boolean.FALSE;
     }
 
@@ -66,6 +67,7 @@ public class StateService {
         if (name != null) {
             return stateRepository.existsByName(name);
         }
+
         return Boolean.FALSE;
     }
 }

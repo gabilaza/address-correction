@@ -61,6 +61,7 @@ public class PostalCodeService {
         if (id != null) {
             return postalCodeRepository.existsById(id);
         }
+
         return Boolean.FALSE;
     }
 
@@ -68,6 +69,7 @@ public class PostalCodeService {
         if (name != null) {
             return postalCodeRepository.existsByName(name);
         }
+
         return Boolean.FALSE;
     }
 }

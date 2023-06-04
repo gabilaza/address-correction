@@ -43,11 +43,10 @@ public class City implements Vertex<String> {
 
     @Override
     public boolean equals(Object obj) {
-        if (obj == null || !(obj instanceof City)) {
+        if (!(obj instanceof City other)) {
             return false;
         }
 
-        City other = (City) obj;
         return this.name.equals(other.name);
     }
 
@@ -63,17 +62,11 @@ public class City implements Vertex<String> {
 
     @Override
     public Iterable<Vertex<String>> getChildren() {
-        return this.postalCodes.stream().map(pc -> (Vertex<String>)pc).toList();
+        return this.postalCodes.stream().map(pc -> (Vertex<String>) pc).toList();
     }
 
     @Override
     public String toString() {
-        StringBuilder str = new StringBuilder();
-
-        str.append("City(name=");
-        str.append(this.name);
-        str.append(")");
-
-        return str.toString();
+        return "City(name=" + this.name + ")";
     }
 }

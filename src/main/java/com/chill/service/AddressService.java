@@ -1,25 +1,26 @@
 package com.chill.service;
 
 import com.chill.entity.Address;
-import com.chill.graph.Vertex;
 import com.chill.graph.Chain;
-
+import com.chill.graph.TreeAddress;
+import com.chill.graph.Vertex;
 import com.chill.mapper.AddressMapper;
 import com.chill.normalize.Spellchecker;
-import com.chill.graph.TreeAddress;
+
 import lombok.RequiredArgsConstructor;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
-import java.util.LinkedList;
-import java.util.Set;
-import java.util.HashSet;
-import java.util.Collections;
-import java.util.Stack;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Set;
+import java.util.Stack;
 
 @Service
 @RequiredArgsConstructor
@@ -43,8 +44,7 @@ public class AddressService {
             List<Vertex<String>> suggestionVertices = treeAddress.getVerticesByString(suggestion);
             if (suggestionVertices == null) {
                 logs.error("This suggestion not found in Tree: " + suggestion);
-            }
-            else {
+            } else {
                 vertices.addAll(suggestionVertices);
                 for (Vertex<String> vertex : suggestionVertices) {
                     chains.add(treeAddress.getChainFromVertexToRoot(vertex));
@@ -58,8 +58,10 @@ public class AddressService {
 
         Collections.sort(chains);
 
-        if (chains.isEmpty())
+        if (chains.isEmpty()) {
             return new Address();
+        }
+
         return addressMapper.mapToAddress(chains.get(0));
     }
 
@@ -75,10 +77,15 @@ public class AddressService {
         for (int concatTimes = 1; concatTimes <= maxConcatTimes; concatTimes++) {
             generatePermutations(suggestions, concatTimes, new Stack<>(), resultList);
         }
+
         return resultList;
     }
 
-    private void generatePermutations(List<String> suggestions, int concatTimes, Stack<String> current, List<String> resultList) {
+    private void generatePermutations(
+            List<String> suggestions,
+            int concatTimes,
+            Stack<String> current,
+            List<String> resultList) {
         if (current.size() == concatTimes) {
             String concatenatedWord = String.join(" ", current);
             if (treeAddress.existsVertexInTree(concatenatedWord)) {
