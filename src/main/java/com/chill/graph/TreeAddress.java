@@ -45,6 +45,13 @@ public class TreeAddress {
         return this.verticesMap.get(string);
     }
 
+    public boolean existsVertexInTree(String string) {
+        if (this.currentTreeState != TreeState.READY)
+            throw new IllegalStateException("Cannot run existsVertexInTree() in state " + this.currentTreeState);
+
+        return this.verticesMap.containsKey(string);
+    }
+
     public Chain<Vertex<String>> getChainFromVertexToRoot(Vertex<String> vertex) {
         if (this.currentTreeState != TreeState.READY)
             throw new IllegalStateException("Cannot run getChainFromVertexToRoot() in state " + this.currentTreeState);
