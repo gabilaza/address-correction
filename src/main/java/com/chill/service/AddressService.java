@@ -10,13 +10,16 @@ import com.chill.graph.TreeAddress;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.LinkedList;
 import java.util.Set;
-import java.util.Collections;
 import java.util.HashSet;
+import java.util.Collections;
+import java.util.Stack;
+import java.util.ArrayList;
 
 @Service
 @RequiredArgsConstructor
@@ -28,6 +31,9 @@ public class AddressService {
     private final Spellchecker spellchecker;
 
     private final TreeAddress treeAddress;
+
+    @Value("${app.normalize.suggestion.maxConcatTimes}")
+    private int maxConcatTimes;
 
     public Address correctAddress(List<String> suggestionList) {
         List<Chain<Vertex<String>>> chains = new LinkedList<>();
@@ -61,6 +67,29 @@ public class AddressService {
         String addressStr = addressMapper.mapToString(address);
         addressStr = spellchecker.normalize(addressStr);
 
-        return spellchecker.spellcheck(addressStr);
+        return provideSuggestions(spellchecker.spellcheck(addressStr));
+    }
+
+    public List<String> provideSuggestions(List<String> suggestions) {
+        List<String> resultList = new ArrayList<>();
+        for (int concatTimes = 1; concatTimes <= maxConcatTimes; concatTimes++) {
+            generatePermutations(suggestions, concatTimes, new Stack<>(), resultList);
+        }
+        return resultList;
+    }
+
+    private void generatePermutations(List<String> suggestions, int concatTimes, Stack<String> current, List<String> resultList) {
+        if (current.size() == concatTimes) {
+            String concatenatedWord = String.join(" ", current);
+            if (treeAddress.existsVertexInTree(concatenatedWord)) {
+                resultList.add(concatenatedWord);
+            }
+        } else {
+            for (int i = 0; i < suggestions.size(); i++) {
+                current.push(suggestions.get(i));
+                generatePermutations(suggestions, concatTimes, current, resultList);
+                current.pop();
+            }
+        }
     }
 }

@@ -1,50 +1,57 @@
-Alba
-Arad
-Argeş
-Bacău
-Bihor
-Bistriţa-Năsăud
-Botoşani
-Brăila
-Braşov
-Bucureşti
-Buzău
-Călăraşi
-Caraş-Severin
-Cluj
-Constanţa
-Covasna
-Dâmboviţa
-Dolj
-Galaţi
-Giurgiu
-Gorj
-Harghita
-Hunedoara
-Ialomiţa
-Iaşi
-Ilfov
-Maramureş
-Mehedinţi
-Mureş
-Neamţ
-Olt
-Prahova
-Sălaj
-Satu Mare
-Sibiu
-Suceava
-Teleorman
-Timiş
-Tulcea
-Vâlcea
-Vaslui
-Vrancea
-România
+1
+10
+11
+12
+15
+16
+17
+18
+19
+2
+20
+22
+23
+24
+26
+28
+30
+32
+35
+37
+38
+39
+4
+49
+5
+51
+52
+53
+56
+60
+61
+63
+66
+68
+69
+7
+70
+71
+72
+74
+75
+76
+77
+8
+80
+82
+86
+9
 Abram
 Abrămuţ
 Abrud
 Abrud-Sat
+Abrudului
+Abruzel
 Abucea
 Abud
 Abuş
@@ -59,22 +66,23 @@ Acriş
 Adalin
 Adam
 Adamclisi
+(Adămuş)
 Adămuş
 Adânca
+Adâncă
 Adâncata
 Adăşeni
 Adea
 Adjud
 Adjudeni
-Adjudu Vechi
+Adjudu
 Adoni
 Adrian
-Adrianu Mare
-Adrianu Mic
+Adrianu
 Adunaţi
+Adunaţii
 Adunaţii-Copăceni
-Adunaţii Teiului
-Ady Endre
+Ady
 Afânata
 Afrimeşti
 Afumaţi
@@ -97,31 +105,27 @@ Agrieşel
 Agrij
 Agriş
 Agrişteu
-Agrişu de Jos
-Agrişu de Sus
-Agrişu Mare
-Agrişu Mic
-Aita Mare
-Aita Medie
-Aita Seacă
+Agrişu
+Agrişului
+Aita
 Aiton
 Aiud
-Aiudul de Sus
+Aiudul
+Aiudului
 Alămor
+Alb
 Alba
+Albă
+(Albac)
 Albac
-Alba Iulia
 Albele
 Albeni
+(Albeşti)
 Albeşti
-Albeşti (Deleşti)
-Albeştii Bistriţei
-Albeştii de Argeş
-Albeştii de Muscel
-Albeştii Pământeni
-Albeştii Ungureni
+Albeştii
 Albeşti-Muru
 Albeşti-Paleologu
+Albeştiului
 Albi
 Albina
 Albinari
@@ -131,17 +135,18 @@ Albota
 Albotele
 Albuleşti
 Aldea
+Aldei
 Aldeni
 Aldeşti
+Alecsandri
 Alecuş
 Aleşd
 Aleuş
+Alexa
 Alexandria
 Alexandriţa
-Alexandru cel Bun
-Alexandru I. Cuza
-Alexandru Odobescu
-Alexandru Vlahuţă
+(Alexandru
+Alexandru
 Alexeni
 Alexeşti
 Aliceni
@@ -158,84 +163,88 @@ Almaş
 Almăşel
 Almaş-Sălişte
 Almaşu
-Almaşu de Mijloc
-Almaşu Mare
-Almaşu Mic
-Almaşu Mic (Balc)
-Almaşu Mic de Munte
-Almaşu Mic (Sârbi)
-Almaşu Sec
-Alma Vii
+Almaşului
 Alparea
+Altân
 Alţina
 Altringen
-Alun (Boşorod)
-Alun (Bunila)
+Alun
 Alungeni
 Aluniş
 Alunişu
-Alunişu (Băiculeşti)
-Alunişu (Brăduleţ)
 Alunişul
+Alunişului
+(Alunu)
 Alunu
 Amara
-Amara Nouă
+Amaradia
 Amărăşti
-Amărăştii de Jos
-Amărăştii de Sus
+Amărăştii
+(Amaru)
 Amaru
 Amaţi
 Ambud
 Amnaş
 Ampoiţa
+Ampoiţei
+Ampoiului
 Amzacea
+Ana
+Ana)
+Ancuţei
 Andici
 Andrăşeşti
 Andreeni
 Andreeşti
-Andreiaşu de Jos
-Andreiaşu de Sus
+Andrei
+Andreiaşu
 Andreieşti
-Andrei Şaguna
 Andreneasa
 Andrid
+(Andrieşeni)
 Andrieşeni
+Anei
+Aneştilor
 Angheleşti
 Angheluş
 Anghineşti
 Angofa
 Anieş
+Anilor
 Anina
 Anini
-Aninişu din Deal
-Aninişu din Vale
+Aninişu
+(Aninoasa)
 Aninoasa
 Aninoşani
 Ant
+Antaloc
 Antăş
 Antoceni
 Antofiloaia
 Antoheşti
 Antoneşti
 Apa
-Apa Asău
+Apă
 Apadia
 Apahida
 Apalina
-Apa Neagră
 Apaţa
 Apateu
 Apatiu
-Apele Vii
+Apei
+Apele
+(Apold)
 Apold
-Apoldu de Jos
-Apoldu de Sus
+Apoldu
 Apoş
 Apostolache
+Apostoli
 Aprozi
 Araci
 Arad
 Arama
+Aramă
 Arămeşti
 Arămoaia
 Arăneag
@@ -257,6 +266,7 @@ Archiud
 Arcuş
 Ardan
 Ardealu
+Ardelean
 Ardeluţa
 Ardeoani
 Ardeova
@@ -268,6 +278,8 @@ Arduzel
 Arefu
 Argea
 Argel
+Argeş
+Argeş)
 Argeşani
 Argeşelu
 Argestru
@@ -275,23 +287,26 @@ Argetoaia
 Arghira
 Arghişu
 Argineşti
-Ariceştii Rahtivani
-Ariceştii Zeletin
+Argovei
+(Ariceştii
+Ariceştii
 Aricioaia
 Ariciu
+Arieş
+(Arieşeni)
 Arieşeni
-Arieşu de Câmp
-Arieşu de Pădure
+Arieşu
+Arieşului
+Arin
 Arini
+Arinilor
 Ariniş
-Arioneştii Noi
-Arioneştii Vechi
+Arioneştii
 Ariuşd
 Arjoci
+Armanului
 Armăşeni
-Armăşeni (Băceşti)
-Armăşeni (Buneşti-Avereşti)
-Armăşenii Noi
+Armăşenii
 Armăşeşti
 Armăşoaia
 Armeni
@@ -300,12 +315,14 @@ Aroneanu
 Aroneşti
 Arpadia
 Arpăşel
-Arpaşu de Jos
-Arpaşu de Sus
+Arpaşu
 Arsa
+Arsă
 Arsanca
 Arşeni
 Arşiţa
+Arsului
+(Arsura)
 Arsura
 Arsuri
 Artanu
@@ -318,13 +335,10 @@ Arvăţeni
 Arvăteşti
 Asău
 Aşchileu
-Aşchileu Mare
-Aşchileu Mic
 Asinip
 Aspra
 Aştileu
-Asuaju de Jos
-Asuaju de Sus
+Asuaju
 Atea
 Ateaş
 Aţel
@@ -333,37 +347,40 @@ Atid
 Aţintiş
 Atmagea
 Augustin
-Aurel Vlaicu
+Aurel
 Aureşti
+Aurit
 Aurora
 Auşeu
 Avântu
 Avereşti
+(Avram
+Avram
+(Avrămeni)
 Avrămeni
 Avrămeşti
-Avrămeşti (Arieşeni)
-Avrămeşti (Avram Iancu)
-Avram Iancu
-Avram Iancu (Cermei)
-Avram Iancu (Vârfurile)
 Avrig
-Axente Sever
+Axente
 Axintele
 Azuga
+(Baba
 Baba
-Baba Ana
 Babadag
+(Băbăiţa)
 Băbăiţa
+Baban
 Băbana
-Baba Novac
 Babaroaga
 Băbăşeşti
 Băbdiu
+Babei
+(Băbeni)
 Băbeni
 Băbeni-Olteţu
 Băbeşti
 Băbiceni
 Băbiciu
+Babii
 Băbiu
 Babşa
 Babţa
@@ -377,14 +394,15 @@ Băcăleşti
 Băcani
 Băcăoani
 Bacău
-Bacău de Mijloc
 Bacea
 Băcel
 Băceni
+(Băceşti)
 Băceşti
 Băcia
 Băcioiu
 Baciu
+Baciului
 Bâcleş
 Bâcleşti
 Bacova
@@ -394,12 +412,13 @@ Bădăi
 Bădărăi
 Bădeana
 Bădeni
+Bădenilor
 Bădeşti
-Bădeşti (Bârla)
-Bădeşti (Pietroşani)
 Bădeuţi
 Bădicea
+Bădicului
 Bădila
+Bâdiliţei
 Bădislava
 Bădiţeşti
 Bădiuţi
@@ -414,58 +433,44 @@ Băgara
 Băgău
 Bâgeşti
 Bahluiu
+(Bahna)
 Bahna
-Bahna Arin
-Bahna Mare
 Bahnari
 Băhnăşeni
+(Bahnea)
 Bahnea
 Bahnele
 Băhnişoara
 Băi
+(Baia
 Baia
-Baia de Aramă
-Baia de Arieş
-Baia de Criş
-Baia de Fier
-Baia Mare
-Baia Nouă
 Băiaşa
-Baia Sprie
 Băiaşu
 Baica
 Băiceni
-Băiceni (Cucuteni)
-Băiceni (Todireşti)
 Băicoi
+(Băiculeşti)
 Băiculeşti
 Băieşti
+Băii
 Băila
 Băile
-Băile 1 Mai
-Băile Borşa
-Băile Chirui
-Băile Drânceni
-Băile Felix
-Băile Govora
-Băile Herculane
-Băile Homorod
-Băile Olăneşti
 Băileşti
-Băile Tuşnad
 Băimac
 Baineţ
 Baisa
 Băişeşti
 Băişoara
+Băişorii
+(Băiţa)
 Băiţa
-Băiţa de sub Codru
 Băiţa-Plai
 Băiuţ
 Băjăneşti
 Băjani
 Băjenari
 Băjeşti
+Bajului
 Bajura
 Bala
 Băla
@@ -479,28 +484,28 @@ Bălăceşti
 Balaci
 Bălăciţa
 Balaciu
-Bala de Sus
 Bălaia
 Bălan
 Bălăneasa
 Bălăneşti
-Bălăneşti (Dealu Morii)
-Bălăneşti (Podu Turcului)
 Bălani
 Bălanu
 Balasan
 Bălăşeşti
 Bălata
 Bălăuşeri
+(Balc)
 Balc
 Bâlc
 Bâlca
 Bălcaciu
 Balcani
 Bălcăuţi
+Bălcească
+Bălcescu
+Bălcescu)
+(Bălceşti)
 Bălceşti
-Bălceşti (Beliş)
-Bălceşti (Căpuşu Mare)
 Balciu
 Balda
 Bâldana
@@ -513,8 +518,8 @@ Băleni-Sârbi
 Băleşti
 Băleşti-Cătun
 Bâlhacu
+(Bălileşti)
 Bălileşti
-Bălileşti (Tigveni)
 Bălineşti
 Balinţ
 Balinteşti
@@ -524,68 +529,63 @@ Bălnaca
 Bălnaca-Groşi
 Balomir
 Balomireasa
-Balomiru de Câmp
+Balomiru
 Baloşani
 Baloşeşti
 Balota
-Balota de Jos
-Balota de Sus
 Baloteasca
 Baloteşti
+(Balş)
 Balş
+(Balşa)
 Balşa
 Bălşoara
 Balta
+Baltă
 Bâlta
-Balta Albă
-Balta Arsă
-Balta Doamnei
 Băltăgari
 Băltăgeşti
-Balta Neagră
-Bâltanele (Greci)
-Bâltanele (Prunişor)
-Balta Raţei
+Bâltanele
 Băltăreţi
-Balta Sărată
 Bălţata
 Băltăţeni
 Bălţăţeni
 Bălţăteşti
 Bălţaţi
-Balta Tocila
-Balta Verde
 Bălteni
 Bâlteni
 Bălteni-Deal
-Băltenii de Jos
-Băltenii de Sus
+Băltenii
 Bălţeşti
 Bâltişoara
 Băltiţa
 Băluşa
 Băluşeni
-Băluşenii Noi
+Băluşenii
 Băluşeşti
-Băluşeşti (Dochia)
-Băluşeşti (Icuşeşti)
 Băluţa
 Băluţoaia
 Bâlvăneşti
-Bâlvăneştii de Jos
+Bâlvăneştii
 Ban
 Bănăreşti
+(Banca)
 Banca
 Bănceşti
 Bancu
+Bancului
+(Band)
 Band
 Băndoiu
+Bandului
+(Băneasa)
 Băneasa
 Băneşti
 Bănia
 Băniceşti
 Bănişor
 Baniţa
+(Băniţa)
 Băniţa
 Baniu
 Banloc
@@ -594,7 +594,9 @@ Banpotoc
 Bântău
 Bănţeşti
 Banu
+Banului
 Bara
+(Bâra)
 Bâra
 Bărăbanţ
 Bărăceni
@@ -603,29 +605,27 @@ Bărăganul
 Bărăi
 Bârâiacu
 Bărăitaru
-Baraj Leşu
-Baranca (Cristineşti)
-Baranca (Hudeşti)
+Baraj
+Baranca
 Bărăneşti
 Băranu
 Baraolt
+(Bărăşti)
 Bărăşti
-Bărăşti (Coloneşti)
-Bărăştii de Cepturi
-Bărăştii de Vede
-Bărăştii Haţegului
-Bărăştii Iliei
-Bărăşti (Morunglav)
+Bărăştii
 Baratca
 Baraţca
 Baraţcoş
 Bărăteaz
 Baraţi
+Barbă
 Bărbălăi
 Bărbălani
 Bărbălăteşti
 Bărbărigeni
+Bărbat
 Bărbătescu
+(Bărbăteşti)
 Bărbăteşti
 Bărbeşti
 Bărboasa
@@ -637,6 +637,7 @@ Bărbuceanu
 Bărbuceni
 Bărbuleşti
 Bărbuleţu
+Bărbuleţului
 Bărbunceşti
 Barbura
 Bârca
@@ -645,50 +646,45 @@ Barcana
 Barcanele
 Bărcăneşti
 Barcani
+Barcău
 Barcea
-Bârcea Mare
-Bârcea Mică
+Bârcea
 Bărcut
 Bârda
 Bărdeşti
 Bârdeşti
 Bârgău
 Bârgăuani
+Bârgăului
 Bârghiş
 Bârjoveni
+(Bârla)
 Bârla
 Bârlad
 Bârlăleşti
 Bârlea
 Bârleşti
-Bârleşti (Bistra)
 Bârleşti-Cătun
-Bârleşti (Mogoş)
-Bârleşti (Scărişoara)
 Bârlibaş
 Bârlibăşoaia
 Bârlogeni
 Bârlogu
 Bârloi
+Bârluţeşti
 Barna
 Bârna
 Bârnadu
 Bărneşti
+Barnii
 Bârnova
 Băroiu
 Bârsa
 Bârsana
 Bârsăneşti
 Bârsău
-Bârsău de Jos
-Bârsău de Sus
-Bârsău Mare
 Bârsăuţa
 Bârseşti
-Bârseşti (Budeşti)
-Bârseştii de Jos
-Bârseştii de Sus
-Bârseşti (Mihăeşti)
+Bârseştii
 Bârsoiu
 Bărtăluş-Mocani
 Bărtăluş-Răzeşi
@@ -701,18 +697,17 @@ Bârza
 Bârzan
 Bârzava
 Bârzeiu
-Bârzeiu de Gilort
 Bârzeşti
+Bârzii
 Bărzila
 Bârzogani
 Bârzuleşti
 Basarabasa
 Basarabi
 Băsăşti
-Bâsca Chiojdului
-Bâsca Rozilei
-Bâscenii de Jos
-Bâscenii de Sus
+Bâsca
+Bâscei
+Bâscenii
 Bascov
 Başcov
 Bascovele
@@ -726,8 +721,7 @@ Baţa
 Băţălar
 Bataluri
 Băţani
-Băţanii Mari
-Băţanii Mici
+Băţanii
 Batăr
 Bătarci
 Bătăreni
@@ -741,6 +735,7 @@ Batiz
 Batogu
 Batoş
 Batoţi
+Bătrân
 Bătrâna
 Bătrâneşti
 Bătrâni
@@ -753,38 +748,40 @@ Bazga
 Baziaş
 Bazna
 Bazoş
-Bazoşu Nou
-Beba Veche
+Bazoşu
+Beba
 Becaş
+(Beceni)
 Beceni
 Becheni
 Bechet
-Bechet (Orodel)
 Bechineşti
-Becicherecu Mic
+Becicherecu
 Beciu
+Beciului
 Beclean
 Becşani
 Beculeşti
 Bedeciu
 Bedeni
-Begheiu Mic
+Begheiu
 Begu
 Beharca
 Beia
-Beica de Jos
-Beica de Sus
+Beica
 Beidaud
 Beilic
 Beiu
 Beiuş
 Beiuşele
+Beiuşului
 Bejan
 Bejan-Târnăviţa
 Bejeneşti
 Bela
 Belani
 Belcea
+(Belceşti)
 Belceşti
 Belcinu
 Belciug
@@ -798,9 +795,11 @@ Beleţi
 Beleţi-Negreşti
 Belfir
 Belgun
+Beliei
 Belin
 Belinţ
 Belin-Vale
+(Beliş)
 Beliş
 Beliu
 Belobreşca
@@ -808,8 +807,8 @@ Beloţ
 Belotinţ
 Beltiug
 Belzeni
-Bencecu de Jos
-Bencecu de Sus
+Bencecu
+Benei
 Benesat
 Beneşti
 Bengeşti
@@ -818,12 +817,14 @@ Benia
 Benic
 Benţid
 Bentu
+(Berbeşti)
 Berbeşti
-Berbeşti (Laloşu)
 Berbeşu
 Berbinceni
+(Berca)
 Berca
 Bercea
+(Berceni)
 Berceni
 Berceşti
 Berchez
@@ -832,25 +833,28 @@ Berchieşu
 Berchişeşti
 Bercioiu
 Bercu
-Bercu Nou
 Berea
 Bereasa
 Berechiu
 Berecuţa
-Beregsău Mare
-Beregsău Mic
+Beregsău
 Bereni
 Bereşti
+(Bereşti-Bistriţa)
 Bereşti-Bistriţa
 Bereşti-Meria
 Bereşti-Tazlău
+(Berevoeşti)
 Berevoeşti
+(Berezeni)
 Berezeni
 Berezlogi
 Berghia
 Berghin
-Beria de Jos
-Beria de Sus
+Berheci
+Berheciului
+Berheciului)
+Beria
 Berindan
 Berindei
 Berindeşti
@@ -858,19 +862,22 @@ Berindia
 Berindu
 Berini
 Berinţa
+(Berislăveşti)
 Berislăveşti
+(Beriu)
 Beriu
 Berivoi
 Berleşti
 Berlişte
 Bernadea
 Bertea
-Berteştii de Jos
-Berteştii de Sus
+Berteştii
+Berthelot
 Berveni
 Berza
 Berzasca
 Berzovia
+(Berzunţi)
 Berzunţi
 Beşlii
 Beştepe
@@ -883,10 +890,11 @@ Bethausen
 Beu
 Beuca
 Beudiu
+(Bezdead)
 Bezdead
 Bezded
 Bezid
-Bezidu Nou
+Bezidu
 Beznea
 Biban
 Bibeşti
@@ -902,9 +910,8 @@ Bicaşu
 Bicău
 Bicaz
 Bicaz-Chei
-Bicazu Ardelean
-Biceştii de Jos
-Biceştii de Sus
+Bicazu
+Biceştii
 Bicfalău
 Bicheşti
 Bichigi
@@ -916,6 +923,7 @@ Biertan
 Bigăr
 Bighilin
 Biharia
+Bihor
 Biia
 Bijghir
 Bila
@@ -934,17 +942,18 @@ Birda
 Birtin
 Biruinţa
 Bisericani
+Bisericii
 Bisoca
+(Bistra)
 Bistra
-Bistra Mureşului
+Bistrei
 Bistreţ
 Bistreţu
-Bistreţu Nou
 Bistricioara
+Bistrii
 Bistriţa
-Bistriţa Bârgăului
-Bistriţa Bârgăului Fabrici
-Bistriţa Nouă
+Bistriţa-Năsăud
+Bistriţei
 Bita
 Biţina-Pământeni
 Biţina-Ungureni
@@ -955,32 +964,34 @@ Bixad
 Bizigheşti
 Bizuşa-Băi
 Blaga
+(Blăgeşti)
 Blăgeşti
-Blahniţa de Jos
-Blahniţa de Sus
+Blahniţa
+(Blaj)
 Blaj
 Blaja
 Blăjani
 Blăjel
 Blăjeni
-Blăjenii de Jos
-Blăjenii de Sus
+Blăjenii
 Blăjeni-Vulcan
 Blajova
 Blaju
+Blănarului
 Blândeşti
+(Blandiana)
 Blandiana
+Blăneasa
 Blănoiu
 Blânzi
 Blebea
 Blejani
 Blejeşti
 Blejoi
+Blenchii
 Bleşca
 Blidăreşti
 Blidari
-Blidari (Cârligele)
-Blidari (Dumitreşti)
 Blidaru
 Blideşti
 Blidireasa
@@ -991,8 +1002,7 @@ Boatca
 Bobaia
 Bobaiţa
 Bobâlna
-Bobăreşti (Sohodol)
-Bobăreşti (Vidra)
+Bobăreşti
 Bobda
 Bobeanu
 Bobeica
@@ -1000,6 +1010,7 @@ Bobeşti
 Bobiceşti
 Boboc
 Boboci
+Bobocu
 Bobohalma
 Boboieşti
 Bobolia
@@ -1007,29 +1018,27 @@ Boboş
 Bobota
 Bobu
 Bobuleşti
+Bobului
 Boca
 Boceni
 Boceşti
 Bochia
 Bocicău
 Bocicoel
-Bocicoiu Mare
+Bocicoiu
 Bociu
 Bocniţa
 Bocşa
-Bocşa Mare
-Bocşa Mică
 Bocsig
 Bocşiţa
 Bocşitura
+Bocului
 Bod
 Bodăieşti
-Bodăieştii de Sus
+Bodăieştii
 Bodeasa
 Bodeşti
-Bodeşti (Alunu)
-Bodeşti (Bărbăteşti)
-Bodeştii de Jos
+Bodeştii
 Bodia
 Bodineşti
 Bodnăreni
@@ -1039,36 +1048,29 @@ Bodogaia
 Bodoş
 Bodreşti
 Bodrog
-Bodrogu Nou
-Bodrogu Vechi
+Bodrogu
 Bogâltin
 Bogata
-Bogata de Jos
-Bogata de Sus
-Bogata Olteană
+(Bogaţi)
 Bogaţi
-Bogatu Român
+Bogatu
 Bogda
+Bogdan
 Bogdana
 Bogdana-Voloseni
 Bogdand
+(Bogdăneşti)
 Bogdăneşti
-Bogdăneşti (Bujoreni)
-Bogdăneşti (Fălciu)
-Bogdăneşti (Mogoş)
-Bogdăneşti (Oteşani)
-Bogdăneşti (Scorţeni)
-Bogdăneşti (Tomşani)
-Bogdăneşti (Traian)
-Bogdăneşti (Vidra)
+(Bogdăniţa)
 Bogdăniţa
-Bogdan Vodă
 Bogea
 Bogei
 Bogeşti
 Bogheşti
-Bogheştii de Sus
+Bogheştii
+(Boghicea)
 Boghicea
+Boghii
 Boghiş
 Bogleşti
 Bogodinţ
@@ -1081,21 +1083,18 @@ Boholţ
 Bohorel
 Bohotin
 Boia
-Boia Bârzii
 Boian
-Boianu Mare
+Boianu
 Boiereni
 Boina
+Boinei
 Boineşti
 Boiniţa
 Boişoara
 Boiştea
-Boiştea de Jos
 Boiţa
 Boiu
-Boiu de Jos
-Boiu de Sus
-Boiu Mare
+Boiului
 Boj-Cătun
 Bojia
 Bojila
@@ -1121,6 +1120,7 @@ Bolintineni
 Bolintin-Vale
 Bologa
 Bologaia
+(Boloteşti)
 Boloteşti
 Bolovăneşti
 Bolovani
@@ -1134,33 +1134,35 @@ Bonţ
 Bontăieni
 Bonţeşti
 Bonţida
+Bonţului
 Booveni
 Bora
 Borăneşti
 Borăscu
+(Borca)
 Borca
 Borcea
 Borcut
+Borcutului
 Bord
 Bordea
-Bordeasca Nouă
-Bordeasca Veche
+Bordeasca
+Bordei
 Bordeieni
-Bordei Verde
-Bordenii Mari
-Bordenii Mici
+Bordenii
 Bordeşti
-Bordeştii de Jos
-Bordeştii Poieni
+Bordeştii
 Bordoşiu
+Bordului
 Borduşani
 Borduşelu
 Borla
 Borleasa
+Borlesei
+(Borleşti)
 Borleşti
 Borlova
-Borlovenii Noi
-Borlovenii Vechi
+Borlovenii
 Borniş
 Boroaia
 Borobăneşti
@@ -1169,9 +1171,9 @@ Borodeşti
 Boroeşti
 Borogea
 Borolea
+Boroş
 Boroşeşti
-Boroşneu Mare
-Boroşneu Mic
+Boroşneu
 Borosoaia
 Boroşteni
 Borovineşti
@@ -1184,6 +1186,7 @@ Borşani
 Borsec
 Borşeni
 Borugi
+Borului
 Borumlaca
 Borz
 Borza
@@ -1194,8 +1197,10 @@ Boş
 Bosanci
 Boscoteni
 Bosia
+Bosie
 Boşilceşti
 Boşneagu
+(Boşorod)
 Boşorod
 Boşoteni
 Bostăneşti
@@ -1209,14 +1214,13 @@ Botei
 Boteni
 Boteşti
 Boţeşti
-Boteşti (Câmpeni)
-Boteşti (Scărişoara)
-Boteşti (Zlatna)
 Botez
 Botfei
+Botii
 Botineşti
 Botiz
 Botiza
+Botizii
 Boţoaia
 Botoi
 Botorani
@@ -1226,55 +1230,55 @@ Botorogi
 Botoş
 Botoşana
 Botoşani
-Botoşaniţa Mare
-Botoşaniţa Mică
+Botoşaniţa
 Botoşeşti-Paia
+Boţului
 Botuş
 Botuşel
 Boura
+Bourei
 Boureni
-Boureni (Balş)
-Boureni (Moţca)
 Bouşori
 Boz
-Bozânta Mare
-Bozânta Mică
+Bozânta
 Bozed
 Bozeni
 Bozeş
 Bozia
 Bozieni
-Bozienii de Sus
+Bozienii
 Bozieş
 Bozioru
 Bozna
 Bozovici
 Brabeţi
 Brabova
+(Brad)
 Brad
 Brădăceşti
 Brădăţel
-Brad (Bereşti-Bistriţa)
 Brădeana
 Brădeanca
 Brădeanu
 Brădeni
 Brădeşti
-Brădeştii Bătrâni
+Brădeştii
 Brădet
 Brădeţel
 Brădeţelu
 Brădetu
-Brad (Filipeni)
+Brădetului
 Brădiceni
 Brădiceşti
 Brădişor
-Brădişoru de Jos
-Brad (Negri)
+Brădişoru
 Bradu
 Bradu-Clocotici
+(Brăduleţ)
 Brăduleţ
+Bradului
 Brăduţ
+(Brăeşti)
 Brăeşti
 Bragadiru
 Brăgăreasa
@@ -1292,17 +1296,17 @@ Brânceni
 Brâncoveanca
 Brâncoveanu
 Brâncoveneşti
+(Brâncoveni)
 Brâncoveni
 Brânduşa
+(Brăneşti)
 Brăneşti
 Braneţ
+(Brănişca)
 Brănişca
 Brăniştari
+Branişte
 Braniştea
-Braniştea (Nicoreşti)
-Branişte (Daneţi)
-Branişte (Filiaşi)
-Branişte (Podari)
 Brânzari
 Brânzeni
 Brăşăuţi
@@ -1319,13 +1323,11 @@ Brateiu
 Brăteni
 Brateş
 Brăteşti
-Brăteştii de Jos
+Brăteştii
+Brateşu
 Brateşul
-Brateşu Vechi
-Bratia (Berevoeşti)
-Bratia (Ciomăgeşti)
-Bratia din Deal
-Bratia din Vale
+Bratia
+Brătianu
 Brătila
 Brătileşti
 Bratilovu
@@ -1336,16 +1338,15 @@ Bratovoeşti
 Brătuia
 Brătuleni
 Brătuleşti
+Bravu
 Brăzeşti
+(Brazi)
 Brazi
 Brazii
-Brazii de Jos
-Brazii de Sus
+Brazilor
 Brâznic
 Breasta
 Breaza
-Breaza de Jos
-Breaza de Sus
 Breazova
 Breazu
 Breb
@@ -1354,56 +1355,48 @@ Brebeni
 Brebi
 Brebina
 Brebu
-Brebu Mânăstirei
-Brebu Megieşesc
-Brebu Nou
 Brehuieşti
 Breştea
 Brestelnic
+(Brestovăţ)
 Brestovăţ
 Breţa
 Breţcu
 Bretea
-Bretea Mureşană
-Bretea Română
-Bretea Streiului
 Bretelin
 Breznicioara
 Brezniţa-Motru
+(Brezniţa-Ocol)
 Brezniţa-Ocol
 Brezoaele
 Brezoaia
+(Brezoi)
 Brezoi
 Brezon
+Bricii
 Briheni
 Briţcani
 Brodina
-Brodina de Jos
-Brodina (Izvoarele Sucevei)
 Brodoc
+(Broscăuţi)
 Broscăuţi
 Broscoşeşti
 Broşteanca
+(Broşteni)
 Broşteni
-Broşteni (Aninoasa)
-Broşteni (Bezdead)
-Broşteni (Costeşti)
-Broşteni (Drăguşeni)
-Broştenii de Sus
-Broşteni (Produleşti)
-Broşteni (Vişina)
+Broştenii
 Brotuna
 Bruiu
+(Brusturi)
 Brusturi
-Brusturi (Finiş)
 Brusturoasa
 Bruznic
 Bubeşti
 Bucea
 Buceava-Şoimuş
+(Bucecea)
 Bucecea
-Bucerdea Grânoasă
-Bucerdea Vinoasă
+Bucerdea
 Buceş
 Buceşti
 Buceş-Vulcan
@@ -1411,10 +1404,9 @@ Buchila
 Buchilaşi
 Buchin
 Bucicani
+Bucin
 Bucinişu
-Bucinişu Mic
-Bucin (Joseni)
-Bucin (Praid)
+(Bucium)
 Bucium
 Buciumeni
 Buciumi
@@ -1424,9 +1416,8 @@ Bucoşniţa
 Bucov
 Bucova
 Bucovăţ
-Bucovăţ (Dumbrava)
-Bucovăţ (Remetea Mare)
 Bucovicior
+Bucovinei
 Bucşa
 Bucşana
 Bucşani
@@ -1437,91 +1428,34 @@ Bucşoaia
 Bucu
 Bucura
 Bucureasa
+(Bucureşci)
 Bucureşci
-Bucureşti 10
-Bucureşti 11
-Bucureşti 12
-Bucureşti 15
-Bucureşti 16
-Bucureşti 17
-Bucureşti 18
-Bucureşti 19
-Bucureşti 2
-Bucureşti 20
-Bucureşti 22
-Bucureşti 24
-Bucureşti 26
-Bucureşti 28
-Bucureşti 30
-Bucureşti 32
-Bucureşti 35
-Bucureşti 37
-Bucureşti 38
-Bucureşti 39
-Bucureşti 4
-Bucureşti 49
-Bucureşti 5
-Bucureşti 51
-Bucureşti 52
-Bucureşti 53
-Bucureşti 56
-Bucureşti 60
-Bucureşti 61
-Bucureşti 63
-Bucureşti 66
-Bucureşti 68
-Bucureşti 69
-Bucureşti 7
-Bucureşti 70
-Bucureşti 71
-Bucureşti 72
-Bucureşti 74
-Bucureşti 75
-Bucureşti 76
-Bucureşti 77
-Bucureşti 8
-Bucureşti 80
-Bucureşti 82
-Bucureşti 86
-Bucureşti 9
+Bucureşti
 Bucuroaia
 Bucuru
+Bucurului
 Buda
-Buda (Alexandru Vlahuţă)
-Buda (Ariceştii Rahtivani)
-Buda (Berzunţi)
-Buda (Blăgeşti)
-Buda (Bogdăneşti)
-Buda (Brăeşti)
-Buda Crăciuneşti
-Budacu de Jos
-Budacu de Sus
+Budacu
 Budăi
 Budăieşti
-Buda (Lespezi)
 Budăneşti
-Buda (Oşeşti)
-Buda (Răchitoasa)
-Buda (Râfov)
-Buda (Râşca)
-Buda (Zvoriştea)
+(Budeasa)
 Budeasa
-Budeasa Mare
-Budeasa Mică
 Budele
 Budeni
+(Budeşti)
 Budeşti
-Budeşti (Diculeşti)
 Budeşti-Fânaţe
 Budieni
 Budila
 Budişteni
-Budiu Mic
+Budiu
 Budoi
 Budrea
-Budu Cantemir
+Budu
 Buduhala
 Buduile
+Budului
 Budurăşti
 Budureasa
 Budurleni
@@ -1530,16 +1464,17 @@ Buduslău
 Bueşti
 Buftea
 Bugeac
-Bughea de Jos
-Bughea de Sus
+Bughea
 Buhăceni
 Buhăeni
 Buhăieşti
 Buhalniţa
 Buhani
+Buhlii
 Buhocel
 Buhoci
 Buhonca
+(Buhuşi)
 Buhuşi
 Buia
 Buicani
@@ -1547,11 +1482,13 @@ Buiceşti
 Buimăceni
 Bujoi
 Bujor
+Bujor)
 Bujoreanca
+(Bujoreni)
 Bujoreni
 Bujor-Hodaie
 Bujoru
-Bujoru (Călmăţuiu)
+Bujorului
 Bulagei
 Bulai
 Bulboaca
@@ -1561,6 +1498,7 @@ Bulbucata
 Bulbuceni
 Bulci
 Buleta
+Bulgară
 Bulgăreni
 Bulgari
 Bulgăruş
@@ -1569,8 +1507,7 @@ Bulimanu
 Bulz
 Bulza
 Bulzeşti
-Bulzeştii de Jos
-Bulzeştii de Sus
+Bulzeştii
 Bumbăcari
 Bumbăta
 Bumbeşti-Jiu
@@ -1578,22 +1515,26 @@ Bumbeşti-Piţic
 Bumbueni
 Bumbueşti
 Bumbuia
-Bunea Mare
-Bunea Mică
+Bun
+Bun)
+Bună
+Bune
+Bunea
 Buneşti
+(Buneşti-Avereşti)
 Buneşti-Avereşti
-Buneşti (Cotmeana)
-Buneşti (Mălureni)
 Bungard
 Bungeţani
 Bungetu
 Bunghi
+(Bunila)
 Bunila
 Buninginea
 Bunoaica
 Bunta
 Bunteşti
 Burca
+Burchii
 Burcioaia
 Burda
 Burdăleşti
@@ -1605,8 +1546,7 @@ Burduleşti
 Burdusaci
 Bureţeşti
 Buriaş
-Burila Mare
-Burila Mică
+Burila
 Burjuc
 Burla
 Burlani
@@ -1621,7 +1561,7 @@ Bursuc-Vale
 Buru
 Buruieneşti
 Buruieniş
-Buruienişu de Sus
+Buruienişu
 Burzeşti
 Burzoneşti
 Burzuc
@@ -1644,26 +1584,24 @@ Butculeşti
 Butea
 Buteasa
 Buteni
+Butesii
 Buteşti
-Buteşti (Horea)
-Buteşti (Mogoş)
+(Butimanu)
 Butimanu
 Butin
 Butnăreşti
 Butoi
 Butoieşti
 Butoiu
-Butoiu de Jos
-Butoiu de Sus
 Butucăria
 Butuci
 Buturugeni
 Buza
-Buza Cătun
 Buzad
 Buzăiel
 Buzaş
 Buzău
+Buzăului
 Buzd
 Buzduc
 Buzdug
@@ -1676,6 +1614,9 @@ Buznea
 Buzoeni
 Buzoeşti
 Buzota
+(C.A.
+C.A.
+(Căbeşti)
 Căbeşti
 Cacica
 Căciulata
@@ -1683,98 +1624,103 @@ Căciulăteşti
 Căciulaţi
 Căciulatu
 Căciuleşti
-Cacova Ierii
+Cacova
+Cacovei
+Cacuciu
 Căcuciu
-Cacuciu Nou
-Cacuciu Vechi
-Cădaciu Mare
-Cădaciu Mic
+Cădaciu
 Cadăr
 Cădăreşti
 Cadea
+(Căianu)
 Căianu
-Căianu Mare
-Căianu Mic
 Căianu-Vamă
 Căiata
 Caila
-Căinelu de Jos
-Căinelu de Sus
+Căinelu
 Câineni
 Câineni-Băi
-Câinenii Mari
-Câinenii Mici
+Câinenii
+(Căiuţi)
 Căiuţi
 Cajvana
 Călacea
 Calafat
 Calafindeşti
 Călan
-Călanu Mic
+Călanu
 Calapăru
 Calapodeşti
 Călăraşi
 Călăraşi-Gară
-Călăraşii Vechi
+Călăraşii
 Călăreţi
 Călata
 Călătani
 Călăţea
+(Călăţele)
 Călăţele
 Calbor
 Călcâi
 Câlceşti
+Cald
+Caldă
+(Căldăraru)
 Căldăraru
 Căldărăşti
 Căldăruşa
 Căldăruşeanca
-Calea Chiojdului
-Calea Mare
+Calea
 Călene
 Căleşti
 Calfa
-Călienii Noi
-Călienii Vechi
+Călienii
 Căligi
 Călimăneasa
 Călimănel
+(Călimăneşti)
 Călimăneşti
 Calina
 Călina
+(Călineşti)
 Călineşti
-Călineşti (Bucecea)
-Călineşti (Cândeşti)
-Călineşti (Dărmăneşti)
-Călineştii de Jos
-Călineştii de Sus
+Călineştii
 Călineşti-Oaş
-Călineşti (Şerbăuţi)
 Călineşti-Vasilache
 Călini
+Caliţei
 Călmăţui
+(Călmăţuiu)
 Călmăţuiu
-Călmăţuiu de Sus
+Călmăţuiului
 Calna
 Călnaci
+Câlnău
+Câlnău)
+Câlnăului
 Calnic
 Câlnic
-Câlnicu de Sus
+Câlnicu
+Calnicului
 Calomfireşti
 Calonda
+(Calopăr)
 Calopăr
 Caloteşti
 Câlţeşti
 Călţuna
 Călugăreasa
+Călugărească
+Călugărească)
 Călugărei
 Călugăreni
-Călugăreni (Cobia)
-Călugăreni (Conţeşti)
-Călugărenii Noi
+Călugărenii
 Călugăreşti
 Călugări
 Călugăru
 Călui
+Căluiu
+Calului
 Căluşeri
 Calvini
 Camăr
@@ -1789,86 +1735,85 @@ Cămineasca
 Camna
 Câmp
 Câmpani
-Câmpani de Pomezeu
 Câmpeneşti
+(Câmpeni)
 Câmpeni
 Câmpeniţa
 Câmpia
-Câmpia Turzii
+Câmpie
+Câmpie)
 Câmpina
+(Câmpineanca)
 Câmpineanca
+Câmpinei
 Câmp-Moţi
 Câmpofeni
-Câmpu Cetăţii
-Câmpu Goblii
-Câmpu lui Neag
+Câmpu
+Câmpului
+Câmpului)
 Câmpulung
 Câmpulungeanca
-Câmpulung la Tisa
-Câmpulung Moldovenesc
-Câmpu Mare
-Câmpu Părului
 Câmpurelu
 Câmpuri
-Câmpuri de Sus
 Câmpuri-Surduc
 Cămuieşti
 Cândeasca
 Cândeleşti
+(Cândeşti)
 Cândeşti
 Cândeşti-Deal
 Cândeşti-Vale
+Candrenilor
 Cându
 Cânepeşti
+Cânepii
 Căneşti
 Cănicea
 Canlia
 Cănţălăreşti
+Cantemir
 Căoi
+Cap
 Căpâlna
-Căpâlna de Jos
-Căpâlna de Sus
 Căpălnaş
 Căpâlniţa
 Căpăt
 Capăta
-Căpăţânenii Pământeni
-Căpăţânenii Ungureni
+Căpăţânenii
 Căpăţâneşti
+Capelei
 Căpeni
 Căpeţi
 Capidava
 Căpleni
-Caporal Alexa
+Caplii
+Caporal
 Căpoteşti
+Caprei
 Căpreni
 Căprioara
 Căprioru
-Cap Roşu
 Căpruţa
 Capşa
+Capsei
 Căpşuna
 Căptălan
-Capu Câmpului
-Capu Coastei
-Capu Codrului
-Capu Corbului
+Capu
 Căpud
-Capu Dealului
-Capu Piscului (Godeni)
-Capu Piscului (Merişani)
-Capu Satului
 Căpuşneni
-Căpuşu de Câmpie
-Căpuşu Mare
-Căpuşu Mic
+(Căpuşu
+Căpuşu
+Căpuşului
 Cara
 Caracal
 Căraci
 Caraclău
 Caragele
+Caragiale
 Caraiman
+Cărămăneşti
 Cărămidaru
+Cărămizii
 Cărand
 Cărăndeni
 Carani
@@ -1881,11 +1826,11 @@ Carasa
 Cărăsău
 Cărăşeu
 Caraşova
+Caraş-Severin
 Cărăstău
 Carastelec
 Cârăşti
-Cărătnău de Jos
-Cărătnău de Sus
+Cărătnău
 Caraula
 Caravaneţi
 Cârbeşti
@@ -1910,13 +1855,12 @@ Cârjoaia
 Cârjoani
 Cârlăneşti
 Cârlibaba
-Cârlibaba Nouă
 Cârlig
 Cârligei
+(Cârligele)
 Cârligele
 Cârligi
-Cârligu Mare
-Cârligu Mic
+Cârligu
 Cârlogani
 Cârlomăneşti
 Cârlomanu
@@ -1925,19 +1869,17 @@ Cârna
 Cârnecea
 Cârneşti
 Cârniceni
-C.A. Rosetti
+Carp
 Carpen
-Carpenii de Sus
+Carpenii
 Cărpeniş
 Cărpenişu
 Cărpinenii
 Cărpinet
 Cărpiniş
-Cărpiniş (Gârbova)
-Cărpiniş (Roşia Montană)
 Cărpiniştea
 Carpitus
-Cârşa Roşie
+Cârşa
 Cârşie
 Carşocheşti-Corăbiţa
 Cârstăneşti
@@ -1947,27 +1889,27 @@ Cârstovani
 Cârşu
 Cârţa
 Cârţibaşi
-Cartierul Dâmbu
+Cartierul
 Cârţişoara
 Cartiu
 Cartojani
 Cârţuleşti
 Căruia
+Carului
 Carvăn
-Casa de Piatră
+Casa
 Căşăria
-Casa Veche
 Căscioarele
-Căscioarele (Găiseni)
-Căscioarele (Ulmi)
+Căşeielului
 Căşeiu
-Casele Miceşti
+Casele
+Caselor
 Casian
 Casicea
 Casimcea
 Caşin
-Caşinu Mic
-Casinu Nou
+Casinu
+Caşinu
 Câşliţa
 Căsoaia
 Caşoca
@@ -1977,7 +1919,7 @@ Casota
 Căstău
 Castelu
 Castranova
-Castrele Traiane
+Castrele
 Caşva
 Caţa
 Catalina
@@ -1987,23 +1929,23 @@ Cătămăreşti
 Cătămăreşti-Deal
 Catane
 Catanele
-Catanele Noi
 Cătăuţi
 Câţcău
+(Căteasca)
 Căteasca
 Căţelu
 Căţetu
+Cati
 Cătiaşu
+(Cătina)
 Cătina
+Cătinei
 Catrinari
 Cătruneşti
+Cătun
 Cătunaşi
 Cătunele
 Cătunu
-Cătunu (Berceni)
-Cătunu (Corneşti)
-Cătunu (Drajna)
-Cătunu (Sălcioara)
 Cauaceu
 Căuaş
 Căuaşd
@@ -2017,20 +1959,15 @@ Căvăran
 Cavnic
 Cazaci
 Căzăneşti
-Căzăneşti (Ghioroiu)
-Căzăneşti (Milcoiu)
-Căzăneşti (Râmnicu Vâlcea)
 Cazasu
 Ceaba
 Ceaca
 Ceacu
 Ceahlău
 Ceairu
-Ceamurlia de Jos
-Ceamurlia de Sus
+Ceamurlia
 Cean
-Ceanu Mare
-Ceanu Mic
+Ceanu
 Cearângu
 Ceardac
 Ceatalchioi
@@ -2046,10 +1983,12 @@ Cehal
 Cehăluţ
 Cehei
 Ceheţel
-Cehu Silvaniei
+Cehu
+Cehului
 Ceica
 Ceie
 Ceişoara
+cel
 Celaru
 Celei
 Celnata
@@ -2057,42 +1996,40 @@ Cenad
 Cenade
 Cenaloş
 Cenei
+(Cepari)
 Cepari
-Ceparii Pământeni
-Ceparii Ungureni
-Cepari (Poiana Lacului)
+Ceparii
 Cepeşti
 Ceplea
 Cepleniţa
 Ceptura
-Ceptura de Jos
-Ceptura de Sus
 Ceptureni
+Cepturi
 Cerânganul
 Ceraşu
 Cerăt
-Cerătu de Copăcioasa
+Cerătu
 Cerbăl
 Cerbeni
 Cerbeşti
 Cerbia
 Cerbu
+Cerbului
 Cerbureni
 Cerc
 Cerchejeni
+Cercheză
 Cerchezu
 Cercu
 Cerdac
 Ceretu
 Cergău
-Cergău Mare
-Cergău Mic
 Cerghid
 Cerghizel
 Cerişa
 Cerişor
-Cermegeşti (Lădeşti)
-Cermegeşti (Pesceana)
+Cermegeşti
+(Cermei)
 Cermei
 Cerna
 Cernădia
@@ -2108,18 +2045,19 @@ Cerneteaz
 Cerneţi
 Cernetu
 Cernica
+Cernii
+(Cernişoara)
 Cernişoara
-Cernişoara Florese
 Cernu
 Cernuc
 Cerşani
 Certege
-Certeju de Jos
-Certeju de Sus
+Certeju
 Cerţeşti
 Certeze
 Certieni
 Ceru-Băcăinţi
+Cerului
 Cervenia
 Cerveniţa
 Cerviceşti
@@ -2128,28 +2066,26 @@ Cetan
 Cetariu
 Cetate
 Cetatea
-Cetatea de Baltă
 Cetăţeaua
-Cetatea Veche
 Cetăţele
 Cetăţeni
+Cetăţii
 Cetăţuia
-Cetăţuia (Cioroiaşi)
-Cetăţuia (Vela)
+Cetăţuii
 Cetea
 Ceuaş
-Ceuaşu de Câmpie
+Ceuaşu
 Cezieni
 Charlotenburg
 Checea
 Checheş
 Chechiş
-Chedia Mare
-Chedia Mică
+Chedia
 Chegea
 Cheglevici
 Cheia
-Cheile Cibului
+Cheii
+Cheile
 Chelbeşti
 Cheleteni
 Chelinţa
@@ -2167,8 +2103,7 @@ Cherestur
 Chereuşa
 Chergheş
 Cheriu
-Cherleştii din Deal
-Cherleştii Moşteni
+Cherleştii
 Chersăcosu
 Cheşa
 Chesău
@@ -2184,7 +2119,7 @@ Chetreşti
 Chetriş
 Chetrosu
 Cheud
-Chevereşu Mare
+Chevereşu
 Chiajna
 Chiaşu
 Chibed
@@ -2198,15 +2133,13 @@ Chiciureni
 Chidea
 Chier
 Chieşd
-Chiheru de Jos
-Chiheru de Sus
+Chiheru
 Chijic
 Chileni
 Chilia
-Chilia Benei
-Chilia Veche
 Chilieni
 Chilii
+(Chiliile)
 Chiliile
 Chilioara
 Chilişeni
@@ -2216,16 +2149,20 @@ Chimindia
 Chinari
 Chinciuş
 Chintelnic
+(Chinteni)
 Chinteni
 Chinteşti
 Chintinici
 Chinuşu
 Chioag
+Chioarului
 Chiochiş
 Chioibăşeşti
+(Chiojdeanca)
 Chiojdeanca
 Chiojdeni
 Chiojdu
+Chiojdului
 Chipereşti
 Chiperu
 Chiraftei
@@ -2243,17 +2180,15 @@ Chirileu
 Chiriş
 Chiriţeni
 Chiriţeşti
-Chiriţeşti (Suseni)
-Chiriţeşti (Uda)
-Chiriţeşti (Vedea)
 Chirleşti
 Chirnogeni
 Chirnogi
-Chirnogi (Ulmu)
 Chiroiu-Pământeni
-Chiroiu-Satu Nou
+Chiroiu-Satu
 Chiroiu-Ungureni
+(Chirpăr)
 Chirpăr
+Chirui
 Chisăliţa
 Chisău
 Chişcădaga
@@ -2289,6 +2224,8 @@ Ciaracio
 Cib
 Ciba
 Cibu
+Cibului
+(Cicăneşti)
 Cicăneşti
 Cicârd
 Cicârlău
@@ -2296,12 +2233,12 @@ Cicău
 Ciceu
 Ciceu-Corabia
 Ciceu-Giurgeşti
+Ciceului
 Ciceu-Mihăieşti
 Ciceu-Poieni
 Cicir
 Cicleni
-Ciclova Montană
-Ciclova Română
+Ciclova
 Cidreag
 Cieşti
 Cig
@@ -2309,6 +2246,7 @@ Ciglean
 Cigmău
 Cihei
 Cil
+(Cilibia)
 Cilibia
 Cilibiu
 Cilieni
@@ -2319,7 +2257,7 @@ Cincu
 Cinghiniia
 Cinta
 Cintei
-Cioara de Sus
+Cioara
 Cioarga
 Cioatele
 Ciobăneşti
@@ -2343,7 +2281,6 @@ Ciocani
 Ciocanu
 Ciocârleşti
 Ciocârlia
-Ciocârlia de Sus
 Ciocaşu
 Cioceni
 Cioceşti
@@ -2357,14 +2294,15 @@ Ciocrac
 Ciofeni
 Cioflanu
 Ciofliceni
+(Ciofrângeni)
 Ciofrângeni
 Ciohorăni
 Ciolăneşti
-Ciolăneştii din Deal
-Ciolăneştii din Vale
+Ciolăneştii
 Ciolceşti
 Ciolpani
 Ciolt
+(Ciomăgeşti)
 Ciomăgeşti
 Ciomârtan
 Cioncheşti
@@ -2375,25 +2313,27 @@ Cioponeşti
 Ciorâca
 Cioranca
 Ciorani
-Cioranii de Jos
-Cioranii de Sus
+Cioranii
 Ciorari
+(Ciorăşti)
 Ciorăşti
+Ciorii
 Ciornei
 Cioroboreni
 Ciorogârla
+(Cioroiaşi)
 Cioroiaşi
 Cioroiaşu
 Cioroiu
-Cioroiu Nou
 Ciortea
+(Ciorteşti)
 Ciorteşti
 Ciortolom
 Ciosa
 Ciovârnăşani
 Cipăieni
 Cipău
-Ciprian Porumbescu
+Ciprian
 Cireaşi
 Cireaşov
 Cireşa
@@ -2401,41 +2341,41 @@ Cireşanu
 Cireşel
 Cireşeni
 Cireşoaia
+Cireşoii
 Cireşu
 Cireşul
-Cireşu Mic
+Cireşului
 Ciretea
 Cirhagău
 Ciritei
 Cislău
 Cişmăneşti
 Cişmea
-Cişmeaua Nouă
+Cişmeaua
 Cişmele
 Cisnădie
 Cisnădioara
 Cistei
-Cisteiu de Mureş
+Cisteiu
 Cistia
 Ciubanca
 Ciubăncuţa
 Ciucani
 Ciucea
 Ciucheţi
+(Ciuchici)
 Ciuchici
+Ciuciului
 Ciucsângeorgiu
 Ciuculeşti
 Ciucurova
 Ciudanoviţa
 Ciugheş
 Ciugud
-Ciugudu de Jos
-Ciugudu de Sus
+Ciugudu
 Ciuguzel
 Ciuhoi
 Ciula
-Ciula Mare
-Ciula Mică
 Ciuldeşti
 Ciulea
 Ciuleni
@@ -2456,25 +2396,26 @@ Ciumiţa
 Ciumuleşti
 Ciungani
 Ciungetu
-Ciungu Mare
+Ciungu
 Ciunteşti
 Ciupa-Mănciulescu
 Ciupelniţa
 Ciuperca
 Ciuperceni
-Ciuperceni (Cosmeşti)
-Ciupercenii de Olteţ
-Ciupercenii Noi
-Ciupercenii Vechi
+Ciupercenii
 Ciurari
 Ciurari-Deal
 Ciurbeşti
+(Ciurea)
 Ciurea
 Ciureni
+Ciurenilor
 Ciureşti
-Ciureştii Noi
+Ciureştii
 Ciurgău
+(Ciurila)
 Ciurila
+(Ciuruleasa)
 Ciuruleasa
 Ciuşlea
 Ciuta
@@ -2484,14 +2425,17 @@ Ciutura
 Ciutureşti
 Cizer
 Cladova
+Cladovei
 Clăniţa
 Clapa
 Clăteşti
 Cleanov
+(Cleja)
 Cleja
 Clejani
 Cleşneşti
 Cliciova
+Climaterică
 Climăuţi
 Climeşti
 Clinceni
@@ -2501,32 +2445,23 @@ Cliţ
 Cloaşterf
 Clocotici
 Clondiru
-Clondiru de Sus
 Clopodia
 Clopotiva
 Cloşani
 Cloşca
 Clucereasa
+Cluj
 Cluj-Napoca
-Coada Cornetului
-Coada Izvorului
-Coada Malului
-Coada Stâncii
+Coada
 Coaja
-Coarnele Caprei
+Coarnele
 Coaş
 Coasta
-Coasta Cerbului
-Coasta (Goleşti)
-Coasta Grindului
-Coasta Henţii
-Coasta Lupei
-Coasta Măgurii
-Coasta Mare
-Coasta (Păuşeşti-Măglaşi)
-Coasta Vâscului
+Coastă
+Coastei
 Cobadin
 Cobăteşti
+(Cobia)
 Cobia
 Cobiuţa
 Cobleş
@@ -2544,21 +2479,18 @@ Cochirleanca
 Cochirleni
 Cociu
 Cociuba
-Cociuba Mare
-Cociuba Mică
 Coconari
 Coconi
 Cocora
 Cocorăşti
-Cocorăştii Caplii
-Cocorăştii Colţ
-Cocorăştii Grind
-Cocorăştii Mislii
+(Cocorăştii
+Cocorăştii
 Cocoreni
 Cocorova
 Cocoru
 Cocoşari
 Cocoşeşti
+(Cocu)
 Cocu
 Codăeşti
 Codlea
@@ -2567,7 +2499,7 @@ Codreni
 Codreşti
 Codrişoru
 Codru
-Codru Butesii
+Codrului
 Cogealac
 Cogeasca
 Cohani
@@ -2581,6 +2513,7 @@ Cojocani
 Cojocăreni
 Cojocaru
 Cojoci
+(Cojocna)
 Cojocna
 Cojoiu
 Colacu
@@ -2596,35 +2529,23 @@ Colibi
 Colibiţa
 Colina
 Colnic
+(Coloneşti)
 Coloneşti
 Colonia
-Colonia 1 Mai
-Colonia Bod
-Colonia Brazi
-Colonia Bulgară
-Colonia Fabricii
-Colonia Mică
-Colonia Reconstrucţia
-Colonia Sighetu Silvaniei
-Colonia Tălmaciu
-Colonia Târnava
+Colţ
+Colţ)
 Colţăneni
 Coltău
 Colţea
 Colţeni
 Colţeşti
 Colţi
-Colţii de Jos
+Colţii
 Colţirea
 Colţu
-Colţu Cornii
-Colţu de Jos
-Colţu Pietrii
 Colun
 Coman
 Comana
-Comana de Jos
-Comana de Sus
 Comanca
 Comanda
 Comandău
@@ -2633,6 +2554,7 @@ Comăneşti
 Comani
 Comănicea
 Comăniţa
+(Comarna)
 Comarna
 Comarnic
 Comasca
@@ -2642,14 +2564,14 @@ Comişani
 Comisoaia
 Comlăuşa
 Comlod
-Comloşu Mare
-Comloşu Mic
+Comloşu
 Comoara
 Comorâşte
 Comorâţa
 Comori
 Comoşteni
 Comşeşti
+Conachi
 Conacu
 Conceşti
 Condeeşti
@@ -2659,11 +2581,10 @@ Condrea
 Conduratu
 Conop
 Constanţa
-Constantin Brâncoveanu
-Constantin Daicoviciu
+Constantin
 Constantineşti
-Constantin Gabrielescu
 Contea
+(Conţeşti)
 Conţeşti
 Copăceana
 Copăceanca
@@ -2671,7 +2592,6 @@ Copăcel
 Copăcele
 Copăcelu
 Copăceni
-Copăceni (Racoviţa)
 Copăceşti
 Copaci
 Copăcioasa
@@ -2681,31 +2601,31 @@ Copalnic
 Copalnic-Deal
 Copalnic-Mănăştur
 Copand
+Copcii
 Coplean
 Copru
-Copşa Mare
-Copşa Mică
+Copşa
 Copuzu
 Corabia
+(Corbasca)
 Corbasca
 Corbeanca
+Corbencii
+(Corbeni)
 Corbeni
 Corbeşti
 Corbi
-Corbii din Vale
-Corbii Mari
+(Corbii
+Corbii
 Corbiţa
 Corboaia
 Corbşori
 Corbu
-Corbu (Cătina)
-Corbu (Glodeanu-Siliştea)
-Corbu Nou
-Corbu (Teslui)
-Corbu Vechi
+Corbului
 Corcioveni
 Corcodel
 Corcova
+(Cordăreni)
 Cordăreni
 Cordău
 Cordoş
@@ -2715,6 +2635,7 @@ Corjăuţi
 Corlata
 Corlate
 Corlăţel
+(Corlăteni)
 Corlăteni
 Corlăteşti
 Cormaia
@@ -2722,31 +2643,29 @@ Cormeniş
 Corna
 Cornăţel
 Cornăţelu
+(Cornea)
 Cornea
 Corneanu
+Cornei
 Corneni
+(Cornereva)
 Cornereva
+(Corneşti)
 Corneşti
-Corneşti (Adămuş)
-Corneşti (Crăciuneşti)
-Corneşti (Gârbău)
-Corneşti (Mihai Viteazu)
 Cornet
 Cornetu
+Cornetului
 Corni
 Corni-Albeşti
-Cornii de Jos
-Cornii de Sus
+Cornii
 Cornişeşti
 Cornişoru
 Corniţa
 Corniţel
+(Cornu
+(Cornu)
 Cornu
-Cornu de Jos (Cornu)
-Cornu de Jos (Drăgăneşti)
-Cornu de Sus (Cornu)
-Cornu de Sus (Dumbrava)
-Cornu Luncii
+Cornului
 Cornuţel
 Coroana
 Corobăi
@@ -2757,8 +2676,7 @@ Corodeşti
 Coroi
 Coroieni
 Coroieşti
-Coroieşti (Bogdăniţa)
-Coroieştii de Sus
+Coroieştii
 Coroisânmărtin
 Coroiu
 Coronini
@@ -2773,6 +2691,7 @@ Coruia
 Corunca
 Corund
 Coruşu
+Corvin
 Corvineşti
 Corzu
 Cosaci
@@ -2794,56 +2713,53 @@ Coşeşti
 Coşeviţa
 Cosiţeni
 Coşlariu
-Coşlariu Nou
 Coslegi
 Coslogeni
 Coslugea
+(Cosmeşti)
 Cosmeşti
 Cosmeştii-Vale
-Cosmina de Jos
-Cosmina de Sus
+Cosmina
 Cosminele
+(Coşna)
 Coşna
 Coşnea
-Cosniciu de Jos
-Cosniciu de Sus
+Coşnei
+Cosniciu
 Coşoaia
 Cosoba
 Cosota
 Coşoteni
 Cosovăţ
 Coşoveni
-Costache Negri
+Costache
 Costâna
 Costei
 Coşteiu
-Coşteiu de Sus
 Costeni
+(Costeşti)
 Costeşti
-Costeşti (Albac)
-Costeşti (Cotmeana)
 Costeşti-Deal
-Costeştii din Deal
-Costeştii din Vale
-Costeşti (Poiana Vadului)
+Costeştii
 Costeşti-Vâlsan
 Costi
 Costieni
+Costii
 Costileva
+Costin
 Costineşti
 Costiş
 Costişa
-Costişa de Sus
-Costişa (Homocea)
 Costişata
-Costişa (Tănăsoaia)
 Costiţă
 Coştiugeni
 Coştiui
 Costomiru
 Costuleni
+(Coşula)
 Coşula
 Coşuleni
+Coşuştei
 Cotârgaci
 Cotârgaşi
 Coţatcu
@@ -2854,15 +2770,15 @@ Coteni
 Coteşti
 Cotic
 Cotiglet
+(Cotmeana)
 Cotmeana
-Cotmeana (Stolnici)
 Cotmeniţa
 Cotnari
+Cotoarei
 Coţofanca
 Coţofăneşti
 Coţofeneşti
-Coţofenii din Dos
-Coţofenii din Faţă
+Coţofenii
 Cotorăşti
 Cotorbeşti
 Cotorca
@@ -2870,23 +2786,10 @@ Cotorinau
 Cotormani
 Cotoroaia
 Cotu
-Cotu Băii
-Cotu Ciorii
-Cotu (Cuca)
-Cotu Dobei
-Cotu Grosului
-Cotu lui Ivan
-Cotu Lung
-Cotu Malului
 Cotumba
-Cotu Miculinţi
-Cotu Mihalea
-Cotu Morii
 Cotuş
+(Coţuşca)
 Coţuşca
-Cotu (Uda)
-Cotu Văii
-Cotu Vameş
 Covaci
 Covacipeter
 Covăsinţ
@@ -2900,34 +2803,30 @@ Covrigi
 Coza
 Cozăneşti
 Cozia
+(Cozieni)
 Cozieni
 Cozla
 Cozma
 Cozmeni
 Cozmeşti
-Cozmeşti (Stolniceni-Prăjescu)
 Crăcăoani
-Cracăul Negru
+Cracăul
 Crăciunei
 Crăciunel
-Crăciunelu de Jos
-Crăciunelu de Sus
+Crăciunelu
+(Crăciuneşti)
 Crăciuneşti
-Cracu Almăj
-Cracu Lung
-Cracu Mare
-Cracu Muntelui
-Cracu Teiului
+Cracu
 Crăeşti
 Crăgueşti
 Crăguiş
+Crai
 Craidorolţ
 Crăieşti
-Crăieşti (Adămuş)
 Crainici
 Crainimăt
-Crai Nou
 Craiova
+Craiovei
 Crairât
 Craiva
 Cralovăţ
@@ -2936,79 +2835,81 @@ Crâmpotani
 Crânceşti
 Crâng
 Crângaşi
+(Crângeni)
 Crângeni
 Crângu
-Crângu Nou
+Crângului
 Crânguri
 Crângurile
-Crângurile de Jos
-Crângurile de Sus
-Crăsanii de Jos
-Crăsanii de Sus
+Crăsanii
 Crasna
-Crasna din Deal
 Crasnaleuca
 Crăsnăşeni
-Crasna Vişeului
+Crasnei
 Creaca
+Creangă
+Creangă)
 Creaţa
 Credinţa
 Cremenari
 Cremenea
+Cremenii
 Crestur
 Cresuia
 Creţeni
+(Creţeşti)
 Creţeşti
-Creţeştii de Sus
+Creţeştii
 Creţi
 Creţu
 Creţuleasca
 Creţuleşti
+(Crevedia
 Crevedia
-Crevedia Mare
-Crevedia Mică
 Creveleşti
 Crevenicu
 Cricău
 Criciova
-Cricovu Dulce
+Cricovu
+Cricovului
 Crihalma
 Crihan
 Crinţ
 Crinteşti
 Criş
+Criş)
 Crişan
 Crişcior
 Crişeni
 Cristeasca
+Cristei
+Cristei)
 Criştelec
+Cristesei
 Cristeşti
-Cristeşti (Brăeşti)
-Cristeşti (Holboca)
-Cristeştii Ciceului
+Cristeştii
 Cristian
+(Cristineşti)
 Cristineşti
-Criştioru de Jos
-Criştioru de Sus
+Cristinii
+(Criştioru
+Criştioru
 Cristolţ
 Cristolţel
 Cristorel
 Cristur
 Cristur-Crişeni
 Cristur-Şieu
-Cristuru Secuiesc
+Cristuru
+Crişului
 Criţ
 Criva
-Criva de Jos
-Criva de Sus
 Crivadia
 Crivăţ
 Crivăţu
+Crivăţului
 Criveşti
-Criveşti (Strunga)
-Criveşti (Vânători)
 Crivina
-Crivina de Sus
 Crivobara
 Crizbav
 Crocna
@@ -3017,12 +2918,12 @@ Croici
 Croitori
 Crovna
 Crovu
+(Crucea)
 Crucea
-Crucea de Jos
-Crucea de Piatră
-Crucea de Sus
 Cruceanu
 Cruceni
+Crucii
+Crucilor
 Crucişoara
 Crucişor
 Crunţi
@@ -3030,15 +2931,18 @@ Cruşeţ
 Cruşovăţ
 Cruşoviţa
 Cruşovu
+cu
 Cubleşu
-Cubleşu Someşan
 Cubulcut
+(Cuca)
 Cuca
 Cucerdea
 Cuceşti
 Cuceu
 Cuchiniş
+(Cuci)
 Cuci
+Cucii
 Cuciulat
 Cuciulata
 Cucoiu
@@ -3048,19 +2952,19 @@ Cucu
 Cucuceni
 Cucueţi
 Cucuieţi
-Cucuieţi (Dofteana)
-Cucuieţi (Solonţ)
 Cucuiş
 Cuculeasa
 Cuculeşti
+Cucului
 Cucuruzu
 Cucuta
+(Cucuteni)
 Cucuteni
-Cucuteni (Leţcani)
 Cudalbi
 Cuejdiu
 Cueni
 Cufoaia
+Cufundoasă
 Cugir
 Cuiaş
 Cuib
@@ -3070,11 +2974,9 @@ Cuieşd
 Cuiugiuc
 Cujba
 Cujmir
-Cujmiru Mic
+Cujmiru
 Culcea
 Culciu
-Culciu Mare
-Culciu Mic
 Culdeşti
 Culmea
 Culpiu
@@ -3088,8 +2990,7 @@ Cununschi
 Cuparu
 Cupele
 Cupşeni
-Cuptoare (Cornea)
-Cuptoare (Reşiţa)
+Cuptoare
 Curagău
 Curăţele
 Curăteşti
@@ -3107,23 +3008,20 @@ Curmătura
 Curmătură
 Curpen
 Curpeni
-Curpenii Silvaşului
+Curpenii
 Cursaru
 Curseşti-Deal
 Curseşti-Vale
+Curte
 Curtea
-Curtea de Argeş
 Curteana
 Curteanca
 Curteni
 Curteşti
 Curtici
 Curtişoara
-Curtişoara (Dobreţu)
 Curtuişeni
-Curtuiuşu Dejului
-Curtuiuşu Mare
-Curtuiuşu Mic
+Curtuiuşu
 Cuşma
 Cuşmed
 Cuştelnic
@@ -3135,41 +3033,40 @@ Cutca
 Cutin
 Cutina
 Cutiş
+Cuţului
 Cutuş
 Cuveşdia
 Cuvin
+Cuza
 Cuzap
 Cuzăplac
-Cuza Vodă
-Cuza Vodă (Ipatele)
-Cuza Vodă (Popricani)
-Cuza Vodă (Salcia Tudor)
-Cuza Vodă (Stăncuţa)
 Cuzdrioara
+Cuzei
 Cuzlău
 Dăbâca
 Dăbiceni
 Dăbuleni
 Dacia
+Dacilor
+Dadei
 Dădeşti
 Dăeni
 Dăeşti
-Dăeşti (Popeşti)
 Dagâţa
 Daia
-Daia (Apold)
-Daia (Bahnea)
-Daia Română
+Daicoviciu
+Dăii
 Dăişoara
 Dâlbociţa
+(Dalboşeţ)
 Dalboşeţ
 Dalci
 Dâlga
 Dâlga-Gară
 Dălghiu
 Dălhăuţi
-Dâlja Mare
-Dâlja Mică
+Dâlja
+Dâljii
 Dâlma
 Dalnic
 Dalu
@@ -3177,18 +3074,21 @@ Dămăcuşeni
 Dâmbău
 Dâmbova
 Dâmbovicioara
+Dâmboviţa
+Dâmboviţei
 Dâmbroca
 Dâmbu
-Dâmbu Mare
 Dâmbureni
 Dâmburile
 Dămideni
+(Dămieneşti)
 Dămieneşti
 Dămieni
 Dămileni
 Damiş
 Dămţeni
 Dămuc
+Dan
 Dănăila
 Dăncăi
 Dancaş
@@ -3196,36 +3096,40 @@ Dănceu
 Dănciuleşti
 Dancu
 Dâncu
-Dâncu Mare
-Dâncu Mic
 Dănduţ
 Dăneasa
+(Daneş)
 Daneş
+(Dăneşti)
 Dăneşti
-Dăneştii Chioarului
+Dăneştii
+(Daneţi)
 Daneţi
-Dângău Mare
-Dângău Mic
+Dângău
 Dângeni
 Dângeşti
 Dănicei
 Dănila
 Dănuleşti
+Danului
 Dara
 Darabani
 Dărăşti-Ilfov
 Dărăşti-Vlaşca
+Darie
 Dârja
 Dârjiu
 Dârleşti
 Dârloaia
 Dârlos
 Dărmăneasca
+(Dărmăneşti)
 Dărmăneşti
 Dârmăneşti
 Dârmoxa
 Dăroaia
 Daroţ
+(Darova)
 Darova
 Dârvari
 Dărvaş
@@ -3237,74 +3141,20 @@ David
 Davideni
 Davideşti
 Davidoaia
+de
 Deag
-Deagu de Jos
-Deagu de Sus
+Deagu
 Deaj
 Deal
+(Dealu
 Dealu
-Dealu Aluniş
-Dealu Armanului
-Dealu Babii
-Dealu Bajului
-Dealu Bisericii
-Dealu Bistrii
-Dealu Botii
-Dealu Bradului
-Dealu Capsei
-Dealu Caselor
-Dealu Corbului
-Dealu Corni
-Dealu Crişului
-Dealu Crucii
-Dealu Cucului
-Dealu Doştatului
-Dealu Ferului
-Dealu Floreni
-Dealu Frumos
-Dealu Frumos (Gârda de Sus)
-Dealu Frumos (Vadu Moţilor)
-Dealu Geoagiului
-Dealu Glămeia
-Dealu Goieşti
-Dealu Lămăşoi
-Dealu Lăunele
-Dealu Leului
-Dealu Lung
-Dealu Malului
-Dealu Mare
-Dealu Mare (Galicea)
-Dealu Mare (Guşoeni)
-Dealu Mare (Ioneşti)
-Dealu Mic
-Dealu Morii
-Dealu Muntelui
-Dealu Negru
-Dealu Obejdeanului
-Dealu Oraşului
-Dealu Ordâncuşii
-Dealu Pădurii
-Dealu Perjului
-Dealu Pomilor
-Dealu Roatei
-Dealu Sării
-Dealu Scheiului
-Dealu Secării
-Dealu Spirei
-Dealu Ştefăniţei
-Dealu Tolcesii
-Dealu Văleni
-Dealu Viei
-Dealu Viilor
-Dealu Viilor (Moşoaia)
-Dealu Viilor (Poiana Lacului)
+Dealului
 Decea
 Decebal
 Decindea
 Decindeni
 Deda
-Dedoviţa Nouă
-Dedoviţa Veche
+Dedoviţa
 Dedrad
 Deduleşti
 Deia
@@ -3314,25 +3164,24 @@ Dejan
 Dejani
 Dejeşti
 Dejoi
+Dejului
 Dejuţiu
+Delamarina
+Delamarina)
 Delani
 Delea
+(Deleni)
 Deleni
-Deleni (Ciorteşti)
-Deleni (Hoceni)
 Delenii
-Deleni (Ideciu de Jos)
 Deleni-Obârşie
-Deleni (Pogăceaua)
+(Deleşti)
 Deleşti
 Delineşti
 Delniţa
 Delureni
-Delureni (Ioneşti)
-Delureni (Stoileşti)
-Delureni (Valea Mare)
 Deluţ
 Demacuşa
+(Densuş)
 Densuş
 Denta
 Deonceşti
@@ -3343,9 +3192,11 @@ Dersca
 Derşida
 Desa
 Desag
+Deşert
 Deseşti
 Deşiraţi
 Desnăţui
+Deşului
 Deta
 Deuşu
 Deva
@@ -3361,6 +3212,7 @@ Dianu
 Dicăneşti
 Dichiseni
 Diconeşti
+(Diculeşti)
 Diculeşti
 Dideşti
 Didileşti
@@ -3368,18 +3220,19 @@ Dieci
 Dienci
 Dieneţ
 Dijir
-Dileu Nou
-Dileu Vechi
+Dileu
 Dilimani
 Dimăcheni
 Dimieni
-Dimitrie Cantemir
+Dimienii
+Dimitrie
 Dimoiu
 Dimuleşti
+din
 Dincani
 Dinculeşti
 Dindeşti
-Dindeştiu Mic
+Dindeştiu
 Dinga
 Diniaş
 Diocheţi-Rediu
@@ -3390,20 +3243,21 @@ Dipşa
 Diţeşti
 Ditrău
 Divici
-Diviciorii Mari
-Diviciorii Mici
+Diviciorii
 Doaga
 Doagele
 Doamna
+Doamnei
 Doanca
 Doba
 Dobârca
 Dobârceni
 Dobârlău
+Dobârlăului
+Dobei
 Dobeni
 Doblea
-Dobolii de Jos
-Dobolii de Sus
+Dobolii
 Dobolţ
 Doboşeni
 Dobra
@@ -3411,14 +3265,16 @@ Dobraia
 Dobrana
 Dobreni
 Dobreşti
+(Dobreţu)
 Dobreţu
 Dobric
 Dobricea
 Dobricel
 Dobriceni
 Dobricioneşti
-Dobricu Lăpuşului
+Dobricu
 Dobridor
+Dobrii
 Dobrileşti
 Dobrin
 Dobrinăuţi-Hapăi
@@ -3426,16 +3282,18 @@ Dobrineşti
 Dobriţa
 Dobrocina
 Dobroeşti
+Dobrogei
 Dobrogostea
 Dobromir
 Dobromira
-Dobromiru din Deal
+Dobromiru
 Dobrosloveni
 Dobrosloveşti
 Dobrot
 Dobroţ
 Dobrota
 Dobroteasa
+(Dobroteşti)
 Dobroteşti
 Dobrotinet
 Dobrotu
@@ -3444,11 +3302,15 @@ Dobrun
 Dobruşa
 Docăneasa
 Docani
+(Dochia)
 Dochia
+Dochiei
 Doclin
 Dodeni
 Dodeşti
 Doftana
+Doftanei
+(Dofteana)
 Dofteana
 Dogăreşti
 Dogari
@@ -3456,45 +3318,47 @@ Dognecea
 Doh
 Doiceşti
 Doina
+Doja
+Doja)
 Dolaţ
 Dolceşti
 Dolea
 Doleşti
+(Dolhasca)
 Dolhasca
 Dolheni
 Dolheşti
-Dolheştii Mari
-Dolheştii Mici
+Dolheştii
 Dolina
+Dolj
 Doljeşti
 Dolu
 Doman
 Domăneşti
 Domaşnea
+Domnească
 Domneşti
 Domneşti-Sat
 Domneşti-Târg
 Domnin
 Domniţa
-Domnu Tudor
+Domnu
 Domoşu
 Donceni
 Doneşti
 Dopca
 Doptău
+Dor
 Dorgoş
-Dor Mărunt
 Dorna
 Dorna-Arini
-Dorna Candrenilor
-Dorneni (Plopana)
-Dorneni (Vultureni)
+Dornei
+Dorneni
 Dorneşti
 Dornişoara
 Dorobanţ
 Dorobanţi
 Dorobanţu
-Dorobanţu (Plătăreşti)
 Dorofei
 Dorohoi
 Dorolea
@@ -3506,39 +3370,32 @@ Dos
 Doseni
 Dospineşti
 Doştat
-Dosu Bricii
-Dosu Luncii
-Dosu Napului
-Dosu Râului
-Dosu Văseşti
+Doştatului
+Dosu
 Dozeşti
 Dracea
 Drăceşti
 Dracşani
 Drăcşani
 Drăcşenei
-Drăculea Bandului
+Drăculea
 Draga
 Drăgăeşti-Pământeni
 Drăgăeşti-Ungureni
 Dragalina
-Dragalina (Cristineşti)
-Dragalina (Hlipiceni)
 Drăgăneasa
 Drăgăneasca
 Drăgănescu
+(Drăgăneşti)
 Drăgăneşti
-Drăgăneşti (Brezoi)
-Drăgăneşti de Vede
-Drăgăneşti (Goleşti)
 Drăgăneşti-Olt
 Drăgăneşti-Vlaşca
 Drăganu
+Drăganului
 Drăganu-Olteni
+(Drăgăşani)
 Drăgăşani
 Drăgeşti
-Drăgeşti (Dămieneşti)
-Drăgeşti (Tătărăşti)
 Drăghescu
 Drăgheşti
 Drăghia
@@ -3552,6 +3409,7 @@ Drăgoaia
 Dragodana
 Dragodăneşti
 Drăgoeni
+(Drăgoeşti)
 Drăgoeşti
 Drăgoiasa
 Drăgoieşti
@@ -3559,15 +3417,16 @@ Drăgoieşti-Luncă
 Drăgoleşti
 Dragomăneşti
 Dragomir
+(Dragomireşti)
 Dragomireşti
 Dragomireşti-Deal
 Dragomireşti-Vale
 Dragomirna
+Dragomirnei
+Dragoş
 Dragoşa
 Dragoslavele
-Dragosloveni (Dumbrăveni)
-Dragosloveni (Soveja)
-Dragoş Vodă
+Dragosloveni
 Drăgoteni
 Dragoteşti
 Drăgoteşti
@@ -3578,15 +3437,16 @@ Dragu
 Dragu-Brad
 Drăgugeşti
 Drăguleşti
+Dragului
 Drăguş
 Drăguşani
+(Drăguşeni)
 Drăguşeni
 Drăguţeşti
+(Drajna)
 Drajna
-Drajna de Jos
-Drajna de Sus
-Drajna Nouă
 Drâmbar
+(Drânceni)
 Drânceni
 Drănic
 Dranovăţu
@@ -3608,120 +3468,102 @@ Drincea
 Drinova
 Drislea
 Driştie
-Drobeta-Turnu Severin
+Drobeta-Turnu
 Drogu
 Drojdii
 Dropia
 Drujeşti
-Drumul Carului
+Drumul
 Dubeşti
-Dubiştea de Pădure
+Dubiştea
 Dubiusca
 Dubova
 Duboz
+Duca
+Duca)
 Duculeşti
 Dud
 Duda
+(Duda-Epureni)
 Duda-Epureni
 Dudaşu
-Dudaşu Schelei
 Dudescu
 Dudeşti
-Dudeştii Noi
-Dudeştii Vechi
+Dudeştii
 Dudoviceşti
 Dudu
 Duduieni
 Dulbanu
+Dulce
 Dulcea
 Dulceanca
 Dulcele
 Dulceni
+(Dulceşti)
 Dulceşti
 Duleu
 Dulgheru
 Dumăceşti
 Dumasca
+(Dumbrava
+(Dumbrava)
 Dumbrava
-Dumbrava (Ciurea)
-Dumbrava (Cornu Luncii)
 Dumbrava-Deal
-Dumbrava de Jos
-Dumbrava de Mijloc
-Dumbrava de Sus
-Dumbrava (Grăniceşti)
-Dumbrava (Gura Văii)
-Dumbrava (Iteşti)
-Dumbrava (Lespezi)
-Dumbrava (Livezile)
 Dumbrăvani
-Dumbrava (Nuşeni)
-Dumbrava (Panciu)
-Dumbrava (Poiana Cristei)
-Dumbrava (Răchitoasa)
-Dumbrava Roşie
-Dumbrava (Săsciori)
-Dumbrava (Unirea)
-Dumbrava (Zlatna)
+(Dumbrăveni)
 Dumbrăveni
-Dumbrăveni (Râşca)
+(Dumbrăveşti)
 Dumbrăveşti
 Dumbrăvioara
 Dumbrăviţa
-Dumbrăviţa de Codru
 Dumeni
+(Dumeşti)
 Dumeşti
-Dumeştii Vechi
+Dumeştii
 Dumireşti
 Dumitra
 Dumitrana
 Dumitreni
+(Dumitreşti)
 Dumitreşti
 Dumitreştii
-Dumitreştii de Sus
 Dumitreştii-Faţă
-Dumitreştii Gălăţii
 Dumitriţa
 Dumuslău
 Dunărea
-Dunărea Mică
 Dunăreni
-Dunavăţu de Jos
-Dunavăţu de Sus
-După Deal
-După Deal (Cuci)
-După Deal (Iclănzel)
-După Deal (Lupşa)
-După Deal (Ponor)
-După Măgura
+Dunavăţu
+După
 Dupăpiatră
-După Pleşe
 Dupuş
 Durăşti
 Durău
 Durneşti
-Durneşti (Santa Mare)
-Durneşti (Ungureni)
 Duruşa
 Duşeşti
 Duţuleşti
 Eforie
-Eforie Nord
-Eforie Sud
-Eftimie Murgu
+Eftimie
 Eghersec
 Ehreşte
 Eibenthal
+Elan
 Elciu
+Elena
 Eliseni
-Emil Racoviţă
+Emil
+Eminescu
+Enache
 Enăcheşti
 Enciu
 Enculeşti
+Endre
+Enei
+Enescu
+Enescu)
 Enisala
 Enoşeşti
 Epureni
-Epureni (Duda-Epureni)
 Erbiceni
 Ercea
 Eremieni
@@ -3741,6 +3583,8 @@ Eteni
 Ezeni
 Ezeriş
 Fabrica
+Fabrici
+Fabricii
 Făcăeni
 Făcăi
 Făcăieni
@@ -3749,60 +3593,42 @@ Făcău
 Făclia
 Fădimac
 Făgăraş
-Făgăraşu Nou
+Făgăraşu
 Făgăt
 Făget
 Făgeţel
-Făgeţel (Frumoasa)
-Făgeţel (Remetea)
 Făgeţelu
 Făgetu
-Făgetu de Jos
-Făgetu de Sus
-Făgetu Ierii
+Făgetului
 Făghieni
+Fagului
 Falaştoaca
 Falca
 Falcău
+(Fălciu)
 Fălciu
 Fălcoiu
 Fălcuşa
 Fâlfani
 Fălticeni
-Fânari (Gorgota)
-Fânari (Olari)
+Fânari
 Fânaţe
-Fânaţe (Band)
-Fânaţe (Fărăgău)
-Fânaţe (Iclănzel)
-Fânaţele Căpuşului
-Fânaţele Mădăraşului
-Fânaţele Silivaşului
-Fânaţele Socolului
-Fânaţe (Tăureni)
+Fânaţele
+Fânaţului
 Fâncel
 Făncica
 Fântâna
-Fântâna Babii
-Fântâna Blănarului
-Fântâna Brazilor
-Fântâna Doamnei
-Fântâna Domnească
-Fântâna Mare
-Fântâna Oilor
 Fântânea
+Fântânei
+(Fântânele)
 Fântânele
-Fântânele (Andrieşeni)
-Fântânele (Hemeiuş)
-Fântânele (Mărgăriteşti)
-Fântânele (Motoşeni)
-Fântânele (Năeni)
-Fântânele (Radovan)
 Fântânele-Rus
-Fântânele (Teslui)
 Fântâni
-Fântânile Negre
+Fântânii
+Fântânile
+Fântânilor
 Fântâniţa
+(Fărăgău)
 Fărăgău
 Faraoanele
 Faraoani
@@ -3811,53 +3637,49 @@ Fărău
 Fărcădin
 Farcaş
 Fărcaş
+(Farcaşa)
 Farcaşa
+(Fărcaşa)
 Fărcaşa
 Fărcaşele
 Fărcăşeni
 Fărcăşeşti
 Fărcăşeşti-Moşneni
-Fărcaşu de Jos
+Fărcaşu
 Fârdea
 Fârliug
 Fârţăneşti
+(Fârtăţeşti)
 Fârtăţeşti
 Fâşca
 Fâstâci
 Fata
 Faţa
-Faţa Abrudului
-Faţa Cremenii
-Faţa Cristesei
-Faţa Lăpuşului
+Faţă
 Faţa-Lăzeşti
-Faţa lui Nan
-Faţa Motrului
-Faţa Pietrii
-Faţa Roşie
 Făurei
 Făurei-Sat
 Făureni
 Făureşti
-Făureşti (Zătreni)
 Făuroaia
+Faurului
 Fedeleşeni
 Fedeleşoiu
 Federi
 Fedeşti
 Fefelei
 Fegernic
-Fegernicu Nou
+Fegernicu
 Feisa
 Feiurdeni
 Felcheriu
 Feldioara
-Feldioara (Ucea)
 Feldru
 Feleac
 Feleacu
 Feleag
 Feliceni
+Felix
 Felmer
 Felnac
 Feneriş
@@ -3873,6 +3695,8 @@ Ferice
 Fericea
 Fericet
 Fersig
+Ferului
+Fetei
 Feţeni
 Feteşti
 Feteşti-Gară
@@ -3884,41 +3708,37 @@ Ficăreşti
 Ficătar
 Fichiteşti
 Fieni
+Fier
 Fierbinţi
-Fierbinţii de Jos
-Fierbinţii de Sus
+Fierbinţii
 Fierbinţi-Târg
 Figa
 Filaret
-Fildu de Jos
-Fildu de Mijloc
-Fildu de Sus
+Fildu
 Filea
-Filea de Jos
-Filea de Sus
 Filia
 Filiaş
+(Filiaşi)
 Filiaşi
+Filii
 Filioara
+(Filipeni)
 Filipeni
+(Filipeşti)
 Filipeşti
-Filipeşti (Bogdăneşti)
-Filipeştii de Pădure
-Filipeştii de Târg
+(Filipeştii
+Filipeştii
 Filitelnic
 Filiu
 Filpea
-Filpişu Mare
-Filpişu Mic
+Filpişu
 Finciu
+(Finiş)
 Finiş
 Finişel
 Finta
-Finta Mare
-Finta Veche
 Finţeşti
-Finteuşu Mare
-Finteuşu Mic
+Finteuşu
 Fintoag
 Fireşti
 Firijba
@@ -3937,26 +3757,25 @@ Fitioneşti
 Fitod
 Fizeş
 Fizeşti
-Fizeşu Gherlii
+Fizeşu
 Fiziş
+(Flămânzi)
 Flămânzi
 Fliteşti
 Flondora
 Floran
 Floreni
+Florese
 Floreşteni
 Floreşti
-Floreşti (Bucium)
-Floreşti (Căiuţi)
-Floreşti (Câmpeni)
-Floreşti (Huruieşti)
-Floreşti (Râmeţ)
-Floreşti (Scărişoara)
-Floreşti (Scorţeni)
+(Floreşti-Stoeneşti)
 Floreşti-Stoeneşti
+Flori
 Florica
 Florieni
+Florii
 Floriile
+Florilor
 Florinta
 Floroaia
 Floroaica
@@ -3972,10 +3791,10 @@ Fofeldea
 Foglaş
 Foi
 Foieni
+Foii
 Foişor
 Folea
-Foleştii de Jos
-Foleştii de Sus
+Foleştii
 Folt
 Folteşti
 Fonău
@@ -3988,33 +3807,35 @@ Forţeni
 Foteşti
 Fotin
 Fotoş
-Frâncenii Boiului
-Frâncenii de Piatră
+Frâncenii
 Frânceşti
 Frânceşti-Coasta
 Frasin
 Frasina
-Frasin (Broşteni)
 Frasin-Deal
 Frăsinet
 Frăsinet-Gară
 Frăsinetu
-Frăsinetu de Jos
 Frăsiniş
 Frasinu
 Frasin-Vale
 Frăsuleni
 Frata
-Frătăuţii Noi
-Frătăuţii Vechi
+Frătăuţii
 Frăteşti
+Fraţi
 Frătici
+Frăţiei
+Frăţii
 Frăţila
 Frăţileşti
 Fratoştiţa
 Frecăţei
 Frenciugi
+(Frumoasa)
 Frumoasa
+Frumoasă
+Frumos
 Frumosu
 Frumuşani
 Frumuşei
@@ -4031,45 +3852,32 @@ Frunzeni
 Fufez
 Fughiu
 Fulga
-Fulga de Jos
-Fulga de Sus
 Fulgeriş
 Fulgu
 Fumureni
 Fundata
 Fundăţica
 Fundătura
-Fundătura (Arsura)
-Fundătura (Deleşti)
-Fundătura Mare
-Fundătura Mică
-Fundătura Răchitoasa
 Fundăturile
 Fundeanu
 Fundeni
-Fundenii Noi
+Fundenii
 Fundoaia
-Fundu Herţii
+Fundu
 Fundulea
-Fundu Moldovei
-Fundu Răcăciuni
-Fundu Tutovei
-Fundu Văii
-Fundu Văii (Lipovăţ)
-Fundu Văii (Poieneşti)
-Furcenii Noi
-Furcenii Vechi
+Furcenii
 Furcşoara
+(Furculeşti)
 Furculeşti
 Furdueşti
-Furduieşti (Câmpeni)
-Furduieşti (Sohodol)
+Furduieşti
 Fureşti
 Furnica
 Furnicari
 Furnicoşi
 Furtuneşti
 Fusea
+Gabrielescu
 Gabru
 Găbud
 Gad
@@ -4077,6 +3885,7 @@ Gădălin
 Gâdinţi
 Găeşti
 Găgeni
+(Găgeşti)
 Găgeşti
 Gagu
 Gaia
@@ -4085,32 +3894,33 @@ Găieşti
 Găineşti
 Găinuşa
 Găiseanca
+(Găiseni)
 Găiseni
-Gaiu Mic
+Gaiu
 Gălăneşti
 Gălăoaia
 Gălăşeni
-Gălăşeşti (Budeasa)
-Gălăşeşti (Suseni)
+Gălăşeşti
 Gălăteni
 Gălăţeni
 Galaţi
-Galaţii Bistriţei
+Galaţii
+Gălăţii
 Gălăţui
 Gălăuţaş
 Gălăuţaş-Pârău
+Galben
 Galbena
 Galbeni
-Galbeni (Filipeşti)
-Galbeni (Nicolae Bălcescu)
 Galbenu
 Galbina
 Gălbinaşi
 Gălbiori
 Gâlceşti
-Galda de Jos
-Galda de Sus
+(Galda
+Galda
 Gâldău
+Galdei
 Galeri
 Galeş
 Găleşoaia
@@ -4118,9 +3928,9 @@ Găleşti
 Galeşu
 Găleţeanu
 Gâlgău
-Gâlgău Almaşului
+Galian
+(Galicea)
 Galicea
-Galicea Mare
 Galiciuica
 Galiţa
 Gâlmeia
@@ -4138,72 +3948,66 @@ Gămani
 Gâmbaş
 Gâmbuţ
 Ganaş
+Gândului
 Găneasa
 Găneşti
 Gângiova
+Gânguleşti
 Gânţaga
 Gănţulei
 Gara
-Gara Banca
-Gara Berheci
-Gara Bobocu
-Gara Cilibia
-Gara Docăneasa
 Gărăgău
-Gara Ghidigeni
-Gara Ianca
-Gara Leu
 Gărâna
-Gara Roşieşti
-Gara Tălăşman
+(Gârbău)
 Gârbău
-Gârbău Dejului
+Gârbea
 Gârbeni
 Gârbeşti
 Gârbou
+Gârboului
+(Gârbova)
 Gârbova
-Gârbova de Jos
-Gârbova de Sus
 Gârbovăţ
-Gârbovăţu de Jos
-Gârbovăţu de Sus
+Gârbovăţu
+Gârbovăţului
 Gârbovi
 Gârboviţa
 Gârbovu
 Gârceiu
 Gârceni
 Gârcina
-Gârciu (Racu)
+Gârciu
 Gârcov
+(Gârda
+Gârda
 Gârda-Bărbuleşti
-Gârda de Sus
 Gărdăneasa
 Gârdani
-Gârda Seacă
 Gârde
 Gârdeşti
 Gărdineşti
 Gârdoaia
-Gârla Anei
-Gârla Mare
+Gârla
 Gârleni
-Gârlenii de Sus
+Gârlenii
 Gârleşti
 Gârliciu
 Gârlişte
 Gârliţa
+Gârluţei
 Gârnic
 Gârnicet
 Gârnicetu
 Gârniţa
 Garoafa
+Gârtii
 Garvăn
 Gâşteni
 Gâşteşti
 Gătaia
 Gătejeşti
 Găujani
-Gaura Sângerului
+Gaura
 Găureni
 Găvănel
 Găvanele
@@ -4214,8 +4018,6 @@ Gavojdia
 Găzărie
 Geaca
 Geamăna
-Geamăna (Drăgoeşti)
-Geamăna (Stoileşti)
 Geangoeşti
 Gebleşti
 Gefu
@@ -4225,24 +4027,24 @@ Gemenea
 Gemenea-Brătuleşti
 Gemenele
 Gemeni
-General Berthelot
-General Praporgescu
-General Scărişoreanu
+General
 Genuneni
+(Geoagiu)
 Geoagiu
 Geoagiu-Băi
-Geoagiu de Sus
+Geoagiului
 Geogel
 Geomal
-George Coşbuc
-George Enescu
+(George
+George
 Georocel
-Georocu Mare
+Georocu
 Gepiş
 Gepiu
 Gerăuşa
-Gersa I
-Gersa II
+German
+Germană
+Gersa
 Gheaba
 Ghebari
 Gheboaia
@@ -4257,14 +4059,15 @@ Ghelmegioaia
 Ghemeş
 Ghenci
 Ghenetea
-Gheorghe Doja
-Gheorghe Lazăr
+(Gheorghe
+Gheorghe
 Gheorgheni
 Gheorgheşti
 Gheorghieni
 Gheorghiţeni
 Gherăeşti
-Gherăeştii Noi
+Gherăeştii
+(Gherăseni)
 Gherăseni
 Gherceşti
 Gherdana
@@ -4274,17 +4077,19 @@ Ghergheasa
 Ghergheleu
 Ghergheşti
 Gherghina
+(Gherghiţa)
 Gherghiţa
 Gherghiţeşti
+(Gherla)
 Gherla
+Gherlii
+Gherlii)
 Gherman
 Ghermăneşti
-Ghermăneşti (Banca)
-Ghermăneşti (Drânceni)
-Gherţa Mare
-Gherţa Mică
+Gherţa
 Gherteniş
 Gheţari
+Ghica
 Ghicani
 Ghida
 Ghidaşteu
@@ -4296,8 +4101,7 @@ Ghiduţ
 Ghighişeni
 Ghighiu
 Ghigoieşti
-Ghijasa de Jos
-Ghijasa de Sus
+Ghijasa
 Ghilad
 Ghilăveşti
 Ghileşti
@@ -4308,7 +4112,7 @@ Ghimeş-Făget
 Ghimiceşti
 Ghimpaţi
 Ghimpeţeni
-Ghimpeţenii Noi
+Ghimpeţenii
 Ghinda
 Ghindăoani
 Ghindăreşti
@@ -4326,6 +4130,7 @@ Ghionea
 Ghionoaia
 Ghiorac
 Ghioroc
+(Ghioroiu)
 Ghioroiu
 Ghioşani
 Ghioşeşti
@@ -4335,7 +4140,7 @@ Ghirdoveni
 Ghireasca
 Ghireni
 Ghirişa
-Ghirişu Român
+Ghirişu
 Ghiroda
 Ghirolt
 Ghiurche
@@ -4351,28 +4156,29 @@ Gibeşti
 Giera
 Gighera
 Gilău
+Gilort
 Gilortu
 Gimbăşani
 Ginerica
 Ginta
+Giogeşti
 Giorocuta
 Gioseni
-Girişu de Criş
-Girişu Negru
+Girişu
 Giroc
+(Girov)
 Girov
 Giubega
 Giuclani
 Giula
 Giuleşti
-Giuleştii de Sus
+Giuleştii
 Giuluş
 Giulvăz
 Giungi
 Giura
 Giurcani
-Giurcuţa de Jos
-Giurcuţa de Sus
+Giurcuţa
 Giurgeni
 Giurgeşti
 Giurgiani
@@ -4384,11 +4190,9 @@ Giurgiu
 Giurgiuţ
 Giurgiuveni
 Giuroiu
-Giurtelecu Hododului
-Giurtelecu Şimleului
+Giurtelecu
 Giuvărăşti
-Gladna Montană
-Gladna Română
+Gladna
 Glăjărie
 Glâmboaca
 Glâmbocata
@@ -4396,28 +4200,29 @@ Glâmbocata-Deal
 Glâmbocel
 Glâmbocelu
 Glâmbocu
+Glămeia
 Glavacioc
 Glăvăneşti
+(Glăvile)
 Glăvile
 Gledin
-Gliganu de Jos
-Gliganu de Sus
+Gliganu
 Gligoreşti
 Glimboca
 Glina
-Globu Craiovei
+Globu
 Globurău
 Glod
-Glodeanu Sărat
+Glodeanu
+(Glodeanu-Siliştea)
 Glodeanu-Siliştea
+(Glodeni)
 Glodeni
-Glodenii Gândului
-Glodeni (Pucioasa)
+Glodenii
 Glodghileşti
 Glodişoarele
 Glodu
-Glodu (Călineşti)
-Glodu (Leordeni)
+Glodului
 Glodu-Petcari
 Glodurile
 Glogova
@@ -4426,17 +4231,18 @@ Glogoveţ
 Goagiu
 Goanţa
 Goaşele
+Goblii
 Godeanu
-Godeanu (Obârşia-Cloşani)
+(Godeni)
 Godeni
 Godineşti
-Godineştii de Jos
-Godineştii de Sus
+Godineştii
 Goeşti
 Goga
 Gogan
 Gogeasca
 Gogoiu
+(Gogoşari)
 Gogoşari
 Gogoşeşti
 Gogoşiţa
@@ -4451,19 +4257,20 @@ Goila
 Goioasa
 Gojeieşti
 Golăieşti
+Goldiş
 Goleasca
 Golenţi
 Goleş
+(Goleşti)
 Goleşti
-Goleşti (Bălileşti)
-Goleştii de Sus
-Goleşti (Ştefăneşti)
+Goleşti)
+Goleştii
 Goleţ
 Golfin
 Golineasa
 Gologanu
 Golotreni
-Golu Grabicina
+Golu
 Golumbelu
 Golumbu
 Gomoeşti
@@ -4471,19 +4278,24 @@ Gonţeşti
 Gorăneşti
 Gorani
 Gorâni
+(Gorban)
 Gorban
+(Gorbăneşti)
 Gorbăneşti
 Goreni
 Gorgan
 Gorganu
 Gorgheşti
+(Gorgota)
 Gorgota
 Gorgova
+Gorj
 Gornăcel
 Gornea
 Gorneni
 Gornenţi
 Gorneşti
+(Gornet)
 Gornet
 Gornet-Cricov
 Gornoviţa
@@ -4491,8 +4303,7 @@ Gorovei
 Goruia
 Gorun
 Goruna
-Goruneşti (Bălceşti)
-Goruneşti (Slătioara)
+Goruneşti
 Goruni
 Goşmani
 Gostavăţu
@@ -4507,39 +4318,46 @@ Govăjdia
 Govodarva
 Govora
 Grabaţ
-Grabicina de Jos
-Grabicina de Sus
+Grabicina
 Grădeşti
 Grădina
+(Grădinari)
 Grădinari
 Grădini
 Grădinile
+(Grădiştea)
 Grădiştea
-Grădiştea de Munte
 Grădişteanca
+Grădiştei
 Grăjdana
 Grăjdeni
+Grajdului
+(Grajduri)
 Grajduri
 Grămeşti
 Grânari
 Grăniceri
 Grănicerii
 Grăniceru
+(Grăniceşti)
 Grăniceşti
+Grânoasă
 Gratia
 Grâuşorul
 Greabăn
 Greabănu
 Greaca
 Grebănu
-Grebenişu de Câmpie
+(Grebenişu
+Grebenişu
 Grebleşti
 Greceanca
 Greceşti
+(Greci)
 Greci
-Grecii de Jos
-Greci (Osica de Sus)
-Greci (Schitu)
+Grecii
+Grecilor
+Grecului
 Greereşti
 Greoni
 Gresia
@@ -4552,11 +4370,12 @@ Grind
 Grindaşi
 Grindeni
 Grindu
+Grindului
+(Grinţieş)
 Grinţieş
 Griviţa
-Groapa Rădăii
-Groapa Tufei
-Groapa Vlădichii
+Groapa
+Groapă
 Groape
 Grohot
 Grohoţele
@@ -4570,21 +4389,22 @@ Groşani
 Groşeni
 Groşerea
 Groşi
-Groşii Noi
-Groşii Ţibleşului
+Groşii
+Groşilor
+Grosului
 Groşuri
 Grozăveşti
+(Grozeşti)
 Grozeşti
 Grui
 Gruia
 Gruieri
+Gruii
 Gruilung
 Gruişor
 Gruiţa
 Gruiu
-Gruiu (Căteasca)
-Gruiu Lupului
-Gruiu (Nucşoara)
+Gruiului
 Grumăzeşti
 Grumezoaia
 Gruni
@@ -4596,68 +4416,21 @@ Gugeşti
 Guguianca
 Gulia
 Gulianca
-Gura Albeşti
-Gura Arieşului
-Gura Bădicului
-Gura Bâdiliţei
-Gura Bărbuleţului
-Gura Bâscei
-Gura Beliei
-Gura Bohotin
-Gura Bordului
-Gura Caliţei
-Gura Călmăţui
-Gura Câlnăului
-Gura Căluiu
-Gura Cornei
-Gura Crăieşti
-Gura Crivăţului
-Gura Crucilor
-Gura Cuţului
-Gura Dimienii
-Gura Dobrogei
-Gura Făgetului
-Gura Foii
-Gura Gârbovăţului
-Gura Gârluţei
-Gura Haitii
+Gumeşti
+(Gura
+Gura
+(Gurahonţ)
 Gurahonţ
-Gura Humorului
-Gura Ialomiţei
-Gura Idrici
-Gura Izbitei
 Gura-Menţi
-Gura Motrului
 Guranda
 Gurani
-Gura Ocniţei
-Gura Padinii
-Gura Pravăţ
-Gura Putnei
-Gura Racului
-Gura Râului
-Gura Roşiei
 Gurasada
-Gura Sărăţii
-Gura Siriului
-Gura Sohodol
-Gura Solcii
-Gura Suhaşului
-Gura Şuşiţei
-Gura Şuţii
-Gura Teghii
-Gura Vadului
-Gura Văii
-Gura Văii (Racova)
-Gura Vitioarei
-Gura Vlădesei
-Gura Vulcanei
 Gurba
 Gurbăneşti
 Gurbediu
-Gurbeşti (Căbeşti)
-Gurbeşti (Spinuş)
+Gurbeşti
 Gureni
+(Gurghiu)
 Gurghiu
 Gurguiata
 Gurguieţi
@@ -4665,6 +4438,7 @@ Gurişoara
 Guruieni
 Guruslău
 Guşiţei
+(Guşoeni)
 Guşoeni
 Guşoianca
 Guşoiu
@@ -4677,21 +4451,23 @@ Hăbeni
 Habic
 Hăbud
 Hadâmbu
+Hadâmbului
 Hădărău
 Hădăreni
 Hagău
-Hăghiac (Dofteana)
-Hăghiac (Răchitoasa)
+Hăghiac
 Hăghig
 Hagieni
 Hagieşti
 Hagioaica
+Hagiului
 Hagota
 Haidar
 Haiduceşti
 Hăieşti
 Haieu
 Hăineala
+Haitii
 Hălăliş
 Halânga
 Hălăngeşti
@@ -4709,31 +4485,31 @@ Halmăşd
 Hălmeag
 Halmeu
 Halmeu-Vii
-Halta Dodeşti
+Halta
 Hamba
 Hamcearca
 Hamzoaia
-Hănăşeşti (Gârda de Sus)
-Hănăşeşti (Poiana Vadului)
+Hănăşeşti
 Hancea
-Handalu Ilbei
+Handalu
 Hândreşti
-Haneş Mină
+Haneş
 Hăneşti
 Hângăneşti
 Hangu
 Hânguleşti
 Hanţa
 Hănţeşti
-Hanu Conachi
-Hanul Ancuţei
-Hanu lui Pală
+Hanu
+Hanul
+Hanului
 Hăpria
 Harale
 Hărănglab
 Hărăşti
 Hărău
 Haret
+Harghita
 Harghita-Băi
 Hârja
 Hârlău
@@ -4741,8 +4517,7 @@ Hârleşti
 Hărman
 Hărmăneasa
 Hărmăneşti
-Hărmăneştii Noi
-Hărmăneştii Vechi
+Hărmăneştii
 Hărniceşti
 Hărpăşeşti
 Hârsa
@@ -4759,15 +4534,15 @@ Hârtoape
 Hârtop
 Haşag
 Hăşdat
-Hăşdate (Gherla)
-Hăşdate (Săvădisla)
+Hăşdate
 Hăşdău
 Hăşmaş
-Hăşmaşu Ciceului
+Hăşmaşu
 Hăţăgel
 Hătcărău
 Haţeg
 Haţegana
+Haţegului
 Hătuica
 Hăuceşti
 Hăulişca
@@ -4776,15 +4551,19 @@ Havârna
 Heci
 Helegiu
 Helereşti
+(Heleşteni)
 Heleşteni
 Heleşteu
 Heleşti
-Heliade Rădulescu
+Heliade
 Heltiu
+(Hemeiuş)
 Hemeiuş
 Hemieni
 Henig
+Henţii
 Herăşti
+Herculane
 Herculian
 Hereclean
 Herendeşti
@@ -4796,7 +4575,8 @@ Herina
 Herla
 Hermeziu
 Herneacova
-Hertioana de Jos
+Herţii
+Hertioana
 Hertioana-Răzeşi
 Hetea
 Hetiur
@@ -4805,8 +4585,7 @@ Hida
 Hideaga
 Hidiş
 Hidişel
-Hidişelu de Jos
-Hidişelu de Sus
+Hidişelu
 Higiu
 Hilib
 Hilişeu-Cloşca
@@ -4822,12 +4601,13 @@ Hisiaş
 Hitiaş
 Hlăpeşti
 Hlincea
+(Hlipiceni)
 Hlipiceni
-Hoancă (Sohodol)
-Hoancă (Vidra)
+Hoancă
 Hobaia
 Hobiţa
 Hobiţa-Grădişte
+(Hoceni)
 Hoceni
 Hociungi
 Hodac
@@ -4843,23 +4623,25 @@ Hodişu
 Hodivoaia
 Hodobana
 Hodod
+Hododului
 Hodoni
 Hodora
 Hodoreasca
 Hodoş
 Hodoşa
-Hodoş (Brestovăţ)
-Hodoş (Darova)
+Hogei
 Hoghia
 Hoghilag
 Hoghiz
 Hoiseşti
 Holbăneşti
 Holbav
+(Holboca)
 Holboca
 Holda
 Holdea
 Holdiţa
+Holhorii
 Holm
 Holobani
 Holod
@@ -4867,25 +4649,25 @@ Holt
 Homeşti
 Homiceni
 Homiţa
+(Homocea)
 Homocea
 Homojdia
 Homorâciu
 Homoroade
 Homorod
-Homorodu de Jos
-Homorodu de Mijloc
-Homorodu de Sus
+Homorodu
 Homorog
 Hondol
 Honorici
 Honţişor
 Hopârta
-Hora Mare
-Hora Mică
+Hora
 Horăşti
 Hordila
 Hordileşti
+(Horea)
 Horea
+(Horezu)
 Horezu
 Horezu-Poenari
 Horga
@@ -4893,14 +4675,11 @@ Horgeşti
 Horia
 Horlacea
 Horlăceni
+(Horleşti)
 Horleşti
-Horleşti (Rediu)
-Horoatu Cehului
-Horoatu Crasnei
+Horoatu
 Horodiştea
 Horodnic
-Horodnic de Jos
-Horodnic de Sus
 Horodniceni
 Horoiata
 Horpaz
@@ -4909,20 +4688,24 @@ Hosman
 Hotar
 Hotărani
 Hotărasa
+Hotare
 Hotărel
 Hotarele
 Hotăroaia
 Hotăroasa
 Hotaru
+Hotarului
 Hoteni
 Hotoan
 Hovrila
+Hranei
 Hreasca
 Hreaţca
 Hrip
 Hrişcani
 Huc
 Huci
+(Hudeşti)
 Hudeşti
 Hudriceşti
 Hudum
@@ -4930,25 +4713,27 @@ Huedin
 Huisurez
 Hulub
 Huluba
+(Hulubeşti)
 Hulubeşti
+Humei
 Humele
 Humoreni
+Humorului
 Humosu
 Humuleşti
-Humuleştii Noi
+Humuleştii
 Hunedoara
-Hunedoara Timişană
 Hunia
 Hupca
 Hurduceşti
 Hurdugi
 Hurez
 Hurezani
-Hurezu Mare
+Hurezu
 Hurjuieni
+(Huruieşti)
 Huruieşti
-Husasău de Criş
-Husasău de Tinca
+Husasău
 Huseni
 Huşi
 Husia
@@ -4957,9 +4742,10 @@ Huştiu
 Huta
 Huta-Certeze
 Huţani
-Huta Voivozi
 Huţu
 Huzăreşti
+I
+I.
 Iabalcea
 Iablaniţa
 Iacobeni
@@ -4967,65 +4753,68 @@ Iacobeşti
 Iacobini
 Iacovile
 Iadăra
+Iadului
+Ialomiţa
+Ialomiţei
 Iam
+(Iana)
 Iana
 Ianca
-Ianca Nouă
-Iancu Jianu
+Iancu
+Iancu)
 Ianculeşti
 Ianoşda
 Ianova
 Iapa
 Iara
-Iara de Mureş
 Iarăş
 Iaşi
 Iaşi-Gorj
 Iaslovăţ
 Iaşu
+Iaşului
+Iaşului)
 Iaz
 Iazu
-Iazu Nou
 Iazurile
-Iazu Vechi
 Ibăneasa
 Ibăneşti
 Ibăneşti-Pădure
 Ibrianu
 Ibru
+I.C.
 Icafalău
-I.C. Brătianu
 Ichimeni
 Icland
-Iclandu Mare
+Iclandu
+Iclandului
+(Iclănzel)
 Iclănzel
+(Iclod)
 Iclod
 Icloda
 Iclozel
 Icoana
 Ictar-Budinţi
 Icuşeni
+(Icuşeşti)
 Icuşeşti
-Ideciu de Jos
-Ideciu de Sus
+(Ideciu
+Ideciu
 Idicel
 Idicel-Pădure
 Idiciu
 Idrici
 Idrifaia
-Iecea Mare
-Iecea Mică
+Iecea
 Iedera
-Iedera de Jos
-Iedera de Sus
 Iedu
 Iegherişte
-Iepureni (Andrieşeni)
-Iepureni (Movileni)
+Iepureni
 Iepureşti
 Iercoşeni
+Ierii
 Iermata
-Iermata Neagră
 Iernut
 Iernuţeni
 Ierşnic
@@ -5039,8 +4828,7 @@ Iezureni
 Ifrimeşti
 Igeşti
 Ighiel
-Ighişu Nou
-Ighişu Vechi
+Ighişu
 Ighiu
 Igiroasa
 Igirosu
@@ -5050,18 +4838,23 @@ Igoiu
 Igriş
 Igriţia
 Ihod
+II
 Ijdileni
 Ilaciu
+Ilarian
 Ilba
-I. L. Caragiale
+Ilbei
 Ileana
 Ileanda
 Ileni
+Ilfov
+Ilfovăţului
 Ilfoveni
-Ilganii de Jos
-Ilganii de Sus
+Ilganii
 Ilia
 Ilidia
+Ilie
+Iliei
 Ilieni
 Ilieşi
 Ilieşti
@@ -5070,24 +4863,26 @@ Ilioara
 Ilişeni
 Ilişeşti
 Ilişua
+Iloaiei
 Ilova
 Ilovăţ
 Iloviţa
 Ilovu
 Ilteu
-Ilva Mare
-Ilva Mică
+Ilva
+Ilvei
 Imeni
 Imoasa
 Imper
+în
 Inand
 Inău
 Inceşti
-Inceşti (Avram Iancu)
-Inceşti (Poşaga)
+Îndărăt
 Independenţa
 Ineleţ
 Ineu
+Inferior
 Înfrăţirea
 Ingăreşti
 Inlăceni
@@ -5095,28 +4890,28 @@ Inoc
 Inoteşti
 Însurăţei
 Întorsura
-Întorsura Buzăului
+(Întregalde)
 Întregalde
 Întrerâuri
+Întunecoasă
 Inucu
 Inuri
+Inzelului
 Ioaniceşti
 Ioaniş
 Iod
 Iohanisfeld
 Iojib
+(Ion
+Ion
 Ionaşcu
-Ionăşeni (Truşeşti)
-Ionăşeni (Vârfu Câmpului)
+Ionăşeni
 Ionăşeşti
-Ion Corvin
-Ion Creangă
 Ioneasa
+Ionel
+(Ioneşti)
 Ioneşti
-Ion Ghica
 Ioniceşti
-Ion Neculce
-Ion Roată
 Iorcani
 Iordăcheanu
 Iordăcheşti
@@ -5127,6 +4922,7 @@ Iosif
 Iosifalău
 Iosupeni
 Ip
+(Ipatele)
 Ipatele
 Ipoteşti
 Iratoşu
@@ -5146,90 +4942,70 @@ Iştan-Tău
 Iştihaza
 Istrău
 Istria
-Istriţa de Jos
+Istriţa
 Isvarna
 Isverna
 Isvoarele
 Italieni
 Iţcani
+(Iteşti)
 Iteşti
 Iteu
-Iteu Nou
 Itrineşti
 Iucşa
 Iugani
 Iulia
 Iupca
 Iureşti
-Iuriu de Câmpie
+Iuriu
+Ivan
 Ivănceşti
 Ivanda
 Ivăneasa
 Ivaneş
+(Ivăneşti)
 Ivăneşti
-Ivăneşti (Pădureni)
 Ivăneţu
 Ivăniş
 Iveşti
-Ivrinezu Mare
-Ivrinezu Mic
+Ivrinezu
 Izbăşeşti
 Izbiceni
 Izbicioara
 Izbita
+Izbitei
 Izbuc
+Izei
 Izeşti
 Izgar
 Izimşa
 Izlaz
 Izvin
 Izvoare
-Izvoare (Bahna)
-Izvoare (Dumbrava Roşie)
+(Izvoarele
 Izvoarele
-Izvoarele (Blaj)
-Izvoarele (Gârda de Sus)
-Izvoarele (Livezile)
-Izvoarele Sucevei
+Izvoarelor
 Izvor
 Izvorălu
-Izvorălu de Jos
 Izvorani
 Izvoranu
 Izvoraşu
+(Izvoru
 Izvoru
-Izvoru Alb
-Izvoru Ampoiului
-Izvoru Aneştilor
-Izvoru Bârzii
-Izvoru Berheciului
-Izvoru (Cozieni)
-Izvoru Crişului
-Izvoru de Jos
-Izvoru de Sus
-Izvoru Dulce (Beceni)
-Izvoru Dulce (Merei)
-Izvoru Frumos
-Izvoru (Gogoşari)
-Izvorul Trotuşului
-Izvoru Mare
-Izvoru Muntelui
-Izvoru Mureşului
-Izvoru Rece (Stoileşti)
-Izvoru Rece (Vaideeni)
-Izvoru (Tisău)
-Izvoru (Valea Lungă)
-Izvoru (Vânătorii Mici)
-Izvoru (Vişina)
+Izvorul
+Izvorului
 Jabăr
 Jabeniţa
 Jac
 Jacodu
 Jacota
 Jacu
+Jacului
 Jahalia
-Jamu Mare
+Jamu
+(Jariştea)
 Jariştea
+Jariştei
 Jaroştea
 Jdioara
 Jebel
@@ -5245,14 +5021,11 @@ Jeriştea
 Jgheaburi
 Jghiab
 Jiana
-Jiana Mare
-Jiana Veche
+Jianu
 Jibert
-Jiblea Nouă
-Jiblea Veche
+Jiblea
 Jibou
-Jichişu de Jos
-Jichişu de Sus
+Jichişu
 Jidoştina
 Jidoştiţa
 Jidvei
@@ -5263,6 +5036,7 @@ Jigniţa
 Jigodin-Băi
 Jigoreni
 Jijia
+Jijiei
 Jijila
 Jilava
 Jilavele
@@ -5275,26 +5049,26 @@ Jirlău
 Jirov
 Jitaru
 Jitia
-Jitia de Jos
 Jitin
+Jiu
 Jiul
 Jiu-Paroşeni
-Joia Mare
+Joia
 Joiţa
 Jojei
 Joldeşti
 Joldişeşti
 Jolotca
 Jorăşti
+Jorii
+Jos
+Jos)
 Josani
-Josani (Căbeşti)
-Josani (Măgeşti)
+(Joseni)
 Joseni
-Josenii Bârgăului
+Josenii
 Juc-Herghelie
 Jucu
-Jucu de Mijloc
-Jucu de Sus
 Jugăstreni
 Jugastru
 Jugur
@@ -5309,36 +5083,35 @@ Jurca
 Jurcuieşti
 Jureşti
 Jurilovca
+Kogălniceanu
 Kogălniceni
+L.
+la
+La
 Labaşinţ
 Lac
 Lăceni
-Lăcriţa Mare
-Lăcriţa Mică
+Lăcriţa
 Lacu
-Lacu Babei
-Lacu cu Anini
 Lăculeţe
 Lăculeţe-Gară
-Lacu lui Baban
-Lacu Rezii
+Lacului
+Lacului)
 Lacurile
-Lacu Roşu
-La Curte
-Lacu Sărat
-Lacu Sinaia
 Lăcusteni
-Lăcustenii de Jos
-Lăcustenii de Sus
-Lacu Turcului
+Lăcustenii
 Lada
 Lădăuţi
+(Lădeşti)
 Lădeşti
 Lăicăi
 Lalaşinţ
 Lăleşti
+(Laloşu)
 Laloşu
+Lalu
 Lămăşeni
+Lămăşoi
 Lămoteşti
 Lancrăm
 Lânga
@@ -5346,61 +5119,52 @@ Lăngeşti
 Lanurile
 Lapoş
 Lăpoşel
-Lăpugiu de Jos
-Lăpugiu de Sus
+Lăpugiu
 Lăpuş
 Lăpuşani
+(Lăpuşata)
 Lăpuşata
 Lăpuşel
 Lăpuşna
 Lăpuşnic
 Lăpuşnicel
-Lăpuşnicu Mare
+Lăpuşnicu
 Lăpuşteşti
+Lăpuşului
 Larga
-Larga (Gurghiu)
+Largă
 Larga-Jijia
-Larga (Sărmaşu)
+Largă-Săruleşti
 Lărgăşeni
 Largu
+Largului
 Lărguţa
 Lăsău
 Lăschia
 Lăscud
-Laslău Mare
-Laslău Mic
+Laslău
 Laslea
 Lăstuni
+Lat
 Lăţeşti
 Latinu
 Lăţunaş
 Lăunele
-Lăunele de Jos
-Lăunele de Sus
 Lăureni
 Laz
 Laza
+Lazăr
 Lăzarea
 Lăzăreni
 Lăzăreşti
-Lăzăreşti (Moşoaia)
-Lăzăreşti (Schitu Goleşti)
 Lazaret
-Lăzeşti (Scărişoara)
-Lăzeşti (Vadu Moţilor)
+Lăzeşti
 Laz-Firtănuş
-Laz (Săsciori)
 Laz-Şoimuş
 Lazu
-Lazu Baciului
 Lazuri
-Lazuri de Beiuş
-Lazuri (Lupşa)
-Lazuri (Sohodol)
-Laz (Vinţu de Jos)
 Leahu-Nacu
-Leamna de Jos
-Leamna de Sus
+Leamna
 Leasa
 Leauţ
 Lechincioara
@@ -5417,6 +5181,7 @@ Lehliu-Gară
 Lehneşti
 Leiceşti
 Leiculeşti
+(Leleasca)
 Leleasca
 Lelei
 Lelese
@@ -5428,15 +5193,16 @@ Lenauheim
 Leniş
 Lenţea
 Leontineşti
+(Leorda)
 Leorda
+(Leordeni)
 Leordeni
 Leordina
 Leordoasa
 Leorinţ
 Leorinţa
 Leorinţa-Şăulia
-Leoşti (Pădureni)
-Leoşti (Tătărăni)
+Leoşti
 Leoteşti
 Lepindea
 Lepşa
@@ -5448,19 +5214,23 @@ Leşile
 Leşmir
 Leşnic
 Lespezea
+(Lespezi)
 Lespezi
+Lespezii
 Leştioara
 Leşu
+Leşului
 Leţ
 Letca
+(Leţcani)
 Leţcani
-Letca Nouă
-Letca Veche
+(Letea
 Letea
-Letea Veche
 Leu
 Leucuşeşti
+Leului
 Leurda
+Leurzii
 Liban
 Libertatea
 Liborajdea
@@ -5470,7 +5240,6 @@ Licurici
 Licuriciu
 Liebling
 Lieşti
-Lieşti (Priponeşti)
 Lihuleşti
 Liiceni
 Liliac
@@ -5480,28 +5249,25 @@ Limanu
 Limba
 Limpeziş
 Lindenfeld
-Linia (Budeşti)
-Linia Costii
-Linia Dealului
-Linia din Vale
-Linia (Grădiştea)
-Linia Hanului
-Linia pe Vale
+Lingurari
+Linia
 Linseşti
 Linţ
 Lintea
 Linteşti
 Lipaia
 Lipănescu
+(Lipăneşti)
 Lipăneşti
 Lipău
 Lipia
 Lipniţa
+(Lipova)
 Lipova
+(Lipovăţ)
 Lipovăţ
 Lipoveni
 Lipovu
-Lipovu de Sus
 Lisa
 Lisaura
 Lişcoteanca
@@ -5513,24 +5279,18 @@ Lişteava
 Lita
 Liţa
 Liteni
-Liteni (Moara)
 Liubcova
 Livada
-Livada Beiuşului
-Livada de Bihor
-Livada (Iclod)
-Livada Mică
-Livada (Petreştii de Jos)
 Livadea
 Livadia
 Livedea
 Liveni
 Livezeni
+(Livezi)
 Livezi
+(Livezile)
 Livezile
-Livezile (Glodeni)
-Livezile (Valea Mare)
-Liviu Rebreanu
+Liviu
 Loamneş
 Lobodaş
 Locodeni
@@ -5543,8 +5303,7 @@ Lojniţa
 Loloiasca
 Loman
 Lompirt
-Lopadea Nouă
-Lopadea Veche
+Lopadea
 Lopătăreasa
 Lopătari
 Lopatniţa
@@ -5553,10 +5312,10 @@ Lorău
 Lotrioara
 Loţu
 Loturi
-Loturi Enescu
 Lovnic
 Lovrin
 Lozna
+Loznei
 Lozova
 Lucăceni
 Lucăceşti
@@ -5564,23 +5323,23 @@ Lucacevăţ
 Lucareţ
 Luceni
 Lucianca
+(Lucieni)
 Lucieni
 Luciu
 Ludăneasca
 Ludaşi
 Ludeşti
-Ludeştii de Jos
-Ludeştii de Sus
+Ludeştii
 Ludişor
 Ludoş
 Ludu
 Luduş
 Lueta
-Lugaşu de Jos
-Lugaşu de Sus
+Lugaşu
 Lugoj
 Lugojel
 Luguzău
+lui
 Luica
 Luieriu
 Luizi-Călugăra
@@ -5593,118 +5352,60 @@ Luminişu
 Luminiţa
 Lumnic
 Luna
-Luna de Jos
-Luna de Sus
 Lunca
-Lunca (Amaru)
-Lunca Ampoiţei
-Lunca Apei
-Lunca Asău
-Lunca (Baia de Criş)
-Lunca (Băiţa)
-Lunca Banului
-Lunca Bisericii
-Lunca Bonţului
-Lunca (Borca)
-Lunca Borlesei
-Lunca Bradului
-Lunca (Bujoreni)
-Lunca Calnicului
-Lunca (C.A. Rosetti)
-Lunca Cernii de Jos
-Lunca Cernii de Sus
-Lunca Cetăţuii
-Lunca Corbului
-Lunca de Jos
-Lunca de Sus
-Lunca Dochiei
-Lunca Florii
-Lunca Frumoasă
-Lunca Gârtii
-Lunca Goieşti
-Lunca (Grajduri)
-Lunca Ilvei
-Lunca Jariştei
-Lunca Largă (Bistra)
-Lunca Largă (Ocoliş)
-Lunca la Tisa
-Lunca Leşului
-Lunca (Lupşa)
-Lunca Mărcuşului
-Lunca Mare
-Lunca Merilor
-Lunca Meteşului
-Lunca (Milişăuţi)
-Lunca Moldovei
-Lunca (Moroeni)
-Lunca Mureşului
 Luncani
-Luncanii de Jos
-Luncanii de Sus
-Lunca (Ocnele Mari)
-Lunca (Oniceni)
-Lunca Ozunului
-Lunca (Paşcani)
-Lunca (Pătârlagele)
-Lunca (Poşaga)
-Lunca Prahovei
-Lunca Priporului
-Lunca (Puieşti)
-Lunca Rateş
-Lunca Sătească
+Luncanii
 Luncaşi
 Luncasprie
-Lunca Târnavei
-Lunca (Valea Lungă)
-Lunca (Vânători-Neamţ)
-Lunca (Vârfu Câmpului)
-Lunca Veche
-Lunca Veseşti
-Lunca (Vidra)
-Lunca Vişagului
 Luncaviţa
-Lunca (Voineşti)
-Lunca Zaicii
-Lunca (Zamostea)
+Luncii
+Luncii)
 Luncile
-Luncoiu de Jos
-Luncoiu de Sus
+Luncoiu
 Luncşoara
 Luncşoru
 Luncuşoara
+Lung
 Lunga
+Lungă
+Lungă)
+Lungă-Cricov
+Lungă-Gorgota
 Lungani
-Lungani (Voineşti)
+Lungă-Ogrea
 Lungeni
 Lungeşti
 Lungoci
 Lunguleşti
 Lunguleţu
+Lungului
 Lupac
 Lupăieşti
 Lupăria
 Lupcina
+Lupei
 Lupele
 Lupeni
 Lupeşti
 Lupoaia
 Lupoiţa
+(Lupşa)
 Lupşa
-Lupşa de Jos
-Lupşa de Sus
 Lupşanu
 Lupşeni
+Lupşii
 Luptători
 Lupu
 Lupueni
 Lupuieşti
 Lupuleşti
+Lupului
 Luşca
 Luţa
 Luţca
 Lutiţa
 Lutoasa
-Lutu Roşu
+Lutu
 Măcăi
 Măcăreşti
 Macău
@@ -5712,43 +5413,47 @@ Macea
 Macedonia
 Măceşti
 Măceşu
-Măceşu de Jos
-Măceşu de Sus
+Măceşului
 Măceu
 Măcicăşeşti
 Măcicaşu
 Măcin
 Maciova
 Măcişeni
+(Măciuca)
 Măciuca
 Măciuceni
-Macovişte (Ciuchici)
-Macovişte (Cornea)
-Măcreşti (Rebricea)
-Măcreşti (Zăpodeni)
+Maciului
+Macovişte
+Măcreşti
 Măcrina
+Măcrişului
 Mada
 Mădăras
 Mădăraş
 Mădărăşeni
+Mădăraşului
 Mădârjac
 Mădârjeşti
 Mădei
 Măderat
 Mădrigeşti
 Mădulari
-Mădulari (Cernişoara)
 Măerişte
 Mag
 Magazia
+(Măgeşti)
 Măgeşti
 Maghera
 Măgherani
 Maghereşti
 Magheru
 Măgheruş
+Măgheruşului
+Maghiar
 Măghierat
 Măgina
+(Măgireşti)
 Măgireşti
 Mâgla
 Maglavit
@@ -5756,25 +5461,20 @@ Măgoaja
 Magula
 Măgulicea
 Măgura
-Măgura (Bezdead)
-Măgura (Bucium)
-Măgura cu Liliac
-Măgura (Galda de Jos)
-Măgura (Hulubeşti)
-Măgura Ierii
-Măgura Ilvei
-Măgura (Perieţi)
-Măgura (Tătuleşti)
+Măgură
 Măgura-Topliţa
+Măgurei
 Măgurele
 Măgureni
 Măguri
 Măguricea
+Măgurii
 Măguri-Răcătău
 Măhăceni
 Măhal
 Mahmudia
 Mahriu
+Mai
 Maia
 Maiad
 Măiag
@@ -5788,8 +5488,7 @@ Maioreşti
 Mal
 Mălădia
 Mălăeşti
-Mălăeştii de Jos
-Mălăeştii de Sus
+Mălăeştii
 Malaia
 Malaica
 Mălăieşti
@@ -5800,9 +5499,7 @@ Malcoci
 Măldăeni
 Maldaoci
 Măldăreşti
-Măldăreştii de Jos
-Măldăreşti (Lădeşti)
-Măldăreşti (Măciuca)
+Măldăreştii
 Malea
 Măleni
 Malin
@@ -5815,22 +5512,15 @@ Mâlosu
 Malovăţ
 Maltezi
 Malu
-Malu Alb
-Malu (Bârla)
-Malu cu Flori
-Malu (Godeni)
-Malu Mare
-Malu Mierii
+Malului
 Malumnic
+(Mălureni)
 Mălureni
 Maluri
 Malurile
-Malu Roşu
-Malu Spart
+(Măluşteni)
 Măluşteni
 Măluţ
-Malu Vânăt
-Malu Vârtop
 Mamaia
 Mamaia-Sat
 Mămăligani
@@ -5841,26 +5531,20 @@ Mănărade
 Manasia
 Mănăstioara
 Mânăstioara
-Mănăstioara (Siret)
-Mănăstioara (Udeşti)
 Mănăstire
 Mânăstire
 Mănăstirea
 Mânăstirea
-Mănăstirea Caşin
-Mânăstirea (Deleşti)
-Mănăstirea Doamnei
-Mănăstirea Humorului
-Mânăstirea (Măluşteni)
-Mânăstirea Neamţ
-Mânăstirea Răteşti
-Mânăstirea Suzana
+Mănăstirească
+Mânăstirei
 Mănăstireni
 Mânăstireni
+Mănăstirii
+Mânăstirii
 Mănăştiur
 Mănăştur
 Mănăşturel
-Mănăşturu Românesc
+Mănăşturu
 Mânău
 Mănceşti
 Măncioiu
@@ -5869,8 +5553,6 @@ Mândra
 Mândreşti
 Mândreşti-Moldova
 Mândreşti-Munteni
-Mândreşti (Ungureni)
-Mândreşti (Vlădeni)
 Mândruloc
 Măneasa
 Măneciu
@@ -5894,20 +5576,25 @@ Manolea
 Manoleasa
 Manoleasa-Prut
 Manoleşti
+Mantei
 Manţu
 Manu
 Mănuleşti
+(Mânzăleşti)
 Mânzăleşti
 Mânzăteşti
 Mânzaţi
 Mânzu
 Mara
+Mărăcineanu
 Mărăcinele
 Mărăcineni
 Mărăcini
 Maraloiu
+Maramureş
 Mărăscu
 Mărăşeni
+(Mărăşeşti)
 Mărăşeşti
 Mărăşti
 Măraşu
@@ -5919,49 +5606,57 @@ Mărceşti
 Mărculeni
 Mărculeşti
 Mărculeşti-Gară
+Marcului
 Mărcuş
 Mărcuşa
 Mărcuşu
+Mărcuşului
 Mardale
+Mare
+Mare)
+Mare-Bratia
+Mare-Podgoria
+Mare-Pravăţ
 Mareş
 Marga
 Mărgaia
+(Mărgăriteşti)
 Mărgăriteşti
 Mărgăriţi
 Mărgău
 Mărgheni
-Mârghia de Jos
-Mârghia de Sus
+Mârghia
 Marghita
 Margina
 Margine
 Marginea
-Marginea (Buhuşi)
 Mărgineanu
-Marginea (Oituz)
-Marginea Pădurii
+(Mărgineni)
 Mărgineni
-Mărginenii de Jos
-Mărginenii de Sus
+Mărginenii
 Mărgineni-Slobozia
+Mari
+Mari)
+Măria
 Măriceşti
 Marila
 Marin
+Marină
 Marineşti
 Mărineşti
 Mărişel
 Mărişelu
 Mariţa
 Măriţei
-Măriţeia Mică
+Măriţeia
 Măriuş
 Măriuţa
 Mârlogea
 Marmanu
+Marmaţiei
 Mărmureni
-Marna Nouă
-Marotinu de Jos
-Marotinu de Sus
+Marna
+Marotinu
 Marpod
 Mârşa
 Mârşani
@@ -5979,25 +5674,26 @@ Mărtiniş
 Martinovăţ
 Martonca
 Măru
+Mărului
+Mărunt
 Mărunţei
-Mărunţei (Coloneşti)
 Mărunţiş
 Mărunţişu
-Măru Roşu
 Marvila
 Mârza
 Mârzăneşti
+Maş
 Maşca
 Mâsca
 Măşcăteni
 Măscurei
 Maşloc
-Mastacăn (Borleşti)
-Mastacăn (Dragomireşti)
+Mastacăn
 Măstăcani
 Mătăcina
 Mataraua
 Mătăsari
+(Mătăsaru)
 Mătăsaru
 Măţău
 Matca
@@ -6009,11 +5705,9 @@ Mateieni
 Mateieşti
 Măteşti
 Mătişeni
-Mătişeşti (Ciuruleasa)
-Mătişeşti (Horea)
+Mătişeşti
 Matiţa
-Mâtnicu Mare
-Mâtnicu Mic
+Mâtnicu
 Matraca
 Mătrici
 Măureni
@@ -6030,33 +5724,33 @@ Mecea
 Medeleni
 Medgidia
 Mediaş
+Medie
 Medieş-Râturi
-Medieşu Aurit
+Medieşu
 Medieş-Vii
 Medişa
-Medişoru Mare
-Medişoru Mic
+Medişoru
 Medreşti
 Medveş
+Megieşesc
 Mehadia
 Mehadica
 Mehedinţa
+Mehedinţi
 Meieni
 Meişoare
 Meliceşti
 Melineşti
 Menţi
-Menţii din Dos
+Menţii
 Mera
 Mercheaşa
 Mercina
 Merdeala
+(Merei)
 Merei
 Mereni
-Mereni (Conţeşti)
-Merenii de Jos
-Merenii de Sus
-Mereni (Titu)
+Merenii
 Mereşeşti
 Mereşti
 Mereteu
@@ -6065,115 +5759,118 @@ Merghindeal
 Meri
 Meria
 Merii
-Merii Petchii
+Merilor
 Meriş
+(Merişani)
 Merişani
-Merişani (Băbăiţa)
-Merişani (Dobroteşti)
 Merişor
-Merişor (Băniţa)
-Merişor (Bucureşci)
 Merişoru
-Merişoru de Munte
 Mermeşti
 Mermezeu-Văleni
 Meşcreac
 Meşendorf
 Mesentea
-Meseşenii de Jos
-Meseşenii de Sus
+Meseş
+Meseşenii
 Mesteacăn
-Mesteacăn (Brad)
-Mesteacăn (Răchitova)
 Mesteacănu
 Mestecăniş
 Mesteceni
 Meştera
 Meşteru
+(Meteş)
 Meteş
+Meteşului
 Meteu
 Metiş
 Metofu
 Meziad
+Mic
 Mica
+Mică
 Micăneşti
 Micăsasa
+(Miceşti)
 Miceşti
-Miceştii de Câmpie
+Miceştii
 Micfalău
+Mici
+Mici)
 Miclăuşeni
+(Micleşti)
 Micleşti
-Micleşti (Banca)
-Micloşanii Mari
-Micloşanii Mici
+Micloşanii
 Micloşoara
 Miclosu
 Micoşlaca
 Micşuneşti
-Micşuneştii Mari
+Micşuneştii
 Micşuneşti-Moară
 Micula
-Micula Nouă
 Miculeşti
+Miculinţi
+Micului
+Mieilor
 Mieluşei
 Mierag
 Miercani
+Miercurea
 Miercurea-Ciuc
-Miercurea Nirajului
-Miercurea Sibiului
 Mierea
 Miericeaua
+Mierii
 Mierlău
-Mierleştii de Sus
+Mierlei
+Mierleştii
 Mierliceşti
 Miersig
 Mierţa
 Mieşti
 Mighindoala
+(Mihăeşti)
 Mihăeşti
-Mihai Bravu
-Mihai Eminescu
-Mihai Eminescu (Gorbăneşti)
+(Mihai
+Mihai
 Mihăieni
 Mihăieşti
+Mihail
 Mihăileni
-Mihăileni (Şimoneşti)
+(Mihăileşti)
 Mihăileşti
 Mihăileşti-Popeşti
-Mihail Kogălniceanu
-Mihail Kogălniceanu (Râmnicelu)
-Mihail Kogălniceanu (Şuţeşti)
 Mihăiţa
-Mihai Viteazu
-Mihai Vodă
 Mihălăşeni
 Mihălceni
+Mihalea
 Mihalţ
 Miheleu
-Miheşu de Câmpie
+Miheşu
 Mihoeşti
 Mihoveni
 Mija
 Mijarca
 Mijaţi
-Mijlocenii Bârgăului
+Mijloc
+Mijlocenii
 Mijlocu
-Mila 23
+Mila
 Milaş
 Milăşel
+Milăşelului
+(Milcoiu)
 Milcoiu
 Milcov
 Milcovăţu
 Milcovel
 Milcoveni
-Milcovu din Deal
-Milcovu din Vale
+Milcovu
 Milcovul
+Milcovului
 Mileanca
 Mileşti
-Mileştii de Jos
-Mileştii de Sus
+Mileştii
 Miletin
+(Milişăuţi)
 Milişăuţi
 Miloşari
 Miloşeşti
@@ -6182,40 +5879,40 @@ Milova
 Milovan
 Miluani
 Miluta
-Mina Altân Tepe
+Mina
+Mină
 Minead
-Minele Lueta
+Minele
 Mineri
 Mineu
 Minieri
 Miniş
 Minişel
-Minişu de Sus
+Minişu
+Minişului
 Mintia
+(Mintiu
 Mintiu
-Mintiu Gherlii
 Mioarele
-Mioarele (Cicăneşti)
 Miorcani
 Mioriţa
 Mioveni
 Mirăslău
 Mirău
-Mircea cel Bătrân
-Mircea Vodă
+(Mircea
+Mircea
 Mirceşti
-Mirceştii Noi
-Mirceştii Vechi
+Mirceştii
 Mireasa
 Mireni
 Mireş
+Miresii
 Mireşti
-Mireşu Mare
-Mireşu Mic
+Mireşu
 Mirigioaia
 Mirila
 Miriştea
-Miron Costin
+Miron
 Mironeasa
 Mironeşti
 Mironu
@@ -6231,39 +5928,31 @@ Misentea
 Misihăneşti
 Mislea
 Misleanu
+Mislii
 Miteşti
 Mititei
 Mitoc
 Mitocaşi
-Mitoc (Leorda)
-Mitocu Bălan
-Mitocu Dragomirnei
+Mitocu
 Mitreni
 Mitreşti
 Mitrofani
 Mitropolia
+Mitropoliei
 Miuleşti
 Mizieş
 Mizil
 Mlăceni
+Mlacii
 Mlăjet
 Mlecăneşti
 Mlenăuţi
 Moacşa
+(Moara)
 Moara
-Moara Carp
-Moara Ciornei
-Moara de Jos
-Moara de Pădure
-Moara din Groapă
-Moara Domnească
-Moara Grecilor
-Moara Jorii
-Moara Mocanului
-Moara Nica
-Moara Nouă
-Moara Vlăsiei
+Moară
 Moardăş
+Mocanului
 Moceriş
 Moceşti
 Mocira
@@ -6272,18 +5961,17 @@ Mocod
 Mocrea
 Modelu
 Modoia
-Modoleşti (Întregalde)
-Modoleşti (Vidra)
+Modoleşti
 Modreni
 Modruzeni
 Mofleni
 Mofleşti
 Moftin
-Moftinu Mare
-Moftinu Mic
+Moftinu
 Mogeşti
 Moglăneşti
 Mogoaia
+(Mogoş)
 Mogoş
 Mogoşani
 Mogoşeni
@@ -6294,8 +5982,6 @@ Mohu
 Moi
 Moiad
 Moieciu
-Moieciu de Jos
-Moieciu de Sus
 Moigrad-Porolissum
 Moimeşti
 Moineşti
@@ -6305,12 +5991,14 @@ Moişeni
 Moiseşti
 Moisica
 Molani
-Moldova Nouă
+Moldova
 Moldova-Suliţa
-Moldova Veche
+Moldovei
+Moldovenesc
 Moldoveneşti
 Moldoveni
 Moldoviţa
+Moldoviţei
 Molid
 Molişet
 Mologeşti
@@ -6320,46 +6008,55 @@ Moneasa
 Moniom
 Monor
 Monoroştia
+Montană
+Montană)
 Morăreni
 Morăreşti
-Morăreşti (Ciuruleasa)
-Morăreşti (Sohodol)
 Morăşti
 Morău
 Moraviţa
 Morcăneşti
 Moreni
 Moreşti
+Mori
+Mori)
+Morii
+Morii)
 Morişti
 Morlaca
 Moroda
+(Moroeni)
 Moroeni
 Moroteşti
 Morteni
 Morţeşti
 Moruneşti
+(Morunglav)
 Morunglav
 Moruţ
 Moscu
 Moşeşti
-Moşia Mică
+Moşia
 Mosna
 Moşna
+Moşneagului
 Moşneni
-Moşniţa Nouă
-Moşniţa Veche
+Moşniţa
+(Moşoaia)
 Moşoaia
 Mosoroasa
 Mosoru
 Moşteni
-Moşteni (Furculeşti)
 Moşteni-Greci
 Moşuni
 Moţăieni
 Moţăţei
 Moţăţei-Gară
+(Moţca)
 Moţca
 Moţeşti
+Moţilor
+Moţilor)
 Moţiori
 Motiş
 Motnău
@@ -6369,23 +6066,17 @@ Motoci
 Moţoeşti
 Motorăşti
 Motorgi
+(Motoşeni)
 Motoşeni
 Motru
 Motruleni
-Motru Sec
+Motrului
 Movila
-Movila Banului
-Movila Miresii
-Movila (Niculeşti)
-Movila Oii
-Movila Ruptă
-Movila (Sălcioara)
-Movila Verde
 Movile
 Movileanca
+(Movileni)
 Movileni
-Movileni (Heleşteni)
-Movileni (Şendreni)
+(Moviliţa)
 Moviliţa
 Mozăceni
 Mozăcenii-Vale
@@ -6394,47 +6085,43 @@ Mreneşti
 Muceşti-Dănuleşti
 Muchea
 Muereasca
-Muereasca de Sus
 Muereni
 Mugeni
 Mugeşti
+Muierii
 Muieruşu
 Mujna
 Munar
 Muncei
 Muncel
 Muncelu
-Muncelu de Jos
-Muncelu de Sus
-Muncelu Mare
-Muncelu Mic
+Muncii
 Muneşti
 Muntari
-Muntele Băişorii
-Muntele Bocului
-Muntele Cacovei
-Muntele Filii
-Muntele Rece
-Muntele Săcelului
+Munte
+Muntele
+Muntelui
 Munteneşti
 Munteni
 Munteni-Buzău
-Muntenii de Jos
-Muntenii de Sus
+(Muntenii
+Muntenii
 Munună
-Mura Mare
-Mura Mică
+Mura
 Murani
 Mureni
+Mureş
+Mureşană
 Mureşeni
-Mureşenii Bârgăului
-Mureşenii de Câmpie
+Mureşenii
+Mureşului
 Murfatlar
 Murgaşi
 Murgeanca
 Murgeni
 Murgeşti
 Murgileşti
+Murgu
 Murguţa
 Murighiol
 Murta
@@ -6442,14 +6129,17 @@ Muşata
 Muşăteşti
 Muşca
 Muscel
+Muscel)
 Muşcel
-Muscelu Cărămăneşti
+Muscelu
+Muscelului
 Muşceluşa
 Musculeşti
 Muşeniţa
 Muşeteşti
 Mustăţeşti
 Musteşti
+Nacului
 Nădab
 Nădălbeşti
 Nadanova
@@ -6458,16 +6148,16 @@ Nadăş
 Nadăşa
 Nădăşelu
 Nădăştia
-Nădăştia de Jos
-Nădăştia de Sus
 Nadăşu
 Nădejdea
 Nadeş
 Nadiş
 Nadişa
-Nadişu Hododului
+Nadişu
 Nădlac
 Nădrag
+Nae
+(Năeni)
 Năeni
 Naidăş
 Naimon
@@ -6479,17 +6169,21 @@ Nămaş
 Nămete
 Nămoloasa
 Nămoloasa-Sat
+Nan
 Nana
 Nandra
+Nandrii
 Nandru
+Nandrului
 Năneşti
-Năneşti (Tănăsoaia)
 Nanov
 Năoiu
 Năpăieşti
 Năpradea
+Napului
 Nărteşti
 Năruja
+Nărujei
 Năsal
 Năsăud
 Năstase
@@ -6500,9 +6194,11 @@ Năvodari
 Nazarcea
 Nazărioaia
 Nazna
+Neag
 Neagra
-Neagra Şarului
+Neagră
 Neajlovu
+Neamţ
 Nearşova
 Neatârnarea
 Neaua
@@ -6510,6 +6206,7 @@ Nechit
 Necopoi
 Necrileşti
 Necşeşti
+Neculce
 Neculele
 Nedeia
 Nedelcu
@@ -6526,25 +6223,31 @@ Negoşina
 Negostina
 Negraia
 Negraşi
+Negre
 Negrea
+Negrei
 Negreia
 Negreni
-Negrenii de Câmpie
-Negrenii de Sus
+Negrenii
 Negrenii-Osebiţi
+(Negreşti)
 Negreşti
-Negreşti (Bâra)
 Negreşti-Oaş
+(Negri)
 Negri
+Negrii
 Negrileasa
+Negrilesei
+Negrilesii
 Negrileşti
 Negriteşti
+Negru
 Negruleşti
 Negruşa
-Negru Vodă
 Neguleşti
 Negureni
 Neguşeni
+Negustorului
 Nehoiaşu
 Nehoiu
 Neicu
@@ -6558,12 +6261,12 @@ Nemşa
 Nemţişor
 Nenciu
 Nenciuleşti
+Nenii
 Nenişori
 Nepos
 Neptun
 Nerău
 Nereju
-Nereju Mic
 Nermed
 Nermiş
 Neţeni
@@ -6574,24 +6277,23 @@ Neudorf
 Nevăţu
 Nevesteasca
 Nevrincea
+Nica
 Nicani
 Nichiteni
-Nicolae Bălcescu
-Nicolae Bălcescu (Alexandru Odobescu)
-Nicolae Bălcescu (Coţuşca)
-Nicolae Bălcescu (Flămânzi)
+(Nicolae
+Nicolae
 Nicolaeşti
-Nicolae Titulescu
 Nicoleni
 Nicoleşti
-Nicoleşti (Frumoasa)
-Nicoleşti (Ulieş)
 Nicolinţ
 Nicopole
+(Nicoreşti)
 Nicoreşti
+Nicovani
 Nicşeni
 Nicula
 Niculcea
+(Niculeşti)
 Niculeşti
 Niculiţel
 Nifon
@@ -6599,11 +6301,8 @@ Nigoteşti
 Nigrişoara
 Nima
 Nimăieşti
-Nima Milăşelului
-Nima Râciului
 Nimigea
-Nimigea de Jos
-Nimigea de Sus
+Nirajului
 Nireş
 Nişcov
 Nisipari
@@ -6623,57 +6322,62 @@ Niuved
 Noapteş
 Noapteşa
 Nocrich
+Noi
+Noi)
 Noiştat
 Nojag
 Nojorid
+Nord
 Norocu
 Noroieni
 Noşlac
 Noţig
 Nou
-Nou Român
-Nou Săsesc
+Nouă
+Nou-Vii
 Novac
 Novăceşti
 Novaci
+Nucarilor
 Nucet
-Nucet (Chiojdeanca)
-Nucet (Gornet)
 Nucetu
+Nucetului
 Nuci
+(Nucşoara)
 Nucşoara
-Nucşoara de Jos
-Nucşoara de Sus
 Nucu
+Nucului
 Nufăru
 Nuntaşi
+(Nuşeni)
 Nuşeni
 Nuşfalău
 Nuţeni
 Oancea
+Oancei
+Oanei
 Oanţu
 Oar
-Oarba de Mureş
+Oarba
 Oarda
 Oarja
-Oarţa de Jos
-Oarţa de Sus
+Oarţa
 Oarzina
 Oaş
+Oaşului
 Obad
 Obârşa
-Obârşenii Lingurari
-Obârşeni (Vinderei)
-Obârşeni (Voineşti)
+Obârşeni
+Obârşenii
 Obârşia
+(Obârşia-Cloşani)
 Obârşia-Cloşani
-Obârşia de Câmp
-Obârşia Nouă
 Obârşie
 Obârtu
 Obcina
 Obedeni
 Obedin
+Obejdeanului
 Obislavu
 Obiţa
 Oboga
@@ -6687,52 +6391,48 @@ Obroceşti
 Ocheni
 Ocheşeşti
 Ochiuri
-Ocina de Jos
-Ocina de Sus
+Ocina
 Ociogi
 Ocişor
 Ociu
+(Ocland)
 Ocland
-Ocna de Fier
-Ocna de Jos
-Ocna Dejului
-Ocna de Sus
-Ocna Mureş
-Ocna Sibiului
-Ocna Şugatag
-Ocnele Mari
+Ocna
+Ocna)
+(Ocnele
+Ocnele
 Ocnişoara
 Ocniţa
+Ocniţei
 Ocoale
+(Ocoliş)
 Ocoliş
 Ocolişel
-Ocolişu Mare
-Ocolişu Mic
+Ocolişu
 Ocolna
 Ocracu
 Odăeni
-Odaia Banului
-Odaia Bogdana
-Odaia Bursucani
-Odaia Manolache
-Odaia Turcului
+Odaia
 Odăieni
 Odăile
 Odeşti
 Odobasca
 Odobeasca
+Odobescu
+Odobescu)
 Odobeşti
+Odobleja
 Odoleni
 Odoreu
-Odorheiu Secuiesc
+Odorheiu
 Odrihei
 Odverem
 Odvoş
-Oeştii Pământeni
-Oeştii Ungureni
+Oeştii
 Ofseniţa
-Ogaşu Podului
+Ogaşu
 Ogeşti
+Oghian
 Oglinzi
 Ogoru
 Ogra
@@ -6742,19 +6442,18 @@ Ogretin
 Ogrezea
 Ogrezeni
 Ohaba
-Ohaba de sub Piatră
 Ohaba-Forgaci
 Ohaba-Jiu
-Ohaba Lungă
 Ohaba-Mâtnic
 Ohaba-Ponor
-Ohaba Română
 Ohaba-Sibişel
-Ohaba Streiului
 Ohabiţa
 Oideşti
 Oiejdea
+Oii
+Oilor
 Oinacu
+(Oituz)
 Oituz
 Ojasca
 Ojdula
@@ -6762,42 +6461,51 @@ Olăneasca
 Olăneşti
 Olanu
 Olăreni
+(Olari)
 Olari
-Olarii Vechi
+Olarii
 Olariu
+Olarului
 Olcea
 Oleşeşti
 Olimp
 Ologeni
 Oloşag
 Olosig
+Olt
+Olteană
 Olteanca
-Olteanca (Glăvile)
-Olteanca (Lădeşti)
 Olteanu
 Olteneşti
 Olteni
-Olteni (Lucieni)
 Olteniţa
-Olteni (Ulieşti)
 Olteţ
 Olteţani
 Olteţu
+(Oltina)
 Oltina
 Oltişoru
+Oltului
+(Onceşti)
 Onceşti
-Onceştii Vechi
+Onceştii
 Onciu
 Oneaga
+(Oneşti)
 Oneşti
+(Oniceni)
 Oniceni
 Onişcani
+Onţii
 Onuca
 Opăteşti
 Opatiţa
 Oporelu
 Oprăneşti
+Opreanu
 Opreşti
+Oprii
+Opriş
 Oprişeneşti
 Oprişeni
 Oprişeşti
@@ -6814,34 +6522,33 @@ Orăşeni-Deal
 Orăşeni-Vale
 Orăşti
 Orăştie
-Orăştioara de Jos
-Orăştioara de Sus
-Oraşu Nou
-Oraşu Nou-Vii
+Orăştioara
+Oraşu
+Oraşului
 Oratia
 Oraviţa
 Orbău
 Orbeasca
-Orbeasca de Jos
-Orbeasca de Sus
 Orbeni
 Orboeşti
+Ordâncuşii
 Ordoreanu
 Oreasca
 Oreavu
 Oreavul
-Oreviţa Mare
+Oreviţa
 Orezu
 Orgeşti
 Orgoieşti
-Orheiu Bistriţei
+Orheiu
 Orlat
 Orlea
-Orlea Nouă
+Orlei
 Orleşti
 Orman
 Ormeniş
 Ormindea
+(Orodel)
 Orodel
 Oroftiana
 Oroiu
@@ -6858,19 +6565,17 @@ Ortoaia
 Orvişele
 Orzeni
 Orzeşti
-Orzoaia de Jos
-Orzoaia de Sus
+Orzoaia
 Orzu
 Oşand
 Osebiţi
+(Oşeşti)
 Oşeşti
-Osica de Jos
-Osica de Sus
+(Osica
+Osica
 Oşlobeni
 Osmancea
 Osoi
-Osoi (Comarna)
-Osoi (Sineşti)
 Oşorhei
 Oşorhel
 Ostra
@@ -6878,20 +6583,15 @@ Ostratu
 Ostrov
 Ostrovel
 Ostroveni
-Ostrov Tătaru
 Ostrovu
-Ostrovu Corbului
-Ostrovu Mare
-Ostrovu Mic
 Otelec
 Oţeleni
 Oţeleşti
 Oţelu
-Oţelu Roşu
 Oţeni
+(Oteşani)
 Oteşani
-Oteştii de Jos
-Oteştii de Sus
+Oteştii
 Otetelişu
 Oţetoaia
 Otomani
@@ -6902,6 +6602,7 @@ Ovidiu
 Ozd
 Ozun
 Ozunca-Băi
+Ozunului
 Păcăleşti
 Pachia
 Păcioiu
@@ -6917,40 +6618,20 @@ Padea
 Padeş
 Padina
 Pădina
-Pădina Mare
-Padina Matei
-Pădina Mică
+Padinii
+Padinii)
 Pădurani
 Pădure
 Pădurea
-Pădurea Iacobeni
-Pădurea Neagră
+(Pădureni)
 Pădureni
-Pădureni (Bereşti-Bistriţa)
-Pădureni (Chinteni)
-Pădureni (Ciurila)
-Pădureni (Coşula)
-Pădureni (Dămieneşti)
-Pădureni (Filipeni)
-Pădureni (Grajduri)
 Pădurenii
-Pădurenii (Mintiu Gherlii)
-Pădurenii (Tritenii de Jos)
-Pădureni (Izvoru Berheciului)
-Pădureni (Jariştea)
-Pădureni (Mărăşeşti)
-Pădureni (Mărgineni)
-Pădureni (Oşeşti)
-Pădureni (Popeşti)
-Pădureni (Şendriceni)
-Pădureni (Tâmboeşti)
-Pădureni (Victor Vlad Delamarina)
 Pădureţi
 Pădureţu
+Pădurii
 Păduriş
 Pădurişu
-Păduroiu din Deal
-Păduroiu din Vale
+Păduroiu
 Păgaia
 Păgida
 Pâglişa
@@ -6964,11 +6645,11 @@ Păiseni
 Păiuşeni
 Pajiştea
 Păjiştele
+Pală
 Palanca
 Palanga
 Pălatca
-Palazu Mare
-Palazu Mic
+Palazu
 Paleu
 Pălici
 Palilula
@@ -6979,11 +6660,13 @@ Paltin
 Păltinata
 Păltineasa
 Păltineni
+(Păltiniş)
 Păltiniş
 Păltiniş-Ciuc
 Păltinişu
 Păltinoasa
 Paltinu
+Pământeni
 Panaci
 Pănade
 Panaghia
@@ -6991,14 +6674,16 @@ Panaitoaia
 Pănătău
 Panc
 Pânca
+Pănceşti
 Pânceşti
-Pănceşti (Sascut)
+(Panciu)
 Panciu
 Pâncota
 Panc-Sălişte
 Panduru
 Pănet
 Pângărăcior
+(Pângăraţi)
 Pângăraţi
 Panic
 Păniceni
@@ -7006,47 +6691,32 @@ Paniova
 Păntăşeşti
 Pantazi
 Pântecani
+Pântei
 Pantelimon
-Pantelimon de Jos
 Pănteşti
 Panticeu
 Păpăuţi
-Papiu Ilarian
+Papiu
 Pâraie
-Pârâienii de Jos
-Pârâienii de Mijloc
-Pârâienii de Sus
+Pârâienii
 Paraschiveşti
 Părău
+Pârău
 Pârâu
-Pârâu Boghii
-Pârâu Boia
 Pârâu-Cărbunări
-Pârâu Crucii (Pogăceaua)
-Pârâu Crucii (Râciu)
-Pârâu de Pripor
-Pârâu de Vale
-Pârău Gruiului
-Pârâul Cârjei
-Pârâul Fagului
-Pârâul Mare
-Pârâul Pântei
-Pârâul Rece
-Pârău lui Mihai
-Pârâu Mare
-Pârâu Negrei
-Pârâu Negru
+Pârâul
 Părăuşani
-Pârâu Viu
 Parava
 Parcheş
 Pârcovaci
 Pardina
 Pardoşi
 Parepa-Ruşani
+(Pârgăreşti)
 Pârgăreşti
 Părhăuţi
 Parhida
+(Parincea)
 Parincea
 Pârjol
 Pârjoleşti
@@ -7059,30 +6729,32 @@ Pârscov
 Pârscovelu
 Pârşcoveni
 Parţa
-Pârteştii de Jos
-Pârteştii de Sus
+Pârteştii
 Partizani
 Partoş
 Păru
-Păru Rotund
+Părului
 Parva
 Pârveşti
 Pârvova
+Pârvu
 Pârvuleşti
-Pârvu Roşu
 Păsărani
 Pasărea
 Păsărei
 Păsăreni
 Păsăteni
+(Paşcani)
 Paşcani
 Păscoaia
 Păsculeşti
+Paşii
 Păşteşti
 Păstrăveni
-Păşunea Mare
+Păşunea
 Pata
 Pâţâligeni
+(Pătârlagele)
 Pătârlagele
 Pătârş
 Pătaş
@@ -7095,7 +6767,8 @@ Pătrăuţi
 Patricheni
 Pătroaia-Deal
 Pătroaia-Vale
-Patru Fraţi
+Patru
+Pătru
 Pătruşeşti
 Pătruţeşti
 Pătulele
@@ -7104,32 +6777,37 @@ Păuca
 Păucea
 Păucineşti
 Păucişoara
+Paul
 Păuleasca
-Păuleasca (Mălureni)
-Păuleasca (Miceşti)
 Păuleni
 Păuleni-Ciuc
 Păuleşti
-Păuleştii Noi
+Păuleştii
 Paulian
 Păulian
 Păuliş
 Păuloaia
 Păun
+(Păuneşti)
 Păuneşti
 Păuşa
+(Păuşeşti)
 Păuşeşti
+(Păuşeşti-Măglaşi)
 Păuşeşti-Măglaşi
 Păuşeşti-Otăsău
 Păvălari
 Pavăţ
+Pavel
+pe
 Peceiu
 Peceneaga
 Pechea
+Pechii
 Pecica
 Pecineaga
 Pecinişca
-Peciu Nou
+Peciu
 Pegeni
 Peicani
 Peleş
@@ -7137,51 +6815,49 @@ Pelinu
 Pelişor
 Perchiu
 Percosova
-Peregu Mare
-Peregu Mic
+Peregu
 Pereni
 Peretu
 Peri
 Periam
 Pericei
-Periceiu Mic
+Periceiu
 Perieni
+(Perieţi)
 Perieţi
-Perii Broşteni
-Perii Vadului
+Perii
+Perilor
 Periprava
 Periş
 Perişani
 Perişor
 Perişoru
 Perjeşti
+Perjului
 Perşani
 Perşinari
-Perşunari (Cocorăştii Colţ)
-Perşunari (Gura Vadului)
+Perşunari
 Perteşti
 Pesac
 Pescăreşti
 Pescari
+(Pesceana)
 Pesceana
+Peste
 Peşteana
-Peşteana de Jos
 Peşteana-Jiu
 Peşteana-Vulcan
 Peşteniţa
 Peştenuţa
 Peştera
-Peştera (Băiţa)
-Peştera (Petroşani)
-Peştera (Sălaşu de Sus)
 Peştere
-Peste Valea Bistrii
 Peştiş
 Peştişani
-Peştişu Mare
-Pestişu Mic
+Pestişu
+Peştişu
 Pestra
 Pestriţu
+Petchii
 Petculeşti
 Petea
 Petecu
@@ -7204,17 +6880,15 @@ Petreanu
 Petreasa
 Petreni
 Petreşti
-Petreşti (Corbii Mari)
-Petreştii de Jos
-Petreştii de Mijloc
-Petreştii de Sus
+(Petreştii
+Petreştii
 Petreu
 Petricani
 Petriceni
 Petricica
+Petrii
 Petrila
 Petrilaca
-Petrilaca de Mureş
 Petrileni
 Petrilova
 Petrindu
@@ -7222,35 +6896,25 @@ Petrinzel
 Petriş
 Petrisat
 Petrişoru
-Petroasa Mare
+Petroasa
 Petroman
 Petros
+(Petroşani)
 Petroşani
 Petroşica
 Petroşniţa
 Petrova
 Petrovaselo
-Petru Rareş
-Petru Vodă
+Petru
 Pianu
-Pianu de Jos
-Pianu de Sus
 Piatra
-Piatra Albă
-Piatra (Brăduleţ)
-Piatra (Ciofrângeni)
-Piatra (Cocorăştii Colţ)
-Piatra (Drajna)
-Piatra Fântânele
-Piatra Mică
+Piatră
+(Piatra-Neamţ)
 Piatra-Neamţ
 Piatra-Olt
-Piatra (Proviţa de Jos)
-Piatra Şoimului
-Piatra (Stoeneşti)
 Picăturile
-Picior de Munte
-Picioru Lupului
+Picior
+Picioru
 Picleu
 Picu
 Pielcani
@@ -7259,24 +6923,21 @@ Pieptani
 Piersica
 Pietrari
 Pietrăria
-Pietrarii de Sus
-Pietrari (Păuşeşti-Măglaşi)
+Pietrarii
 Pietraru
+Pietrei
 Pietrele
 Pietreni
 Pietriceaua
 Pietricica
+Pietrii
 Pietriş
 Pietrişu
 Pietroaia
 Pietroasa
-Pietroasa (Boloteşti)
-Pietroasa (Câmpineanca)
-Pietroasa Mică
-Pietroasa (Tâmboeşti)
-Pietroasa (Vârteşcoiu)
 Pietroasele
 Pietroiu
+(Pietroşani)
 Pietroşani
 Pietroşiţa
 Pietrosu
@@ -7290,13 +6951,13 @@ Pinticu
 Pinu
 Pioreşti
 Pipea
-Pipera (Voluntari)
+Pipera
 Pipirig
 Pir
 Piria
 Pirita
 Piroşa
-Piru Nou
+Piru
 Piscani
 Pişcari
 Pişchia
@@ -7304,24 +6965,15 @@ Pişchinţi
 Piscoiu
 Pişcolt
 Piscu
-Piscu Corbului
 Pisculeşti
 Pisculeţ
-Piscu Lung
-Piscu Mare
-Piscu Nou
-Piscu Pietrei
-Piscu Radului
-Piscu Reghiului
+Piscului
 Piscuri
-Piscu Rusului
-Piscu Sadovei
-Piscu Scoarţei
-Piscu Vechi
-Pişteştii din Deal
+Pişteştii
 Pistriţa
 Pitărceşti
 Pitaru
+Pitarului
 Piteasca
 Piteşti
 Piţiga
@@ -7333,22 +6985,15 @@ Pitulicea
 Pituluşa
 Plăcinţeni
 Plai
-Plai (Avram Iancu)
-Plăieşii de Jos
-Plăieşii de Sus
+Plăieşii
 Plăieşti
 Plăieşu
 Plăieţu
-Plai (Gârda de Sus)
 Plăişor
-Plaiu Câmpinei
-Plaiu Cornului
-Plaiu Nucului
-Plaiu (Proviţa de Sus)
+Plaiu
 Plaiuri
-Plaiu Şarului
-Plaiu (Talea)
 Plăsoiu
+(Plătăreşti)
 Plătăreşti
 Platoneşti
 Plauru
@@ -7366,27 +7011,25 @@ Plesca
 Plescioara
 Pleşcoi
 Pleşcuţa
+Pleşe
 Pleşeşti
-Pleşeşti (Berca)
-Pleşeşti (Podgoria)
 Pleşi
 Pleşoi
 Pleşoiu
-Pleşoiu (Livezi)
-Pleşoiu (Nicolae Bălcescu)
+Pletari
 Plevna
 Plişti
 Ploieşti
 Ploieştiori
 Plop
+(Plopana)
 Plopana
 Plopeasa
 Plopeni
-Plopeni (Dumbrăveşti)
-Plopenii Mari
-Plopenii Mici
+Plopenii
 Plopi
 Plopii-Slăviteşti
+Plopilor
 Plopiş
 Plopoasa
 Plopşor
@@ -7394,9 +7037,8 @@ Plopşorelu
 Plopşoru
 Plopu
 Plopu-Amărăşti
-Plopu (Dărmăneşti)
 Plopul
-Plopu (Podu Turcului)
+Plopului
 Plosca
 Ploscoş
 Ploscuţeni
@@ -7409,26 +7051,26 @@ Pluta
 Pluton
 Plutoniţa
 Poarta
-Poarta Albă
-Poarta Sălajului
+(Poboru)
 Poboru
+(Pochidia)
 Pochidia
 Pociovaliştea
 Pociovelişte
-Pocluşa de Barcău
-Pocluşa de Beiuş
+Pocluşa
 Pocola
 Pocoleni
 Pocreaca
 Pocruia
+(Podari)
 Podari
 Podei
 Podele
 Podeni
+(Podenii
 Podenii
-Podenii Noi
-Podenii Vechi
 Poderei
+(Podgoria)
 Podgoria
 Podirei
 Podiş
@@ -7436,177 +7078,55 @@ Podişor
 Podişoru
 Podişu
 Podoleni
-Podolenii de Jos
-Podolenii de Sus
+Podolenii
 Podriga
-Podu Broşteni
-Podu Cheii
-Podu Corbencii
-Podu Corbului
-Podu Coşnei
-Podu Cristinii
-Podu Dâmboviţei
-Podu Doamnei
-Podu Grosului
-Podu Hagiului
-Podu Ilfovăţului
-Podu Iloaiei
-Podu Jijiei
-Podu Lacului
-Podu lui Galben
-Podu lui Paul
-Podu Lung
-Podu Muncii
-Podu Nărujei
-Podu Oltului
-Podu Oprii
-Podu Petriş
-Podu Pitarului
-Podu Popa Nae
+(Podu
+Podu
+Podului
 Poduri
 Poduri-Briceşti
 Podurile
-Podu Rizii
-Podu Şchiopului
-Podu Stoica
-Podu Turcului
-Podu Ursului
-Podu Vadului
-Podu Văleni
 Poenari
 Poeni
+Poenii
 Poenile
 Poeniţa
 Poeniţele
+(Pogăceaua)
 Pogăceaua
 Pogana
 Pogăneşti
 Poganu
 Pogara
-Pogara de Sus
 Pogleţ
 Pogoanele
 Pogonele
 Pogoneşti
 Pogorăşti
 Poian
+(Poiana
 Poiana
-Poiana Aiudului
-Poiana Ampoiului
-Poiana (Bistra)
-Poiana Blenchii
-Poiana Botizii
-Poiana (Brăeşti)
-Poiana Braşov
-Poiana (Brusturi)
-Poiana (Bucium)
-Poiana Câmpina
-Poiana Codrului
-Poiana (Coloneşti)
-Poiana Copăceni
-Poiana Crăcăoani
-Poiana Cristei
-Poiana (Cristineşti)
-Poiana (Criştioru de Jos)
-Poiana cu Cetate
-Poiana (Deleni)
-Poiana de Sus
-Poiana (Dolhasca)
-Poiana (Dulceşti)
-Poiana Fagului
-Poiana Fântânii
-Poiana (Flămânzi)
-Poiana Frăţii
-Poiana Galdei
-Poiana (Grinţieş)
-Poiana Gruii
-Poiana Horea
-Poiana Humei
-Poiana Ilvei
-Poiana Lacului
-Poiana Largului
-Poiana (Livezi)
-Poiana lui Alexa
-Poiana lui Stângă
-Poiana Lungă
-Poiana Măgura
-Poiana Mănăstirii
-Poiana Mare
-Poiana (Mărgineni)
-Poiana Mărului
-Poiana Micului
-Poiana Mierlei
-Poiana (Motoşeni)
-Poiana (Negreşti)
-Poiana (Negri)
-Poiana Negrii
-Poiana Negustorului
-Poiana Onţii
-Poiana (Pângăraţi)
-Poiana Pietrei
-Poiana Pletari
-Poiana Răchiţelii
-Poiana Sărată
-Poiana Şcheii
-Poiana (Schitu Duca)
 Poiana-Seciuri
-Poiana Sibiului
-Poiana (Sohodol)
-Poiana Stampei
-Poiana Stoichii
-Poiana Ţapului
-Poiana Târnavei
-Poiana Tăşad
-Poiana (Tăuteu)
-Poiana Teiului
-Poiana Trestiei
-Poiana Ursului
-Poiana Vadului
-Poiana Vâlcului
-Poiana Vărbilău
-Poiana (Vorona)
-Poiana (Zvoriştea)
 Poienărei
 Poienari
-Poienari (Corbeni)
-Poienarii Apostoli
-Poienarii Burchii
-Poienarii de Argeş
-Poienarii de Muscel
+(Poienarii
+Poienarii
 Poienarii-Rali
-Poienarii Vechi
-Poienari (Poienarii de Argeş)
-Poienari (Poienarii de Muscel)
+Poienei
+(Poieneşti)
 Poieneşti
 Poieneşti-Deal
 Poieni
-Poieni (Beriu)
-Poieni (Blandiana)
-Poieni (Bucium)
-Poieni (Densuş)
-Poienii de Jos
-Poienii de Sus
+Poienii
 Poienile
-Poienile Boinei
-Poienile de sub Munte
-Poienile Izei
 Poienile-Mogoş
-Poienile Oancei
-Poienile Zagrei
-Poieni (Parincea)
-Poieni (Roşiori)
 Poieni-Solca
 Poieni-Suceava
 Poieniţa
-Poieniţa (Arieşeni)
-Poieni (Târgu Ocna)
-Poieniţa Tomii
-Poieniţa (Vinţu de Jos)
-Poieniţa Voinii
-Poieni (Vidra)
 Poietari
 Poiu
 Pojaru
+Pojarului
 Pojejena
 Pojoga
 Pojogeni
@@ -7625,70 +7145,51 @@ Pomârla
 Pometeşti
 Pomezeu
 Pomi
+Pomilor
 Poneasca
 Ponoară
+(Ponoarele)
 Ponoarele
+(Ponor)
 Ponor
 Ponorel
+Popa
 Popânzăleşti
 Popeasa
 Popeni
-Popeni (Brăeşti)
-Popeni (Găgeşti)
-Popeni (George Enescu)
-Popeni (Zorleni)
+(Popeşti)
 Popeşti
-Popeşti (Bărăşti)
-Popeşti (Brazi)
-Popeşti (Cocu)
-Popeşti (Dragomireşti)
-Popeşti (Farcaşa)
-Popeşti (Fârtăţeşti)
-Popeşti (Girov)
-Popeşti (Goleşti)
-Popeştii de Jos
-Popeştii de Sus
-Popeşti (Lădeşti)
+Popeştii
 Popeşti-Leordeni
-Popeşti (Măciuca)
-Popeşti (Micleşti)
-Popeşti (Nicolae Bălcescu)
-Popeşti (Podenii Noi)
-Popeşti (Săpata)
-Popeşti (Sineşti)
 Popeşti-Stejari
-Popeşti (Stoeneşti)
-Popeşti (Tetoiu)
-Popeşti (Văleni)
+Popii
 Poplaca
 Popoaia
 Popoiu
 Popoveni
+(Popricani)
 Popricani
 Popteleac
 Pordeanu
+(Poroina
 Poroina
-Poroina Mare
 Poroinica
 Poroiniţa
 Poroschia
 Porţ
 Portăreşti
 Portari
-Porţile de Fier II
+Porţile
 Portiţa
 Porumbac
-Porumbacu de Jos
-Porumbacu de Sus
+Porumbacu
 Porumbeni
 Porumbenii
-Porumbenii Mari
-Porumbenii Mici
+Porumbescu
 Porumbeşti
 Posada
+(Poşaga)
 Poşaga
-Poşaga de Jos
-Poşaga de Sus
 Poseşti
 Poseştii-Pământeni
 Poseştii-Ungureni
@@ -7697,14 +7198,11 @@ Posobeşti
 Poşogani
 Poşoloaca
 Posta
+(Poşta
 Poşta
-Poşta Câlnău
-Poşta (Cilibia)
-Poşta Elan
 Postârnacu
-Poşta (Topliceni)
 Postăvari
-Poşta Veche
+Poştei
 Potângeni
 Potârnichea
 Potârnicheşti
@@ -7729,46 +7227,46 @@ Potoci
 Potopinu
 Povârgina
 Prădaiş
+Prahova
+Prahovei
 Prahuda
+(Praid)
 Praid
 Praja
 Prăjani
 Prăjeni
 Prăjeşti
-Prăjeşti (Măgireşti)
 Prajila
+Prăjini
 Prăjoaia
 Pralea
 Prăleni
 Prapor
+Praporgescu
 Prăvăleni
+Pravăţ
 Praxia
 Preajba
-Preajba de Jos
-Preajba de Pădure
-Preajba Mare
 Preasna
-Preasna Veche
 Precistanu
 Predeal
 Predeal-Sărari
 Predeluţ
 Predeşti
-Predeştii Mici
+Predeştii
 Prejmer
+Prejmerului
 Prejna
 Prejoi
 Prelipca
 Preluca
 Prelucă
-Preluca Nouă
-Preluca Veche
 Prelucele
 Preluci
 Preoteasa
 Preoteşti
 Presaca
-Presaca Ampoiului
+Presnei
 Preuteşti
 Preveciori
 Pria
@@ -7777,28 +7275,28 @@ Pribeagu
 Pribeşti
 Pribileşti
 Priboaia
+(Priboieni)
 Priboieni
 Priboieşti
 Priboiu
-Priboiu (Brăneşti)
-Priboiu (Tătărani)
 Pricaz
 Prigor
 Prigoreni
 Prigoria
-Prihodişte (Boşorod)
-Prihodişte (Vaţa de Jos)
+Prihodişte
 Prilipeţ
 Priloage
 Prilog
 Prilog-Vii
 Pripoara
 Pripoare
+(Priponeşti)
 Priponeşti
-Priponeştii de Jos
+Priponeştii
+Pripor
 Priporu
+Priporului
 Prisaca
-Prisaca Dornei
 Prisăcani
 Prisăceaua
 Prisacina
@@ -7806,10 +7304,7 @@ Priseaca
 Prisecani
 Prisian
 Prislop
-Prislop (Cornereva)
-Prislop (Dalboşeţ)
-Prislopu Mare
-Prislopu Mic
+Prislopu
 Pristol
 Proaspeţi
 Probota
@@ -7817,6 +7312,7 @@ Procopoaia
 Prod
 Prodăneşti
 Prodani
+(Produleşti)
 Produleşti
 Profa
 Progresu
@@ -7828,50 +7324,47 @@ Proşca
 Proselnici
 Prosia
 Protopopeşti
-Proviţa de Jos
-Proviţa de Sus
+(Proviţa
+Proviţa
 Prunaru
 Prundeni
 Prundu
-Prundu Bârgăului
 Pruneni
 Pruneşti
 Prunet
 Pruni
 Pruniş
+(Prunişor)
 Prunişor
 Pucheni
-Puchenii Mari
-Puchenii Mici
+Puchenii
 Puchenii-Moşneni
-Pucheni (Moroeni)
+(Pucioasa)
 Pucioasa
 Pucioasa-Sat
 Pufeşti
 Pui
 Puieni
+(Puieşti)
 Puieşti
-Puieştii de Jos
-Puieştii de Sus
+Puieştii
 Puini
 Puiuleţeşti
 Punga
+(Pungeşti)
 Pungeşti
 Punghina
-Puntea de Greci
-Puntea Lupului
+Puntea
 Puntişeni
 Pupezeni
 Purani
-Puranii de Sus
-Purani (Vităneşti)
+Puranii
 Purcăreni
-Purcăreni (Miceşti)
-Purcăreni (Popeşti)
 Purcăreţ
 Purcărete
 Purcăreţi
 Purcaru
+Purcarului
 Puricani
 Puşcaşi
 Puşcaşu
@@ -7887,10 +7380,10 @@ Puţinei
 Putineiu
 Putini
 Putna
+Putnei
 Putredeni
-Puţu cu Salcie
-Puţu Greci
-Puţu Olarului
+Puţu
+Puţului
 Puţureni
 Puţuri
 Răbăgani
@@ -7898,14 +7391,12 @@ Râca
 Răcăciuni
 Racameţ
 Răcari
-Răcarii de Jos
-Răcarii de Sus
+Răcarii
 Racâş
 Răcaş
 Răcăşdia
 Răcăştia
 Răcătău
-Răcătău de Jos
 Răcătău-Răzeşi
 Răcăteşu
 Răcăuţi
@@ -7913,41 +7404,51 @@ Rachelu
 Rachieri
 Rachiş
 Răchita
-Răchita de Jos
-Răchita de Sus
 Răchitaşu
 Răchiţaua
+Răchitei
 Răchiţele
-Răchiţele de Jos
-Răchiţele de Sus
+Răchiţelii
 Răchiteni
 Răchiţi
 Răchitiş
 Răchitişu
+(Răchitoasa)
 Răchitoasa
 Răchitosu
+(Răchitova)
 Răchitova
 Raci
+Racilor
+(Raciu)
 Raciu
+(Râciu)
 Râciu
+Râciului
 Răcoasa
 Racoş
-Racoşul de Sus
+Racoşul
 Racoţi
+(Racova)
 Racova
 Racovăţ
+(Racoviţa)
 Racoviţa
-Racoviţa (Budeşti)
+Racoviţă
 Racoviţeni
 Racşa
 Racşa-Vii
+(Racu)
 Racu
+Racului
 Răcuşana
 Rădăcineşti
 Rădăeşti
 Rădaia
+Rădăii
 Rădăşeni
 Rădăuţi
+(Rădăuţi-Prut)
 Rădăuţi-Prut
 Rădeana
 Rădeni
@@ -7964,19 +7465,21 @@ Rădoieşti-Vale
 Radomir
 Radomireşti
 Radoşi
+(Radovan)
 Radovan
 Radovanu
+Radu
 Răducăneni
 Răducani
 Răduceşti
 Răduieşti
+Rădulescu
 Răduleşti
-Răduleşti (Stânceşti)
-Radu Negru
+Radului
 Răduţeşti
-Radu Vodă
 Rafaila
 Rafnic
+(Râfov)
 Râfov
 Ragla
 Răgman
@@ -7984,6 +7487,8 @@ Ragu
 Răhău
 Rahman
 Rahova
+Rahtivani
+Rahtivani)
 Răicani
 Răiculeşti
 Raiţiu
@@ -7991,17 +7496,17 @@ Raiu
 Răiuţi
 Râjleţu-Govora
 Răleşti
-Râmeşti (Horezu)
-Râmeşti (Şuşani)
+Râmeşti
+(Râmeţ)
 Râmeţ
 Ramna
 Râmniceanca
+(Râmnicelu)
 Râmnicelu
 Râmniceni
-Râmnicu de Jos
-Râmnicu de Sus
-Râmnicu Sărat
-Râmnicu Vâlcea
+(Râmnicu
+Râmnicu
+Râmnicului
 Râncăciov
 Rânceni
 Rândunica
@@ -8011,13 +7516,11 @@ Ranta
 Rănuşa
 Rânzeşti
 Râpa
-Râpa Cărămizii
-Râpa de Jos
 Râpăneşti
 Râpaş
 Râpile
 Rapolţel
-Rapoltu Mare
+Rapoltu
 Rapşa
 Răpsig
 Rareş
@@ -8025,10 +7528,10 @@ Rariştea
 Rasa
 Răsboieni
 Raşca
+(Râşca)
 Râşca
 Răscăeţi
-Răşcani (Dăneşti)
-Răşcani (Şuletea)
+Răşcani
 Răscoala
 Răscoleşti
 Răscruci
@@ -8037,11 +7540,9 @@ Raşi
 Răsimnicea
 Răşinari
 Răsmireşti
-Rasnicu Bătrân
-Rasnicu Oghian
+Rasnicu
 Râşniţa
 Râşnov
-Râşnov Romacril
 Rasova
 Rasoviţa
 Rast
@@ -8049,13 +7550,17 @@ Răstoaca
 Răstoci
 Răstoliţa
 Răstolţ
-Răstolţu Deşert
+Răstolţu
 Răsuceni
 Răsurile
 Răţăleşti
+Ratei
+Raţei
+Rateş
+(Răteşti)
 Răteşti
 Răţeşti
-Rateşu Cuzei
+Rateşu
 Rătez
 Ratin
 Rătitiş
@@ -8063,27 +7568,25 @@ Raţiu
 Răţoaia
 Răţoi
 Ratovei
-Râu Alb
-Râu Alb de Jos
-Râu Alb de Sus
-Râu Bărbat
+(Râu
+Râu
 Răuceşti
-Râu de Mori
-Râu Mic
+Râului
 Râureni
-Râu Sadului
+(Răuseni)
 Răuseni
 Râuşor
 Răuţeni
 Răuţi
-Râu Vadului
 Răvăşel
 Ravensca
 Raviceşti
+Răzăşească
 Războieni
 Războieni-Cetate
-Războienii de Jos
+Războienii
 Răzbuneni
+Răzeşi
 Răzeşu
 Răzoare
 Răzoarele
@@ -8091,55 +7594,44 @@ Răzvad
 Răzvani
 Rebegari
 Rebra
+Rebreanu
+(Rebricea)
 Rebricea
 Rebrişoara
 Recaş
+Rece
 Recea
-Recea (Căteasca)
 Recea-Cristur
-Recea Mică
 Reci
 Recia-Verbia
 Reciu
+Reconstrucţia
 Redea
 Redişoara
+(Rediu)
 Rediu
-Rediu Aldei
-Rediu (Bâra)
-Rediu (Brăeşti)
-Rediu Galian
-Rediu (Hoceni)
-Rediu Mitropoliei
-Rediu (Rădăuţi-Prut)
-Rediu (Răuseni)
-Rediu (Roşieşti)
-Rediu (Ruginoasa)
-Rediu (Scânteia)
-Rediu (Vaslui)
 Reea
 Reghea
 Reghin
 Reghiu
+Reghiului
 Remecioara
+(Remetea
+(Remetea)
 Remetea
-Remetea Chioarului
 Remetea-Luncă
-Remetea Mare
-Remetea Mică
-Remetea Oaşului
 Remetea-Pogănici
 Remeţi
-Remeţi pe Someş
+Remus
 Remuş
-Remus Opreanu
 Renghet
 Repedea
 Reprivăţ
 Reşca
 Reşcuţa
 Resighea
+(Reşiţa)
 Reşiţa
-Reşiţa Mică
 Reţ
 Reteag
 Retevoieşti
@@ -8149,6 +7641,7 @@ Reuseni
 Revărsarea
 Revetiş
 Reviga
+Rezii
 Ribicioara
 Ribiţa
 Richiş
@@ -8156,19 +7649,21 @@ Rieni
 Rigmani
 Rimetea
 Ripiceni
-Ripicenii Vechi
+Ripicenii
 Rişca
 Rişculiţa
+Rizii
 Roadeş
 Roandola
-Roata de Jos
-Roata Mică
+Roata
+Roată
+Roatei
 Robaia
 Robăneşti
-Robăneştii de Jos
-Robăneştii de Sus
+Robăneştii
 Robeasca
 Robeşti
+(Rociu)
 Rociu
 Rocna
 Rocşoreni
@@ -8177,7 +7672,6 @@ Rodbav
 Rodina
 Rodna
 Roeşti
-Roeşti (Pesceana)
 Rogna
 Rogoaza
 Rogojel
@@ -8186,53 +7680,55 @@ Rogojeşti
 Rogojina
 Rogova
 Rogoz
-Rogoz de Beliu
 Rohani
 Rohia
 Roit
 Rojişte
 Roma
+Romacril
 Roman
+Român
 Romana
 Româna
+Română
 Românaşi
+Românesc
 Romaneşti
 Româneşti
-Româneşti (Coşna)
-Româneşti (Grăniceşti)
 Româneşti-Vale
 Români
-Romanii de Jos
-Romanii de Sus
+România
+Romanii
 Romanu
 Romita
 Romos
 Romoşel
 Romuli
 Rona
-Rona de Jos
-Rona de Sus
 Rontău
 Rora
+Roşca
 Roşcani
 Roşcari
 Roşeni
 Roşeşti
 Roseţi
+Rosetti
+Rosetti)
+(Roşia
 Roşia
-Roşia de Amaradia
-Roşia de Secaş
 Roşia-Jiu
-Roşia Montană
-Roşia Nouă
+Roşie
+Roşie)
+Roşiei
 Roşieni
-Roşienii Mari
-Roşienii Mici
+Roşienii
+(Roşieşti)
 Roşieşti
 Roşiile
 Roşioara
+(Roşiori)
 Roşiori
-Roşiori de Vede
 Roşioru
 Roşiuţa
 Roşoveni
@@ -8245,18 +7741,19 @@ Rotari
 Rotăria
 Rotbav
 Roteni
-Rotileştii Mari
-Rotileştii Mici
+Rotileştii
 Rotopăneşti
+Rotund
 Rotunda
+Rotundă
 Roua
-Rovina (Brănişca)
-Rovina (Bucureşci)
+Rovina
 Rovinari
 Rovine
-Roviniţa Mare
-Roviniţa Mică
+Roviniţa
 Rozavlea
+Rozilei
+(Roznov)
 Roznov
 Rubla
 Rucăr
@@ -8265,8 +7762,6 @@ Ruda
 Ruda-Brad
 Rudari
 Rudeni
-Rudeni (Mihăeşti)
-Rudeni (Şuici)
 Rudeşti
 Rudicica
 Rudina
@@ -8276,45 +7771,39 @@ Rugăria
 Rugăşeşti
 Rugea
 Ruget
-Rugetu (Mihăeşti)
-Rugetu (Slătioara)
+Rugetu
 Rugi
+(Rugineşti)
 Rugineşti
+(Ruginoasa)
 Ruginoasa
 Ruginosu
+Ruieni
 Ruja
+Rumâneştilor
 Runc
-Runc (Ocoliş)
-Runc (Scărişoara)
 Runcşor
+(Runcu)
 Runcu
-Runcu Mare
-Runcu Mic
 Runcurel
 Runcuri
-Runcu Salvei
 Runcuşoru
-Runc (Vidra)
-Runc (Zlatna)
 Rupea
+Ruptă
 Ruptura
 Rupturile
 Rus
+Rusă
 Rusăneşti
-Rusăneştii de Sus
+Rusăneştii
 Ruşavăţ
 Rusca
-Rusca Montană
 Ruschiţa
 Rusciori
 Ruscova
+Ruseni
 Ruşeni
-Ruseni (Borleşti)
-Rusenii de Sus
-Rusenii Noi
-Rusenii Răzeşi
-Rusenii Vechi
-Ruseni (Poiana Teiului)
+Rusenii
 Ruseşti
 Ruşeţu
 Ruşi
@@ -8322,14 +7811,13 @@ Ruşi-Ciutea
 Ruşii-Mănăstioara
 Ruşii-Munţi
 Ruşor
-Rusova Nouă
-Rusova Veche
+Rusova
 Ruştin
 Ruştior
-Rusu Bârgăului
-Rusu de Jos
-Rusu de Sus
+Rusu
+Rusului
 Sabangia
+(Săbăoani)
 Săbăoani
 Săbăreni
 Sabasa
@@ -8342,11 +7830,10 @@ Săcădat
 Săcădate
 Săcălaia
 Sacalasău
-Sacalasău Nou
 Săcălăşeni
 Săcălaz
 Săcăleni
-Săcalu de Pădure
+Săcalu
 Săcăluşeşti
 Săcămaş
 Săcărâmb
@@ -8356,10 +7843,10 @@ Săcăşeni
 Săcel
 Săcele
 Săcelu
+Săcelului
 Săceni
 Saciova
-Sacoşu Mare
-Sacoşu Turcesc
+Sacoşu
 Sacu
 Săcueni
 Săcuieu
@@ -8368,10 +7855,10 @@ Sadău
 Sadina
 Sădinca
 Sadova
-Sadova Nouă
-Sadova Veche
+Sadovei
 Sadoveni
 Sadu
+Sadului
 Saelele
 Şaeş
 Săftica
@@ -8381,6 +7868,7 @@ Săgagea
 Săgeata
 Sagna
 Şagu
+Şaguna
 Sahastru
 Săhăteni
 Sâi
@@ -8388,51 +7876,44 @@ Saioci
 Sălacea
 Sălăgeni
 Sălăgeşti
+Sălaj
 Sălăjeni
+Sălajului
 Sălard
-Sălaşu de Jos
-Sălaşu de Sus
+(Sălaşu
+Sălaşu
 Sălaşuri
 Sălăţig
 Salatiu
 Sălătruc
+(Sălătrucel)
 Sălătrucel
 Sălătrucu
 Sălbăgel
-Sălbăgelu Nou
+Sălbăgelu
 Şalcău
 Salcea
 Sălceni
+(Salcia
 Salcia
-Salcia Nouă
-Salcia Tudor
-Salcia Veche
+Salcie
+Salciei
+Salciei-Cătun
 Sălciile
+Sălciilor
+(Sălcioara)
 Sălcioara
-Sălcioara (Mătăsaru)
 Sălciua
-Sălciua de Jos
-Sălciua de Sus
-Sălciua Nouă
 Sălciva
 Sălcud
 Sălcuţa
-Sălcuţa (Calopăr)
-Săldăbagiu de Barcău
-Săldăbagiu de Munte
-Săldăbagiu Mic
+Săldăbagiu
 Sălicea
 Saligny
 Sălişca
 Sălişte
 Săliştea
 Săliştea-Deal
-Săliştea de Sus
-Săliştea Nouă
-Săliştea Veche
-Sălişte de Beiuş
-Sălişte de Pomezeu
-Sălişte de Vaşcău
 Săliştioara
 Sălniţa
 Salonta
@@ -8440,33 +7921,29 @@ Sălsig
 Sâlţa
 Săltăneşti
 Salva
+Salvei
 Sămăila
 Sămara
 Samarineşti
 Sâmbăta
-Sâmbăta de Jos
-Sâmbăta de Sus
-Sâmbăta Nouă
 Sâmbăteni
 Sâmboieni
 Sâmboleni
 Sâmbotin
 Sâmbriaş
+(Sâmbureşti)
 Sâmbureşti
 Şamşud
 Samurcaşi
 Sânandrei
 Sănăteşti
-Sanatoriul Agigea
+Sanatoriul
 Sânbenedic
 Sânbotin
 Sâncel
 Sâncrai
 Sâncrăieni
 Sâncraiu
-Sâncraiu Almaşului
-Sâncraiu de Mureş
-Sâncraiu Silvaniei
 Sândominic
 Şandra
 Şandru
@@ -8475,16 +7952,14 @@ Sănduleşti
 Sănduliţa
 Sângătin
 Sângeorge
-Sângeorgiu de Câmpie
-Sângeorgiu de Meseş
-Sângeorgiu de Mureş
-Sângeorgiu de Pădure
+Sângeorgiu
+Sângeorgiului
 Sângeorz-Băi
-Sângeorzu Nou
+Sângeorzu
 Sânger
 Sângeri
 Sângeru
-Sângeru de Pădure
+Sângerului
 Sâniacob
 Sâniob
 Sanislău
@@ -8494,43 +7969,32 @@ Sânleani
 Sânmărghita
 Sânmartin
 Sânmărtin
-Sânmărtin (Chinteni)
-Sânmartin de Beiuş
-Sânmărtinu de Câmpie
-Sânmartinu Maghiar
-Sânmartinu Sârbesc
+Sânmartinu
+Sânmărtinu
+Sânmărtinului
 Sânmiclăuş
-Sânmihai de Pădure
-Sânmihaiu Almaşului
-Sânmihaiu de Câmpie
-Sânmihaiu German
-Sânmihaiu Român
+Sânmihai
+Sânmihaiu
 Sânnicoară
-Sânnicolau de Beiuş
-Sânnicolau de Munte
-Sânnicolau Mare
-Sânnicolau Român
+Sânnicolau
 Şanoviţa
 Sânpaul
+(Sânpetru
 Sânpetru
-Sânpetru Almaşului
-Sânpetru de Câmpie
-Sânpetru German
-Sânpetru Mare
-Sânpetru Mic
+Sânpetrului
 Sânsimion
+(Şanţ)
 Şanţ
-Santa Mare
-Sântă Măria
-Sântămăria de Piatră
+(Santa
+Santa
+Sântă
+Sântămăria
 Sântămăria-Orlea
 Sântămărie
 Sântana
-Sântana de Mureş
 Sântandrei
 Santău
-Santăul Mare
-Santăul Mic
+Santăul
 Sântejude
 Sântejude-Vale
 Sântelec
@@ -8538,7 +8002,6 @@ Sântimbru
 Sântimbru-Băi
 Sântimreu
 Sântioana
-Sântioana de Mureş
 Sântion
 Sântionlunca
 Sântu
@@ -8548,6 +8011,10 @@ Sânvăsii
 Sânzieni
 Săpânţa
 Şapartoc
+Şapartocului
+Săpat
+Săpat)
+(Săpata)
 Săpata
 Săpoca
 Săpunari
@@ -8560,15 +8027,16 @@ Sărand
 Şarânga
 Sărari
 Sarasău
+Sărat
 Sarata
 Sărata
+Sărată
 Sarata-Basarab
 Sarata-Drăguşeni
 Sărata-Monteoru
-Sărata (Nicolae Bălcescu)
-Sărata (Solonţ)
 Sărăţel
 Sărăţeni
+Sărăţii
 Săratu
 Sărătura
 Sărăuad
@@ -8576,11 +8044,11 @@ Saravale
 Sărăzani
 Sărbătoarea
 Sârbeni
-Sârbenii de Jos
+Sârbenii
+Sârbesc
 Sârbeşti
+(Sârbi)
 Sârbi
-Sârbi (Budeşti)
-Sârbi (Fărcaşa)
 Sârbii-Măgura
 Sârbova
 Sârca
@@ -8588,110 +8056,74 @@ Sarcău
 Şard
 Sărdăneşti
 Şardu
-Şardu Nirajului
 Săreni
 Sârghieşti
 Sarichioi
-Sarighiol de Deal
+Sarighiol
+Sării
 Sările
 Sările-Cătun
 Sarinasuf
 Sărişor
-Sărişoru Mare
+Sărişoru
 Sărmaş
 Şărmăşag
 Sărmăşel
 Sărmăşel-Gară
+(Sărmaşu)
 Sărmaşu
 Sarmizegetusa
-Şaroş pe Târnave
+Şaroş
 Sărsăneşti
 Sârsca
 Sărsig
 Sartăş
 Saru
-Şaru Bucovinei
-Şaru Dornei
+Şaru
 Săruleşti
 Săruleşti-Gară
+Şarului
 Sărvăzel
 Şasa
 Săsar
 Săsarm
 Săsăuş
-Sasca Mare
-Sasca Mică
-Sasca Montană
-Sasca Nouă
-Sasca Română
+Sasca
 Saschiz
 Săşcioara
+(Săsciori)
 Săsciori
+(Sascut)
 Sascut
 Sascut-Sat
 Săseni
-Săsenii Noi
-Săsenii pe Vale
-Săsenii Vechi
+Săsenii
+Săsesc
 Sasova
+Sasului
 Şaşvereş
-Sat Bătrân
+Sat
 Satchinez
+Sate
+Sătească
 Săteni
 Sătic
 Sătmărel
 Satnoeni
-Sat Nou
 Sat-Şugatag
-Satu Barbă
+Satu
 Sătuc
 Sătucu
-Satu de Sus
+Satul
+Satului
 Satulung
-Satu Lung
-Satul Vechi
-Satu Mare
-Satu Mare (Crucea)
-Satu Mic
-Satu Nou
-Satu Nou (Baba Ana)
-Satu Nou (Banca)
-Satu Nou (Belceşti)
-Satu Nou (Berezeni)
-Satu Nou (Ciorăşti)
-Satu Nou (Coloneşti)
-Satu Nou (Creţeşti)
-Satu Nou de Jos
-Satu Nou de Sus
-Satu Nou (Gheorghe Doja)
-Satu Nou (Glodeanu-Siliştea)
-Satu Nou (Grădinari)
-Satu Nou (Gura Padinii)
-Satu Nou (Lipăneşti)
-Satu Nou (Lipova)
-Satu Nou (Mihăileşti)
-Satu Nou (Mircea Vodă)
-Satu Nou (Muntenii de Sus)
-Satu Nou (Ocland)
-Satu Nou (Oltina)
-Satu Nou (Onceşti)
-Satu Nou (Panciu)
-Satu Nou (Pârgăreşti)
-Satu Nou (Parincea)
-Satu Nou (Pochidia)
-Satu Nou (Sânpetru de Câmpie)
-Satu Nou (Şcheia)
-Satu Nou (Sireţel)
-Satu Nou (Soleşti)
-Satu Nou (Urecheşti)
-Satu Poieni
 Saturn
-Satu Vechi
 Şauaieu
 Sauca
 Săuca
 Săucani
 Sauceniţa
+(Săuceşti)
 Săuceşti
 Săud
 Şaula
@@ -8701,106 +8133,98 @@ Săuleşti
 Şăuliţa
 Şăuşa
 Sava
+(Săvădisla)
 Săvădisla
+(Săvârşin)
 Săvârşin
 Săvăstreni
 Săveni
 Săveşti
 Săvineşti
-Săvineşti (Poiana Teiului)
 Sboghiţeşti
 Scăeni
 Scăeşti
 Scafari
 Scaioşi
 Scăiuş
+(Scânteia)
 Scânteia
 Scânteieşti
 Scăpău
 Scăricica
 Scăriga
+(Scărişoara)
 Scărişoara
-Scărişoara Nouă
+Scărişoreanu
 Scărlăteşti
 Scăueni
 Scheia
+(Şcheia)
 Şcheia
-Scheiu de Jos
-Scheiu de Sus
+Şcheii
+Scheilor
+Scheiu
+Scheiului
 Schela
-Schela Cladovei
+Schelei
 Schiau
-Schiau (Urlaţi)
-Schiau (Valea Călugărească)
 Schineni
-Schineni (Sascut)
-Schineni (Săuceşti)
 Schinetea
 Schinteieşti
+Şchiopului
 Schit-Orăşeni
+(Schitu
+(Schitu)
 Schitu
-Schitu Deleni
-Schitu din Deal
-Schitu din Vale
-Schitu Duca
-Schitu Frumoasa
-Schitu Goleşti
-Schitu Hadâmbului
 Schitu-Matei
-Schitu Poienari
-Schitu Scoiceşti
-Schitu Stavnic
-Schitu Tarcău
-Schitu Topolniţei
 Schiuleşti
 Scoabe
 Scoarţa
+Scoarţei
 Scobâlţeni
 Scobinţi
-Scoposeni (Gorban)
-Scoposeni (Horleşti)
+Scoiceşti
+Scoposeni
 Scorbura
 Scoreiu
 Scorila
 Scorniceşti
 Scoroşeşti
-Scorţaru Nou
-Scorţaru Vechi
+Scorţaru
 Scorţeanca
+(Scorţeni)
 Scorţeni
 Scorţoasa
 Scoruşu
 Scrada
 Scrădoasa
+Screzii
 Scrind-Frăsinet
 Scrioaştea
 Sculeni
 Sculia
 Scundu
 Scurta
+Scurtă
 Scurteşti
 Scurtu
-Scurtu Mare
 Scurtu-Slăveşti
 Scutari
 Scutaru
 Scutelnici
 Seaca
-Seaca (Călimăneşti)
-Seaca de Câmp
-Seaca de Pădure
-Seaca (Poboru)
-Seaca (Sălătrucel)
+Seacă
 Sebeş
 Sebeşel
-Sebeşu de Jos
-Sebeşu de Sus
+Sebeşu
 Sebiş
 Şebiş
 Sebişeşti
+Sec
 Secaci
 Secara
 Secăria
+Secării
 Secaş
 Secăşel
 Secăşeni
@@ -8812,8 +8236,10 @@ Seciurile
 Secu
 Secui
 Secuia
+(Secuieni)
 Secuieni
-Secuienii Noi
+Secuienii
+Secuiesc
 Secuiu
 Seculeşti
 Securiceni
@@ -8825,10 +8251,9 @@ Segarcea-Deal
 Segarcea-Vale
 Seghişte
 Segleţ
-Şeica Mare
-Şeica Mică
+Şeica
 Seimeni
-Seimenii Mici
+Seimenii
 Seini
 Şeinoiu
 Şeitin
@@ -8836,20 +8261,20 @@ Seini
 Şelari
 Şelaru
 Seleuş
-Seleuş (Daneş)
-Seleuş (Zagăr)
 Şelimbăr
 Seliştat
 Selişte
 Seliştea
 Selişteni
 Seliştiuţa
+Seman
 Semenea
 Semlac
-Şemlacu Mare
-Şemlacu Mic
+Şemlacu
+(Şendreni)
 Şendreni
 Şendreşti
+(Şendriceni)
 Şendriceni
 Şendroaia
 Şendruleşti
@@ -8860,17 +8285,12 @@ Ser
 Şerani
 Şerbăneasa
 Şerbăneşti
-Şerbăneştii de Sus
-Şerbăneşti (Lăpuşata)
-Şerbăneşti (Păuşeşti)
-Şerbăneşti (Poienarii de Muscel)
-Şerbăneşti (Rociu)
-Şerbăneşti (Sălătrucel)
-Şerbăneşti (Ştefăneşti)
+Şerbăneştii
+(Şerbăuţi)
 Şerbăuţi
 Şerbeni
 Şerbeşti
-Şerbeştii Vechi
+Şerbeştii
 Şerboeni
 Şerboteşti
 Şercaia
@@ -8879,24 +8299,23 @@ Serdanu
 Sereca
 Şeredeiu
 Şerel
-Sergent Ionel Ştefan
+Sergent
 Şerghiş
 Sericu
 Şerpeni
 Şerpeniţa
 Şes
+Şesii
 Şesuri
-Şesuri Spermezeu-Vale
 Seuca
-Şeulia de Mureş
+Şeulia
 Şeuşa
+Sever
+Severin
 Severineşti
 Sfăcăru
-Sfânta Elena
-Sfântu Gheorghe
-Sfântu Gheorghe (Băneasa)
-Sfântu Gheorghe (Crevedia Mare)
-Sfântu Ilie
+Sfânta
+Sfântu
 Sfăraş
 Sfârcea
 Sfârleanca
@@ -8908,19 +8327,20 @@ Sfoartea
 Sfodea
 Şiacu
 Şiad
-Sibiciu de Jos
-Sibiciu de Sus
+Sibiciu
+Sibiciului
 Sibiel
 Sibioara
-Sibişel (Beriu)
-Sibişel (Râu de Mori)
+Sibişel
 Sibiu
+Sibiului
 Şibot
 Sic
 Şicasău
 Sicele
 Sicfa
 Sicheviţa
+Sicheviţei
 Sici
 Şiclău
 Şiclod
@@ -8934,8 +8354,7 @@ Siculeni
 Şieu-Sfântu
 Şieuţ
 Şigău
-Sighetu Marmaţiei
-Sighetu Silvaniei
+Sighetu
 Sighişoara
 Sighiştel
 Sigmir
@@ -8944,33 +8363,24 @@ Sihleanu
 Silagiu
 Silea
 Şilea
-Şilea Nirajului
 Şilindia
 Şilindru
 Silişcani
 Siliştea
-Siliştea Crucii
-Siliştea Dealului
-Siliştea Gumeşti
-Siliştea (Iana)
-Siliştea Mică
-Siliştea Nouă
-Siliştea (Pungeşti)
-Siliştea (Raciu)
-Siliştea (Runcu)
-Siliştea Snagovului
-Siliştea (Todireşti)
-Siliştea (Vităneşti)
+Siliştei
 Silişteni
+Siliştii
 Silistraru
 Silivaş
-Silivaşu de Câmpie
+Silivaşu
+Silivaşului
+Silvaniei
 Silvaş
-Silvaşu de Jos
-Silvaşu de Sus
+Silvaşu
+Silvaşului
 Şimand
 Simeria
-Simeria Veche
+(Şimian)
 Şimian
 Simila
 Similişoara
@@ -8978,32 +8388,31 @@ Siminicea
 Siminoc
 Simioneşti
 Şimişna
-Şimleu Silvaniei
+Şimleu
+Şimleului
 Simniceni
-Şimnicu de Jos
-Şimnicu de Sus
+Şimnicu
 Şimoceşti
 Şimon
+(Şimoneşti)
 Şimoneşti
 Simuleşti
 Sinaia
 Şinca
 Şincai
 Şincai-Fânaţe
-Şinca Nouă
-Şinca Veche
 Şindreşti
 Şindrila
 Şindrilari
 Şindriliţa
 Sinersig
+(Sineşti)
 Sineşti
 Sineu
 Singureni
 Sinoie
 Sintar
-Sintea Mare
-Sintea Mică
+Sintea
 Şintereag
 Şintereag-Gară
 Sinteşti
@@ -9014,18 +8423,17 @@ Sipeni
 Şipote
 Şipotele
 Şipotu
-Şipotu (Ponoarele)
-Şipotu (Poroina Mare)
+(Siret)
 Siret
+(Sireţel)
 Sireţel
 Siretu
-Siretu (Letea Veche)
-Siretu (Săuceşti)
 Şiria
 Şirineasa
 Şirioara
 Siriu
 Şiriu
+Siriului
 Şirlău
 Şirna
 Şirnea
@@ -9035,7 +8443,6 @@ Siriu
 Şiştarovăţ
 Şişterea
 Sita
-Sita Buzăului
 Sitani
 Sitaru
 Siteşti
@@ -9047,62 +8454,27 @@ Slănic
 Slănic-Moldova
 Slaşoma
 Slatina
-Slatina de Criş
-Slatina de Mureş
 Slatina-Nera
 Slatina-Timiş
-Slătinicu Mare
-Slătinicu Mic
+Slătinicu
 Slătinioara
 Slătiniţa
+(Slătioara)
 Slătioara
-Slătioara (Râşca)
-Slătioara (Stulpicani)
 Slătioarele
-Slava Cercheză
-Slava Rusă
+Slava
 Slăveni
 Slăveşti
 Slăviteşti
 Slavu
 Slăvuţa
+(Slimnic)
 Slimnic
 Slivileşti
 Slivna
 Slobozia
-Slobozia Blăneasa
-Slobozia (Boghicea)
-Slobozia Boteşti
-Slobozia Bradului
-Slobozia (Broscăuţi)
-Slobozia Ciorăşti
-Slobozia (Ciurea)
-Slobozia Conachi
-Slobozia (Cordăreni)
-Slobozia Corni
-Slobozia (Deleni)
-Slobozia (Fântânele)
-Slobozia (Filipeni)
-Slobozia Hăneşti
-Slobozia Mândra
-Slobozia Moară
-Slobozia Nouă
-Slobozia Oancea
-Slobozia (Oneşti)
-Slobozia (Păltiniş)
-Slobozia (Popeşti)
-Slobozia (Roznov)
-Slobozia (Schitu Duca)
-Slobozia Silişcani
-Slobozia (Sireţel)
-Slobozia (Stănişeşti)
-Slobozia (Stoeneşti)
-Slobozia Sucevei
-Slobozia (Urecheşti)
-Slobozia (Voineşti)
-Slobozia (Zvoriştea)
 Slon
-Smadovicioara de Secu
+Smadovicioara
 Smadoviţa
 Smârdan
 Smârdioasa
@@ -9111,16 +8483,17 @@ Smeeşti
 Smei
 Smeura
 Smida
-Smida Ungurenilor
 Şmig
 Smirna
 Smulţi
 Snagov
+Snagovului
 Snamăna
 Snide
 Şoal
 Şoala
 Şoard
+Soarelui
 Şoarş
 Soca
 Socea
@@ -9128,13 +8501,12 @@ Soceni
 Socet
 Socetu
 Soci
-Soci (Borca)
-Soci (Ştefan cel Mare)
 Socoalele
 Socodor
 Socol
 Socolari
-Socolu de Câmpie
+Socolu
+Socolului
 Socond
 Soconzel
 Socrujeni
@@ -9145,8 +8517,8 @@ Sofieni
 Sofroneşti
 Soharu
 Sohatu
+(Sohodol)
 Sohodol
-Sohodol (Albac)
 Sohodor
 Şoiceşti
 Şoimăreşti
@@ -9156,34 +8528,39 @@ Sohodor
 Şoimi
 Şoimoş
 Şoimu
+Şoimului
 Şoimuş
 Şoimuşeni
-Şoimuşu Mare
-Şoimuşu Mic
+Şoimuşu
 Solacolu
 Solca
+Solcii
 Şoldăneşti
 Şoldanu
 Solduba
+(Soleşti)
 Soleşti
 Şoliceşti
 Solocma
 Solomon
 Solona
 Soloneţ
-Soloneţu Nou
+Soloneţu
+(Solonţ)
 Solonţ
 Solovăstru
 Şomăneşti
 Şomartin
-Şomcuta Mare
-Şomcutu Mic
+Şomcuta
+Şomcutei
+Şomcutu
+Someş
+Someşan
 Someşeni
 Someş-Guruslău
 Someş-Odorhei
-Someşu Cald
+Someşu
 Someş-Uileac
-Someşu Rece
 Şomoşcheş
 Şomoştelnic
 Somova
@@ -9191,10 +8568,9 @@ Somuşca
 Şona
 Şopârleni
 Şopârliţa
-Soporu de Câmpie
+Soporu
 Sopot
-Şopotu Nou
-Şopotu Vechi
+Şopotu
 Şopteriu
 Soreni
 Soreşti
@@ -9204,18 +8580,21 @@ Soroceni
 Şoromiclea
 Soroştin
 Şoşdea
+Şoşii
 Şotânga
 Şotani
 Şotârcari
 Şotrile
 Şovarna
 Sovata
+(Soveja)
 Soveja
 Şovoaia
 Spahii
 Şpălnaca
 Spanţov
 Spârleni
+Spart
 Spata
 Spătac
 Spătăreasa
@@ -9225,6 +8604,7 @@ Spătaru
 Sperieţeni
 Sperleşti
 Spermezeu
+Spermezeu-Vale
 Spidele
 Spieşti
 Spineni
@@ -9232,81 +8612,87 @@ Spineşti
 Spini
 Spinoasa
 Spinu
+(Spinuş)
 Spinuş
-Spinuş de Pomezeu
+Spirei
 Spiridoneşti
 Spiridoni
-Spiru Haret
+Spiru
 Sprânceana
 Sprâncenata
 Spria
+Sprie
 Şpring
 Spulber
 Stâlnişoara
 Stâlpeni
 Stâlpu
+Stâlpului
 Stamate
-Stamora Germană
-Stamora Română
+Stamora
+Stampei
+Stampei)
+Stan
 Stana
 Stâna
-Stâna de Mureş
 Stanca
 Stânca
-Stânca (Comarna)
-Stânca (George Enescu)
 Stâncăşeni
-Stânca (Ştefăneşti)
-Stânca (Victoria)
 Stancea
 Stânceni
 Stănceşti
+(Stânceşti)
 Stânceşti
 Stănceşti-Larga
 Stânceşti-Ohaba
+Stanchii
+Stâncii
 Stăncilova
 Stanciova
+Stanciului
 Stănculeşti
+(Stăncuţa)
 Stăncuţa
 Stâncuţa
+Stânei
 Stăneşti
 Stăneşti-Lunca
-Stăneşti (Stoileşti)
+Stângă
 Stângăceaua
 Stănicei
+Stânii
 Stănija
 Stănila
 Stănileşti
+(Stănişeşti)
 Stănişeşti
 Stăniţa
 Stanomiru
-Stănuleasa (Sâmbureşti)
-Stănuleasa (Vitomireşti)
+Stănuleasa
 Starchiojd
 Stârci
 Stârciu
 Stârcu
 Stăteşti
-Staţiunea Climaterică Sâmbăta
-Staţiunea Zoologică Marină Agigea
+Staţiunea
+(Stăuceni)
 Stăuceni
 Stăuini
 Stăvărăşti
 Stăvaru
+Stavnic
 Stavropolia
+(Ştefan
+Ştefan
 Ştefanca
-Ştefan cel Mare
 Ştefăneaca
 Ştefănel
+(Ştefăneşti)
 Ştefăneşti
-Ştefăneştii de Jos
-Ştefăneştii de Sus
-Ştefăneştii Noi
-Ştefăneşti (Măciuca)
+Ştefăneştii
 Ştefăneşti-Sat
-Ştefăneşti (Suseni)
-Ştefan Odobleja
-Ştefan Vodă
+Ştefăniţei
+Ştefanului
 Ştefeni
 Ştefeşti
 Ştei
@@ -9321,10 +8707,7 @@ Stejari
 Stejarii
 Stejărişu
 Stejaru
-Stejaru (Crângeni)
-Stejaru (Farcaşa)
-Stejaru (Ion Creangă)
-Stejaru (Pângăraţi)
+Stejarului
 Stejera
 Stejerei
 Stejeriş
@@ -9348,24 +8731,28 @@ Stigniţa
 Ştiuleţi
 Stoborăşti
 Stoboru
+(Stoeneşti)
 Stoeneşti
-Stoeneşti (Berislăveşti)
-Stoeneşti (Floreşti-Stoeneşti)
 Stoiana
+Stoica
 Stoicăneşti
 Stoicani
 Stoiceni
 Stoiceşti
+Stoichii
 Stoiculeşti
 Stoieneasa
 Stoieneşti
+(Stoileşti)
 Stoileşti
 Stoina
 Stoineşti
 Stoişeşti
 Stolna
 Stolniceni
+(Stolniceni-Prăjescu)
 Stolniceni-Prăjescu
+(Stolnici)
 Stolnici
 Stolojani
 Storeşti
@@ -9375,20 +8762,19 @@ Străchineşti
 Stracoş
 Strahotin
 Straja
-Straja (Căpuşu Mare)
-Straja (Cojocna)
 Străjescu
 Strâmba
+Strâmbă
 Strâmba-Jiu
 Strâmba-Vulcan
-Strâmbeni (Căldăraru)
-Strâmbeni (Suseni)
+Strâmbeni
 Strâmbu
 Strâmbu-Băiuţ
 Străminoasa
 Strâmtu
 Strâmtura
 Strâmtura-Mitoc
+(Străoane)
 Străoane
 Străoşti
 Străteni
@@ -9397,8 +8783,9 @@ Strehaia
 Strei
 Strei-Săcel
 Streisângeorgiu
+Streiului
 Strejeşti
-Strejeştii de Sus
+Strejeştii
 Strejnicu
 Streminoasa
 Stremţ
@@ -9412,60 +8799,60 @@ Strugari
 Strugasca
 Strugurelu
 Strugureni
+(Strunga)
 Strunga
 Strungari
-Ştubeie Tisa
+Ştubeie
 Ştubeiu
 Studena
 Studina
 Studiniţa
 Stufu
 Stuhuleţ
+(Stulpicani)
 Stulpicani
 Stupărei
 Stupina
 Stupini
-Stupinii Prejmerului
+Stupinii
 Sturu
 Suarăş
 Suatu
+sub
+Sub
 Subcetate
-Sub Cetate
-Sub Coastă
-Sub Crâng
-Sub Deal
-Sub Margine
-Sub Pădure
 Subpiatră
-Sub Piatră
-Sub Plai
 Suceagu
 Suceava
 Suceşti
+Sucevei
+Sucevei)
 Suceveni
 Suceviţa
 Şuchea
-Suciu de Jos
-Suciu de Sus
+Suciu
 Sucutard
+Sud
 Sudiţi
-Sudiţi (Gherăseni)
-Sudiţi (Poşta Câlnău)
 Sudriaş
 Sudrigiu
 Suduleni
 Sudurău
 Şugag
+Şugatag
 Şugău
 Suhaia
 Suharău
 Suharu
+Suhaşului
 Suhuleţ
 Suhurlui
 Şuica
+(Şuici)
 Şuici
 Suieşti
 Suiug
+(Şuletea)
 Şuletea
 Sulighete
 Sulina
@@ -9481,18 +8868,16 @@ Sumurducu
 Sunători
 Şuncuiş
 Şuncuiuş
+Superior
 Şupitca
 Suplac
-Suplacu de Barcău
-Suplacu de Tinca
+Suplacu
 Suplai
 Supur
-Supuru de Jos
-Supuru de Sus
+Supuru
 Sura
+Şura
 Suraia
-Şura Mare
-Şura Mică
 Surani
 Surcea
 Surdeşti
@@ -9502,37 +8887,43 @@ Surdila-Greci
 Surdoiu
 Surduc
 Surducel
-Surducu Mare
-Surducu Mic
+Surducu
 Surduleşti
 Şuricaru
+Şurii
 Şurina
 Surlari
 Surpatele
 Surpaţi
 Surpeni
+Sus
+Sus)
 Susag
 Susani
+(Şuşani)
 Şuşani
 Şuşca
+(Suseni)
 Suseni
-Suseni (Bogaţi)
-Susenii Bârgăului
+Susenii
 Suseni-Socetu
-Şuşiţa (Brezniţa-Ocol)
-Şuşiţa (Grozeşti)
+Şuşiţa
+Şuşiţei
 Suslăneşti
 Şuştiu
 Suştra
 Şuşturogi
 Şuta
-Şuţa Seacă
+Şuţa
 Suteşti
+(Şuţeşti)
 Şuţeşti
+Şuţii
 Sutoru
 Şutu
 Suveica
 Şuviţa
+Suzana
 Sviniţa
 Tăbăcari
 Tabaci
@@ -9552,6 +8943,8 @@ Tăgădău
 Tăietura
 Tălagiu
 Tălăpanu
+Tălăşman
+(Talea)
 Talea
 Tălişoara
 Tălmăcel
@@ -9561,7 +8954,6 @@ Talpa
 Talpa-Bâscoveni
 Tălpălăi
 Talpa-Ogrăzile
-Talpa Poştei
 Tălpaş
 Tălpăşeşti
 Talpe
@@ -9569,8 +8961,7 @@ Tălpigeni
 Tălpigi
 Talpoş
 Tâlveşti
-Tămădău Mare
-Tămădău Mic
+Tămădău
 Tămaia
 Tămăoani
 Tămaşa
@@ -9583,14 +8974,17 @@ Tamaşfalău
 Tamaşi
 Tămăşoaia
 Tămaşu
+(Tâmboeşti)
 Tâmboeşti
 Tamboreşti
 Tâmbureşti
+(Tâmna)
 Tâmna
 Tâmpa
 Tanacu
 Tănăsari
 Tănăseşti
+(Tănăsoaia)
 Tănăsoaia
 Tâncăbeşti
 Ţandăra
@@ -9598,13 +8992,13 @@ Tâncăbeşti
 Tânganu
 Tanislavi
 Tansa
-Tansa (Belceşti)
 Ţânţăreni
 Ţânţaru
 Tântava
 Tapia
 Tăplău
 Ţapu
+Ţapului
 Ţărăneşti
 Tărâţa
 Ţărăţel
@@ -9617,41 +9011,33 @@ Tărceşti
 Târcov
 Ţărculeşti
 Ţârculeşti
-Ţârdenii Mari
-Ţârdenii Mici
+Ţârdenii
+Târg
+Târg)
 Târgovişte
-Târgşoru Nou
-Târgşoru Vechi
-Târgu Bujor
-Târgu Cărbuneşti
-Târgu Frumos
-Târgu Gânguleşti
-Târgu Jiu
-Târgu Lăpuş
-Târgu Logreşti
-Târgu Mureş
-Târgu Neamţ
-Târgu Ocna
-Târgu Secuiesc
+Târgşoru
+(Târgu
+Târgu
+Târgului
 Târguşor
-Târgu Trotuş
 Tărhăuşi
 Tărian
 Tăriceni
 Ţarina
 Tariverde
 Târlele
-Târlele Filiu
 Târleşti
 Târlişua
 Tărlungeni
 Ţărmure
-Tarna Mare
-Ţarna Mare
+Tarna
+Ţarna
 Târnava
-Târnava de Criş
+Târnave
+Târnavei
 Târnăveni
 Târnăviţa
+Târnei
 Tărnicioara
 Tarniţa
 Târnova
@@ -9660,6 +9046,7 @@ Târpeşti
 Tărpiu
 Târsa
 Târsa-Plai
+Târsei
 Târşolţ
 Târşoreni
 Ţărţăl
@@ -9672,15 +9059,15 @@ Taşca
 Tăşnad
 Tatanir
 Tătărăi
+(Tătărani)
 Tătărani
+(Tătărăni)
 Tătărăni
-Tătărăni (Dăneşti)
 Tătăranu
 Tătărăşeni
+(Tătărăşti)
 Tătărăşti
-Tătărăştii de Criş
-Tătărăştii de Jos
-Tătărăştii de Sus
+Tătărăştii
 Tătarca
 Tătăreşti
 Tătârlaua
@@ -9689,41 +9076,46 @@ Tătaru
 Tătăruşi
 Tatomireşti
 Ţaţu
+(Tătuleşti)
 Tătuleşti
 Tău
-Tău Bistra
 Ţăudu
 Taula
 Tăuni
 Tăure
+(Tăureni)
 Tăureni
 Tăuşeni
 Tauţ
 Tăut
 Tăutelec
 Tăuteşti
+(Tăuteu)
 Tăuteu
 Tăuţi
-Tăuţii de Sus
+Tăuţii
 Tăuţii-Măgherăuş
 Tăvădăreşti
 Ţăvârlău
 Tazlău
 Teaca
 Teasc
-Teascu din Deal
+Teascu
 Ţebea
-Teceu Mic
+Teceu
 Techereu
 Techirghiol
+Tecii
 Tecşeşti
-Tecucelu Sec
+Tecucelu
 Tecuci
 Tega
 Ţeghea
 Ţegheş
+Teghii
 Tehomir
 Ţeica
+Teilor
 Teiş
 Teişani
 Teişori
@@ -9731,6 +9123,8 @@ Teişoru
 Teişu
 Teiu
 Teiul
+Teiului
+Teiului)
 Teiuş
 Teiuşu
 Ţela
@@ -9743,13 +9137,13 @@ Telechia
 Telechiu
 Telega
 Telejna
+Teleorman
 Teleormanu
 Teleşti
 Ţeline
 Teliţa
 Teliu
-Teliucu Inferior
-Teliucu Superior
+Teliucu
 Ţelna
 Temelia
 Temereşti
@@ -9759,44 +9153,45 @@ Tencănău
 Ţentea
 Teodoreşti
 Ţepa
+Tepe
+Ţepeş
 Ţepeşti
-Ţepeş Vodă
 Ţepoaia
 Tepşenari
 Ţepu
-Ţepu de Sus
 Terca
 Tercheşti
 Terebeşti
 Teregova
-Teremia Mare
-Teremia Mică
+Teremia
 Ţerova
 Terpeziţa
 Teş
 Tescani
 Teşila
+(Teslui)
 Teslui
-Teşna (Coşna)
-Teşna (Poiana Stampei)
+Teşna
 Teştioara
 Teţcani
 Ţeţchea
 Teţcoiu
 Tetila
 Tetişu
+(Tetoiu)
 Tetoiu
-Tia Mare
+Tia
 Ţibana
 Ţibăneşti
-Ţibăneştii Buhlii
+Ţibăneştii
 Ţibău
 Ţibeni
+Ţibleşului
 Tibod
 Ţibrinu
 Tibru
 Ţibucani
-Ţibucanii de Jos
+Ţibucanii
 Ţicău
 Ticera
 Tichileşti
@@ -9808,32 +9203,30 @@ Ticoş-Floarea
 Ticu
 Ticu-Colonie
 Ticuşu
-Ticuşu Nou
-Ticuşu Vechi
-Ticvaniu Mare
-Ticvaniu Mic
+Ticvaniu
 Ţifeşti
 Ţifra
 Ţifu
 Ţigănaşi
 Ţigăneşti
-Ţigăneştii de Beiuş
-Ţigăneştii de Criş
+Ţigăneştii
 Ţigău
 Tighina
 Ţigmandru
+(Tigveni)
 Tigveni
-Tigveni (Răteşti)
-Tiha Bârgăului
+Tiha
 Tihău
 Tileagd
 Tilecuş
 Tilişca
+Timiş
+Timişană
 Timişeni
 Timişeşti
 Timişoara
-Timişu de Jos
-Timişu de Sus
+Timişu
+Timişului
 Timuş
 Tina
 Tinăud
@@ -9843,8 +9236,7 @@ Tinoasa
 Tinosu
 Ţintea
 Ţinteşti
-Tiocu de Jos
-Tiocu de Sus
+Tiocu
 Tioltiur
 Ţipar
 Ţipăreşti
@@ -9862,8 +9254,8 @@ Tirimioara
 Tirişneag
 Tirol
 Tisa
-Tisa Nouă
 Tisa-Silvestri
+(Tisău)
 Tisău
 Tişăuţi
 Tisieu
@@ -9877,7 +9269,9 @@ Titiana
 Titila
 Titireci
 Ţiţirigi
+(Titu)
 Titu
+Titulescu
 Ţiu
 Tiuleşti
 Tiur
@@ -9889,62 +9283,63 @@ Toc
 Toceni
 Tochilea
 Ţoci
+Tocii
+Tocila
 Tocileni
 Toculeşti
 Toderiţa
 Todirel
 Todireni
+(Todireşti)
 Todireşti
 Tofalău
 Toflea
 Tohani
-Tohanu Nou
+Tohanu
 Tohat
 Ţoheşti
 Toiaga
-Tojanii de Jos
-Tojanii de Sus
+Tojanii
 Tolăceşti
+Tolcesii
 Toldal
 Toleşeni
 Ţoleşti
 Ţolici
 Tomeni
 Tomeşti
+Tomii
 Tomnatec
 Tomnatic
 Tomozia
 Tomşa
 Tomşanca
+(Tomşani)
 Tomşani
 Tomuleşti
 Tomuşeşti
 Tomuţeşti
 Tonciu
 Tonea
-Toneşti (Leleasca)
-Toneşti (Sâmbureşti)
+Toneşti
 Ţonţeşti
+Topa
 Ţopa
-Topa de Criş
-Topa de Jos
-Topa de Sus
 Topalu
-Topa Mică
 Topana
 Topârcea
 Topeşti
 Topile
 Topla
 Topleţ
+(Topliceni)
 Topliceni
 Topliţa
-Topliţa Mureşului
 Topoliceni
 Topoliţa
+Topolniţei
 Topolog
-Topolovăţu Mare
-Topolovăţu Mic
+Topolovăţu
 Topoloveni
 Toporăşti
 Toporu
@@ -9955,7 +9350,6 @@ Tormac
 Toropăleşti
 Tortoman
 Totea
-Totea de Hurezani
 Toteşti
 Toţeşti
 Totia
@@ -9964,39 +9358,32 @@ Totoi
 Totoieşti
 Totoreni
 Tovărăşia
+(Traian)
 Traian
-Traian (Săbăoani)
-Traian Vuia
-Traian (Zăneşti)
+Traiane
 Trăisteni
 Trâmpoiele
 Trânceşti
 Traniş
 Tranişu
 Trebeş
-Trei Fântâni
-Trei Movile
-Trei Sate
+Trei
 Trenu
 Trepteni
 Trestenic
 Trestia
 Trestiana
+Trestiei
 Trestieni
-Trestienii de Jos
-Trestienii de Sus
+Trestienii
 Trestioara
-Trestioara (Chiliile)
-Trestioara (Mânzăleşti)
 Treznea
 Tria
 Trifeşti
-Trifeşti (Horea)
-Trifeşti (Lupşa)
 Trip
 Trişoreşti
-Tritenii de Jos
-Tritenii de Sus
+(Tritenii
+Tritenii
 Tritenii-Hotar
 Trivalea-Moşteni
 Troaş
@@ -10006,22 +9393,25 @@ Troian
 Troianul
 Troiţa
 Tronari
+Trotuş
+Trotuş)
 Trotuşanu
+Trotuşului
 Trufineşti
 Trundin
+(Truşeşti)
 Truşeşti
+Tudor
+Tudor)
 Tudora
-Tudor Vladimirescu
-Tudor Vladimirescu (Albeşti)
-Tudor Vladimirescu (Avrămeni)
 Ţufalău
 Tufani
 Tufanii
 Tufaru
+Tufei
 Tufeni
 Tufeşti
-Tufeştii de Jos
-Tufeştii de Sus
+Tufeştii
 Ţuglui
 Tulburea
 Tulburea-Văleni
@@ -10034,18 +9424,21 @@ Tulghieş
 Tulnici
 Tuluceşti
 Tunari
-Tunarii Noi
-Tunarii Vechi
+Tunarii
 Tungujei
 Tunseşti
 Tupilaţi
+Ţupilor
 Tur
 Turburea
 Turbuţa
 Turceni
+Turcesc
 Turceşti
 Turcineşti
 Turcoaia
+Turcului
+Turcului)
 Turda
 Turdaş
 Turdeni
@@ -10057,36 +9450,34 @@ Turluianu
 Turmaş
 Turmaşi
 Turnu
-Turnu Măgurele
-Turnu Roşu
-Turnu Ruieni
 Turţ
 Turtaba
 Turţ-Băi
 Turtureşti
 Turulung
 Turulung-Vii
+Turzii
 Tusa
 Tuşinu
 Tuşnad
-Tuşnadu Nou
+Tuşnadu
 Tuştea
 Tuta
 Tutana
 Ţuţcani
-Ţuţcanii din Deal
-Ţuţcanii din Vale
+Ţuţcanii
 Ţuţora
 Tutova
+Tutovei
 Tuţu
 Tuţuleşti
 Ţuţuleşti
 Ţuţuru
 Tuzla
+(Ucea)
 Ucea
-Ucea de Jos
-Ucea de Sus
 Ucuriş
+(Uda)
 Uda
 Uda-Clocociov
 Uda-Paciurea
@@ -10094,9 +9485,11 @@ Udaţi-Lucieni
 Udaţi-Mânzu
 Udeni
 Udeni-Zăvoi
+(Udeşti)
 Udeşti
 Udreşti
 Udupu
+Ugra
 Ugruţiu
 Uiasca
 Uibăreşti
@@ -10105,19 +9498,19 @@ Uieşti
 Uihei
 Uila
 Uilac
-Uileacu de Beiuş
-Uileacu de Criş
-Uileacu de Munte
-Uileacu Şimleului
-Uioara de Jos
-Uioara de Sus
+Uileacu
+Uioara
 Uivar
 Ulcani
 Ulciug
 Ulea
+Uleiului
 Uleni
+(Ulieş)
 Ulieş
+(Ulieşti)
 Ulieşti
+Ulieşului
 Ulita
 Uliuc
 Ulm
@@ -10126,47 +9519,44 @@ Ulmeni
 Ulmet
 Ulmeţel
 Ulmetu
+(Ulmi)
 Ulmi
 Ulmoasa
+(Ulmu)
 Ulmu
 Umbrăreşti
 Umbrăreşti-Deal
-Umbrăreşti (Târgu Bujor)
 Unceşti
 Unciuc
 Ungheni
 Unghi
+Unghiului
 Ungra
 Unguraş
+Unguraşului
 Ungurei
+(Ungureni)
 Ungureni
-Ungureni (Brăduleţ)
-Ungureni (Butimanu)
-Ungureni (Corbii Mari)
-Ungureni (Corneşti)
-Ungureni (Dragomireşti)
-Ungureni (Filipeştii de Târg)
-Ungureni (Gherghiţa)
-Ungurenii Mici
-Ungureni (Tătărăşti)
-Ungureni (Vadu Săpat)
-Ungureni (Valea Iaşului)
+Ungurenii
+Ungurenilor
 Unguriu
 Unguroaia
+Ungurului
 Unimăt
 Unip
+(Unirea)
 Unirea
 Unţeni
 Unţeşti
 Urca
 Urcu
-Urda de Jos
-Urda de Sus
+Urda
 Urdari
 Urdeş
 Urdeşti
 Urdiniţa
 Urecheni
+(Urecheşti)
 Urecheşti
 Uria
 Uric
@@ -10174,19 +9564,22 @@ Uricani
 Uricari
 Uricea
 Urieni
-Urisiu de Jos
-Urisiu de Sus
+Urieşului
+Urisiu
 Urişor
 Uriu
+(Urlaţi)
 Urlaţi
 Urleasca
 Urleşti
 Urleta
+Urloii
 Urlucea
 Urlueni
 Urluia
 Urluieşti
 Urluiu
+(Urmeniş)
 Urmeniş
 Uroi
 Ursa
@@ -10198,15 +9591,14 @@ Urseiu
 Urseni
 Urşi
 Ursici
-Urşi (Popeşti)
-Urşi (Stoileşti)
 Urşiţa
 Ursoaia
+Ursoii
+Ursului
 Urvind
-Urviş de Beiuş
-Urvişu de Beliu
+Urviş
+Urvişu
 Urzica
-Urzica Mare
 Urziceanca
 Urziceni
 Urziceni-Pădure
@@ -10214,8 +9606,11 @@ Urzicuţa
 Uscăci
 Uşurei
 Ususău
+Uţului
 Utvin
+Uzei
 Uzlina
+Uzului
 Uzunu
 Văcarea
 Văcăreasca
@@ -10228,28 +9623,13 @@ Vădaş
 Vădastra
 Vădăstriţa
 Vădeni
+(Vadu
 Vadu
-Vadu Anei
-Vadu Crişului
-Vadu Dobrii
-Vadu Izei
-Vadu Lat
-Vadu Moldovei
-Vadu Moţilor
-Vadu Negrilesei
-Vadu Oii
-Vadu Părului
-Vadu Paşii
+Vadului
+Vadului)
 Vădurele
-Vădurele (Alexandru cel Bun)
-Vădurele (Cândeşti)
 Vaduri
 Vadurile
-Vadu Roşca
-Vadu Săpat
-Vadu Soreşti
-Vadu Stanchii
-Vadu Vejei
 Vâgani
 Văgaş
 Văgiuleşti
@@ -10257,408 +9637,71 @@ Văi
 Vaida
 Vaida-Cămăraş
 Vaidacuta
+(Vaideeni)
 Vaideeni
 Vaidei
 Vaideiu
 Văieni
+Văii
+Văii)
 Vâjâitoarea
-Vălani de Pomezeu
-Vălanii de Beiuş
+Vălani
+Vălanii
 Vălari
 Vâlcăneasa
 Vâlcăneşti
 Vălcani
 Vâlcani
-Valcău de Jos
-Valcău de Sus
+Valcău
 Vâlcea
+Vâlcea)
 Vâlceaua
 Vâlcele
-Vâlcele (Corbasca)
 Vâlcelele
-Vâlcelele Bune
-Vâlcelele de Sus
-Vâlcele (Târgu Ocna)
 Vâlceluţa
 Vâlceşti
 Valchid
 Vâlcica
+Vâlcului
 Vale
+(Valea
 Valea
-Valea Abruzel
-Valea Adâncă
-Valea Agrişului
-Valea Albă
-Valea Albeştiului
-Valea Alunişului
-Valea Anei
-Valea Anilor
-Valea Argovei
-Valea Arini
-Valea Arinilor
-Valea Arsului
-Valea Babei
-Valea Babii
-Valea Bădenilor
-Valea Bălcească
-Valea Bancului
-Valea Banului
-Valea Bârluţeşti
-Valea Barnii
-Valea Beciului
-Valea Bisericii
-Valea Bistrei
-Valea Bistrii
-Valea Bobului
-Valea Bolvaşniţa
-Valea Borcutului
-Valea Boroş
-Valea Borului
-Valea Boţului
-Valea Bourei
-Valea Brădetului
-Valea Bradului
-Valea Brazilor
-Valea Bucurului
-Valea Budului
-Valea Bujorului
-Valea Bună
-Valea Caldă
-Valea Călmăţuiului
-Valea Călugărească
-Valea Calului
-Valea Cânepii
-Valea Capelei
-Valea Căşeielului
-Valea Caselor
-Valea Caselor (Drăgăşani)
-Valea Caselor (Popeşti)
-Valea Cătinei
-Valea Cerbului
-Valea Cerului
-Valea Cetăţuia
-Valea Cheii
-Valea Chioarului
-Valea Ciorii
-Valea Cireşoii
-Valea Cireşului
-Valea Ciuciului
-Valea Ciurenilor
-Valea Coceşti
-Valea Copcii
-Valea Corbului
-Valea Coşuştei
-Valea Coteşti
-Valea Cotoarei
-Valea Crângului
-Valea Cricovului
-Valea Crişului
-Valea cu Apă
-Valea Cucii
-Valea Cucului
-Valea Cufundoasă
-Valea Dacilor
-Valea Dadei
-Valea Dăii
-Valea Dâljii
-Valea Danului
-Valea de Brazi
-Valea de Jos
 Valeadeni
-Valea Deşului
-Valea de Sus
-Valea Dobârlăului
-Valea Doftanei
-Valea Drăganului
-Valea Dragului
-Valea Dulce
-Valea Enei
-Valea Făgetului
-Valea Fânaţului
-Valea Fântânei
-Valea Fântânilor
-Valea Faurului
-Valea Fetei
-Valea Florilor
-Valea Frăţiei
-Valea Gârbea
-Valea Gârboului
-Valea Giogeşti
-Valea Glodului
-Valea Goblii
-Valea Grădiştei
-Valea Grajdului
-Valea Grecului
-Valea Groşilor
-Valea Hogei
-Valea Holhorii
-Valea Hotarului
-Valea Hranei
-Valea Iadului
-Valea Iaşului
-Valea Iclandului
-Valea Ierii
-Valea Îndărăt
-Valea Întunecoasă
-Valea Inzelului
-Valea Izvoarelor
-Valea Largă
-Valea Largă-Săruleşti
-Valea Lespezii
-Valea Leşului
-Valea Leurzii
-Valea Loznei
-Valea lui Alb
-Valea lui Antaloc
-Valea lui Bosie
-Valea lui Cati
-Valea lui Dan
-Valea lui Darie
-Valea lui Enache
-Valea lui Ion
-Valea lui Lalu
-Valea lui Maş
-Valea lui Mihai
-Valea lui Opriş
-Valea lui Pătru
-Valea lui Pavel
-Valea lui Stan
-Valea Luncii
-Valea Lungă
-Valea Lungă-Cricov
-Valea Lungă-Gorgota
-Valea Lungă-Ogrea
-Valea Lungă Română
-Valea Lungului
-Valea Lupşii
-Valea Lupului
-Valea Măceşului
-Valea Maciului
-Valea Măcrişului
-Valea Măgheruşului
-Valea Măgurei
-Valea Mănăstirii
-Valea Mânăstirii
-Valea Mantei
-Valea Marcului
-Valea Mare
-Valea Mare (Băbeni)
-Valea Mare (Berbeşti)
-Valea Mare-Bratia
-Valea Mare (Cândeşti)
-Valea Mare (Coloneşti)
-Valea Mare de Codru
-Valea Mare de Criş
-Valea Mare (Dumeşti)
-Valea Mare (Gurahonţ)
-Valea Mare (Ivăneşti)
-Valea Mare (Negreşti)
-Valea Mare-Podgoria
-Valea Mare-Pravăţ
-Valea Mare (Roşiori)
-Valea Mare (Şanţ)
-Valea Mare (Săvârşin)
-Valea Mare (Urmeniş)
-Valea Mare (Valea Lungă)
-Valea Mărului
-Valea Merilor
-Valea Mică
-Valea Mică (Cleja)
-Valea Mică (Roşiori)
-Valea Mieilor
-Valea Milcovului
-Valea Minişului
-Valea Mlacii
-Valea Moldovei
-Valea Morii
-Valea Moşneagului
-Valea Motrului
-Valea Muierii de Jos
-Valea Muscelului
-Valea Nacului
-Valea Nandrii
-Valea Nandrului
 Văleanca-Vilăneşti
-Valea Neagră
-Valea Negrilesii
-Valea Nenii
-Valea Nicovani
-Valea Nucarilor
-Valea Nucetului
-Valea Nucului
-Valea Oanei
-Valea Oilor
-Valea Oprii
-Valea Oreviţa
-Valea Orlei
-Valea Pădurii
 Valeapai
-Valea Părului
-Valea Pechii
-Valea Perilor
-Valea Petrii
-Valea Pietrei
-Valea Plopilor
-Valea Plopului
-Valea Poenii
-Valea Poienei
-Valea Poienii
-Valea Poienii (Bucium)
-Valea Poienii (Râmeţ)
-Valea Pojarului
-Valea Pomilor
-Valea Popii
-Valea Popii (Mihăeşti)
-Valea Popii (Priboieni)
-Valea Poştei
-Valea Presnei
-Valea Purcarului
-Valea Putnei
-Valea Puţului Merei
-Valea Răchitei
-Valea Racilor
-Valea Racului
-Valea Râmnicului
-Valea Ratei
-Valea Râului
-Valea Ravensca
-Valea Rece
-Valea Rizii
-Valea Roatei
-Valea Roşie
-Valea Rotundă
-Valea Rumâneştilor
-Valea Rusului
-Valea Salciei
-Valea Salciei-Cătun
-Valea Sălciilor
-Valea Sângeorgiului
-Valea Sânmărtinului
-Valea Sânpetrului (Grebenişu de Câmpie)
-Valea Sânpetrului (Pogăceaua)
-Valea Şapartocului
-Valea Sării
-Valea Sasului
-Valea Satului
-Valea Scheilor
-Valea Scheiului
-Valea Şchiopului
-Valea Screzii
-Valea Scurtă
-Valea Seacă
-Valea Seacă (Nicolae Bălcescu)
-Valea Seman
-Valea Şesii (Bucium)
-Valea Şesii (Lupşa)
-Valea Sibiciului
-Valea Sicheviţei
-Valea Siliştei
-Valea Siliştii
-Valea Soarelui
-Valea Şoşii
-Valea Stâlpului
-Valea Stanciului
-Valea Stânei
-Valea Stânii
-Valea Ştefanului
-Valea Stejarului
-Valea Strâmbă
-Valea Stupinii
-Valea Şurii
-Valea Târgului
-Valea Târnei
-Valea Târsei
-Valea Teilor
-Valea Teiului
-Valea Timişului
-Valea Tocii
-Valea Ţupilor
-Valea Ugra
-Valea Uleiului
-Valea Ulieşului
-Valea Unghiului
-Valea Unguraşului
-Valea Ungurului
-Valea Urieşului
-Valea Urloii
-Valea Ursoii
-Valea Ursului
-Valea Ursului (Ponoarele)
-Valea Ursului (Tâmna)
-Valea Uţului
-Valea Uzei
-Valea Uzului
-Valea Vadului
-Valea Văleni
-Valea Verde
-Valea Verzei
-Valea Viei
-Valea Viilor
-Valea Vinţului
-Valea Vinului
-Valea Vişeului
-Valea Voievozilor
-Valea Zălanului
-Vale în Jos
+(Văleni)
 Văleni
-Văleni (Baia de Criş)
-Văleni (Brâncoveni)
-Văleni (Bucium)
-Văleni (Căianu)
-Văleni (Călăţele)
 Văleni-Dâmboviţa
-Văleni (Geoagiu)
 Vălenii
-Vălenii de Munte
-Vălenii de Mureş
-Vălenii Lăpuşului
-Vălenii Şomcutei
-Văleni (Meteş)
-Văleni (Moviliţa)
-Văleni (Pădureni)
-Văleni (Parincea)
-Văleni (Păuşeşti)
-Văleni (Piatra-Neamţ)
 Văleni-Podgoria
-Văleni (Rugineşti)
-Văleni (Secuieni)
-Văleni (Stănişeşti)
 Văleni-Stânişoara
-Văleni (Străoane)
-Văleni (Viişoara)
-Văleni (Zătreni)
 Vălioara
 Vălişoara
-Vălişoara (Balşa)
 Văliug
 Vâlsăneşti
-Valter Mărăcineanu
-Vâltori (Vadu Moţilor)
-Vâltori (Zlatna)
-Valu lui Traian
+Valter
+Vâltori
+Valu
 Vălureni
 Văluţa
 Vama
-Vama Buzăului
-Vama Marga
-Vama Seacă
-Vama Veche
 Vameş
 Vameşu
+Vânăt
 Vânăta
 Vânătoreşti
+(Vânători)
 Vânători
-Vânătorii Mari
-Vânătorii Mici
+(Vânătorii
+Vânătorii
+(Vânători-Neamţ)
 Vânători-Neamţ
-Vânători (Popricani)
 Vâneşti
+Vânju
 Vânjuleţ
-Vânju Mare
 Vanvuceşti
 Var
 Vărădia
-Vărădia de Mureş
 Vărai
 Varasău
 Vărăşeni
@@ -10673,17 +9716,17 @@ Vârciorog
 Vârciorova
 Vărd
 Vârf
-Vârfu Câmpului
-Vârfu Dealului
+(Vârfu
+Vârfu
 Vârfureni
 Vârfuri
+(Vârfurile)
 Vârfurile
 Vărgata
 Vargatac
 Vârghiş
 Variaş
-Variaşu Mare
-Variaşu Mic
+Variaşu
 Varlaam
 Vârleni
 Vârlezi
@@ -10696,65 +9739,68 @@ Vărşand
 Vărsătura
 Vârşeşti
 Vârşi
-Vârşii Mari
-Vârşii Mici
+Vârşii
 Vârşi-Rontu
 Vârşolţ
 Vârtăneşti
 Vârteju
 Vârteşca
+(Vârteşcoiu)
 Vârteşcoiu
 Vârtoape
-Vârtoapele de Jos
-Vârtoapele de Sus
+Vârtoapele
 Vârtop
 Vârtopu
 Varvata
 Varviz
 Vârvor
-Vârvoru de Jos
+Vârvoru
 Vărzari
-Vărzarii de Jos
-Vărzarii de Sus
+Vărzarii
 Vărzăroaia
 Vărzaru
 Văşad
 Vascani
 Vaşcău
 Văşcăuţi
+Vâscului
 Văseşti
 Vasilaţi
-Vasile Alecsandri
-Vasile Goldiş
+Vasile
 Vasileni
+(Vaslui)
 Vaslui
 Văsoaia
+(Vaţa
 Vaţa
-Vaţa de Jos
-Vaţa de Sus
 Vătăşeşti
 Vătaşi
 Vătava
 Vatra
-Vatra Dornei
-Vatra Moldoviţei
 Văvălucile
 Vecerd
+Veche
+Veche)
 Vechea
+Vechi
+Vede
+(Vedea)
 Vedea
 Veja
+Vejei
+(Vela)
 Vela
 Veleni
 Veleşti
 Velţ
 Venchi
-Veneţia de Jos
-Veneţia de Sus
+Veneţia
 Venus
 Verbia
 Verbicioara
 Verbiţa
 Vercicani
+Verde
 Verdea
 Verdeş
 Verdeşti
@@ -10767,8 +9813,9 @@ Verneşti
 Verşeni
 Verşeşti
 Verveghiu
-Veseud (Chirpăr)
-Veseud (Slimnic)
+Verzei
+Veseşti
+Veseud
 Veseuş
 Veştem
 Veţa
@@ -10786,45 +9833,37 @@ Viaşu
 Vica
 Vicea
 Vicoleni
-Vicovu de Jos
-Vicovu de Sus
+Vicovu
 Vicşani
+(Victor
+Victor
+(Victoria)
 Victoria
-Victoria (Hlipiceni)
-Victoria (Stăuceni)
-Victor Vlad Delamarina
 Vidacut
 Videle
 Vidimireşti
 Vidin
 Vidolm
+(Vidra)
 Vidra
 Vidrasău
 Vidrişoara
+Viei
 Vierşani
 Vieru
 Viezuri
 Viforâta
 Viforeni
 Viforoasa
+Vii
 Viile
-Viile Apei
-Viile Jacului
-Viile Satu Mare
-Viile Tecii
 Viilor
+(Viişoara)
 Viişoara
-Viişoara Mică
 Viişoara-Moşneni
-Viişoara (Păuneşti)
-Viişoara (Ştefan cel Mare)
-Viişoara (Târgu Trotuş)
-Viişoara (Todireşti)
-Viişoara (Vaslui)
-Viişoara (Vidra)
 Viltoteşti
-Vima Mare
-Vima Mică
+Vima
+(Vinderei)
 Vinderei
 Vinerea
 Vineţeşti
@@ -10832,78 +9871,84 @@ Vineţi
 Vineţisu
 Vinga
 Vingard
+Vinoasă
 Vinţa
 Vintere
-Vintilă Vodă
+Vintilă
 Vintileanca
 Vintileasca
-Vinţu de Jos
+(Vinţu
+Vinţu
+Vinţului
+Vinului
 Vipereşti
 Virismort
 Viroaga
 Visafolio
 Visag
 Vişagu
+Vişagului
 Vişan
 Vişani
 Visca
 Viscri
 Vişea
-Vişeu de Jos
-Vişeu de Mijloc
-Vişeu de Sus
+Vişeu
+Vişeului
+(Vişina)
 Vişina
-Vişina Nouă
 Vişinari
 Vişinelu
 Vişineşti
 Vişinii
 Vispeşti
 Viştea
-Viştea de Jos
-Viştea de Sus
 Visterna
 Vistieru
 Viştişoara
 Visuia
 Viţa
+(Vităneşti)
 Vităneşti
-Vităneştii de sub Măgură
+Vităneştii
 Viţcani
-Vitioara de Sus
+Viteazu
+Viteazu)
+Vitioara
+Vitioarei
+(Vitomireşti)
 Vitomireşti
+Viu
+Vizantea
 Vizantea-Livezi
-Vizantea Mănăstirească
-Vizantea Răzăşească
 Vizejdia
 Vizireni
 Viziru
 Vizma
 Vizureni
 Vizureşti
+Vlad
 Vlădaia
 Vlădăşeşti
+(Vlădeni)
 Vlădeni
-Vlădeni (Corlăteni)
 Vlădeni-Deal
+Vlădesei
 Vlădeşti
-Vlădeşti (Tigveni)
 Vladia
 Vlădica
 Vlădiceasca
 Vlădiceni
+Vlădichii
 Vlădila
-Vlădila Nouă
 Vladimir
 Vladimirescu
 Vladnic
 Vlădnicele
-Vladnicu de Jos
-Vladnicu de Sus
+Vladnicu
 Vlădnicuţ
 Vladomira
 Vlădoşeşti
-Vlad Ţepeş
 Vlăduceni
 Vlăduleni
 Vlăduleşti
@@ -10911,51 +9956,57 @@ Vlăduţa
 Vlaha
 Vlahii
 Vlăhiţa
+Vlahuţă
+Vlahuţă)
 Vlaici
+Vlaicu
 Vlăiculeşti
 Vlăngăreşti
 Vlaşca
 Vlăsceni
 Vlăşcuţa
+Vlăsiei
 Vlaşin
 Vlăsineşti
 Vocoteşti
+Vodă
+Vodă)
 Vodnic
 Voetin
 Voia
 Voiceşti
-Voiceştii din Vale
+Voiceştii
 Voiculeasa
 Voievoda
 Voievodeasa
+Voievozilor
 Voila
 Voineasa
 Voineşiţa
+(Voineşti)
 Voineşti
-Voineşti (Vultureşti)
 Voiniceni
 Voinigeşti
+Voinii
 Voislova
 Voita
 Voiteg
-Voiteştii din Deal
-Voiteştii din Vale
+Voiteştii
 Voitinel
 Voivodeni
-Voivozi (Popeşti)
-Voivozi (Şimian)
+Voivozi
 Volintireşti
 Voloiac
 Voloicel
 Voloşcani
 Volovăţ
+(Voluntari)
 Voluntari
 Vonigeasa
 Vorniceni
-Vornicenii Mari
-Vornicenii Mici
+Vornicenii
+(Vorona)
 Vorona
-Vorona Mare
 Vorona-Teodoru
 Voroneţ
 Voroveni
@@ -10972,18 +10023,22 @@ Vrani
 Vrăniuţ
 Vrata
 Vucova
+Vuia
 Vulcan
+Vulcana
 Vulcana-Băi
-Vulcana de Sus
 Vulcana-Pandele
 Vulcăneasa
+Vulcanei
 Vulpăşeni
 Vulpăşeşti
 Vulpeni
 Vulpeşti
 Vulpueşti
 Vultureanca
+(Vultureni)
 Vultureni
+(Vultureşti)
 Vultureşti
 Vulturi
 Vulturu
@@ -10996,18 +10051,22 @@ Zăbrani
 Zăbrătău
 Zădăreni
 Zădăriciu
+(Zagăr)
 Zagăr
 Zagavia
 Zagon
 Zagra
+Zagrei
 Zăgriş
 Zăgujeni
 Zahanaua
 Zahareşti
 Zahoreni
 Zăiceşti
+Zaicii
 Zăicoiu
 Zălan
+Zălanului
 Zalău
 Zalha
 Zalhanaua
@@ -11018,9 +10077,9 @@ Zâmbreasca
 Zâmbroaia
 Zamfira
 Zamfireşti
-Zamfireşti (Cepari)
-Zamfireşti (Cotmeana)
+(Zamostea)
 Zamostea
+(Zăneşti)
 Zăneşti
 Zănoaga
 Zănogi
@@ -11028,21 +10087,21 @@ Zănou
 Zânzeşti
 Zăplazi
 Zăpodea
+(Zăpodeni)
 Zăpodeni
 Zăpodia
-Zăpodia (Coloneşti)
-Zăpodia (Traian)
 Zărand
 Zărieş
 Zărneni
 Zărneşti
-Zărneştii de Slănic
+Zărneştii
 Zăsloane
+(Zătreni)
 Zătreni
-Zătrenii de Sus
+Zătrenii
+Zau
 Zăuan
 Zăuan-Băi
-Zau de Câmpie
 Zăval
 Zăvideni
 Zăvoaia
@@ -11055,8 +10114,7 @@ Zberoaia
 Zboiu
 Zdrapţi
 Zebil
-Zece Hotare
-Zece Prăjini
+Zece
 Zegaia
 Zegujani
 Zeicani
@@ -11064,7 +10122,7 @@ Zeletin
 Zemeş
 Zencani
 Zerind
-Zerindu Mic
+Zerindu
 Zerveşti
 Zetea
 Zgribeşti
@@ -11076,7 +10134,7 @@ Zidurile
 Zigoneni
 Zilişteanca
 Zimandcuz
-Zimandu Nou
+Zimandu
 Zimbor
 Zimbru
 Zimnicea
@@ -11089,6 +10147,7 @@ Zlata
 Zlătărei
 Zlătari
 Zlatiţa
+(Zlatna)
 Zlatna
 Zlătunoaia
 Zlodica
@@ -11101,19 +10160,22 @@ Zoiţa
 Zoiţani
 Zolt
 Zoltan
+Zoologică
 Zorani
 Zoreni
-Zorenii de Vale
+Zorenii
 Zoreşti
 Zorile
 Zorleasca
 Zorlencior
+(Zorleni)
 Zorleni
-Zorlenţu Mare
+Zorlenţu
 Zorleşti
 Zorzila
 Zurbaua
 Zuvelcaţi
 Zvorăneşti
+(Zvoriştea)
 Zvoriştea
 Zvorsca
