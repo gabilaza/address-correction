@@ -1,7 +1,7 @@
 # Address correction - PA Project 2023
 
 - Write an algorithm that corrects the fields country, state, city of a postal address. The Spring boot project will
-  expose a REST API that will receive an address as input and return its corrected form. It is not allowed to use and
+  expose a REST API that will receive an address as input and return its corrected form. It is not allowed to use any
   external APIs or libraries that process Addresses.
 
 
@@ -39,7 +39,7 @@
 - [ ] Supports 1 country
 - [ ] Normalization of the address (i.e. lowercase, remove .,;“!?-)
 - [ ] Tests for latency: average ms to correct an address.
-- [ ] Tests for precisions (%): take 100 correct addresses, make mistakes on them, call the API then compare the
+- [ ] Tests for precisions (%): take 100 correct addresses, make mistakes on them, call the API, then compare the
   original
   correct address with the response from the API.
 - [ ] Project can be executed locally
@@ -49,4 +49,4 @@
 - [ ] Supports addresses written in multiple languages
 - [ ] Supports 10+ countries
 - [ ] Postal code to be used as confidence booster (optional)
-- [ ] Project is deployed in cloud
+- [ ] Project is deployed in the cloud
