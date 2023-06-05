@@ -2,40 +2,36 @@ package com.chill.graph;
 
 import lombok.Data;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Set;
 
 @Data
-public class Chain<T> implements Comparable<Chain<T>> {
+public class Chain<T> implements Iterable<T>, Comparable<Chain<T>> {
     private int score;
-
-    private int factorScore;
 
     private List<T> chain;
 
     public Chain() {
         this.score = 0;
-        this.factorScore = 0;
         this.chain = new LinkedList<>();
     }
 
-    private void incScore() {
-        this.score += this.factorScore;
+    public void addScore(int score) {
+        this.score += score;
     }
 
-    public void addVertex(T vertex) {
-        this.chain.add(vertex);
+    public void addElement(T element) {
+        this.chain.add(element);
     }
 
-    public void computeScore(Set<T> vertices) {
-        this.factorScore = this.chain.size();
-        for (T vertex : this.chain) {
-            if (vertices.contains(vertex)) {
-                incScore();
-            }
-            this.factorScore -= 1;
-        }
+    public int size() {
+        return this.chain.size();
+    }
+
+    @Override
+    public Iterator<T> iterator() {
+        return this.chain.iterator();
     }
 
     @Override
