@@ -16,7 +16,7 @@ public class TreeAddress {
         this.currentTreeState = TreeState.INITIALIZED;
     }
 
-    public synchronized void initTree(List<Vertex<String>> roots) {
+    public void initTree(List<Vertex<String>> roots) {
         if (this.currentTreeState != TreeState.INITIALIZED) {
             throw new IllegalStateException(
                     "Cannot run initTree() in state " + this.currentTreeState);
@@ -37,36 +37,40 @@ public class TreeAddress {
         this.currentTreeState = TreeState.READY;
     }
 
-    public synchronized void destroyTree() {
+    public void destroyTree() {
         this.currentTreeState = TreeState.DESTROYED;
     }
 
-    public List<Vertex<String>> getVerticesByString(String string) {
+    public List<Vertex<String>> getVerticesByLocation(String location) {
         if (this.currentTreeState != TreeState.READY) {
             throw new IllegalStateException(
-                    "Cannot run getVerticesByString() in state " + this.currentTreeState);
+                    "Cannot run getVerticesByLocation() in state " + this.currentTreeState);
         }
 
-        return this.verticesMap.get(string);
+        if (existsVertexByLocation(location)) {
+            return this.verticesMap.get(location);
+        }
+        return new LinkedList<>();
     }
 
-    public boolean existsVertexInTree(String string) {
-        if (this.currentTreeState != TreeState.READY)
+    public boolean existsVertexByLocation(String location) {
+        if (this.currentTreeState != TreeState.READY) {
             throw new IllegalStateException(
-                    "Cannot run existsVertexInTree() in state " + this.currentTreeState);
+                    "Cannot run existsVertexByLocation() in state " + this.currentTreeState);
+        }
 
-        return this.verticesMap.containsKey(string);
+        return this.verticesMap.containsKey(location);
     }
 
-    public Chain<Vertex<String>> getChainFromVertexToRoot(Vertex<String> vertex) {
+    public Chain<Vertex<String>> getChain(Vertex<String> vertex) {
         if (this.currentTreeState != TreeState.READY) {
             throw new IllegalStateException(
                     "Cannot run getChainFromVertexToRoot() in state " + this.currentTreeState);
         }
 
         Chain<Vertex<String>> chain = new Chain<>();
-        Consumer<Vertex<String>> consumer = chain::addVertex;
-        getRoot(vertex, consumer);
+        Consumer<Vertex<String>> consumer = chain::addElement;
+        walkToRoot(vertex, consumer);
 
         return chain;
     }
@@ -80,10 +84,10 @@ public class TreeAddress {
         }
     }
 
-    private void getRoot(Vertex<String> vertex, Consumer<Vertex<String>> consumer) {
+    private void walkToRoot(Vertex<String> vertex, Consumer<Vertex<String>> consumer) {
         if (vertex != null) {
             consumer.accept(vertex);
-            getRoot(vertex.getParent(), consumer);
+            walkToRoot(vertex.getParent(), consumer);
         }
     }
 }

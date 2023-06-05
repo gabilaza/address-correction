@@ -15,8 +15,11 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 import java.io.Reader;
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.HashMap;
 
 @Component
 @RequiredArgsConstructor
@@ -38,7 +41,11 @@ public final class CSVMapper {
                     .build();
 
     public List<Country> mapToCountry(Reader csvReader) {
-        List<Country> countries = new LinkedList<>();
+        Map<String, Country> countriesMap = new HashMap<>();
+        Map<String, List<State>> statesMap = new HashMap<>();
+        Map<String, List<City>> citiesMap = new HashMap<>();
+        Map<String, List<PostalCode>> postalCodesMap = new HashMap<>();
+
         Country country = null;
         State state = null;
         City city = null;
@@ -51,29 +58,58 @@ public final class CSVMapper {
                 String countryName = record.get(AddressHeaders.COUNTRY);
                 String stateName = record.get(AddressHeaders.STATE);
                 String cityName = record.get(AddressHeaders.CITY);
-                String postalCodeStr = record.get(AddressHeaders.POSTAL_CODE);
+                String postalCodeName = record.get(AddressHeaders.POSTAL_CODE);
 
-                if (country == null || !countryName.equals(country.getName())) {
+                if (!countriesMap.containsKey(countryName)) {
                     country = new Country(countryName);
-                    countries.add(country);
+                    countriesMap.put(countryName, country);
+                } else {
+                    country = countriesMap.get(countryName);
                 }
-                if (state == null || !stateName.equals(state.getName())) {
+
+                if (!statesMap.containsKey(stateName)) {
                     state = new State(stateName, country);
-                    country.addState(state);
+                    statesMap.put(stateName, new LinkedList<>());
+                    statesMap.get(stateName).add(state);
+                } else {
+                    state = statesMap.get(stateName).stream().filter(s -> countryName.equals(s.getCountry().getName())).findAny().orElse(null);
+                    if (state == null) {
+                        state = new State(stateName, country);
+                        statesMap.get(stateName).add(state);
+                    }
                 }
-                if (city == null || !cityName.equals(city.getName())) {
+                country.addState(state);
+
+                if (!citiesMap.containsKey(cityName)) {
                     city = new City(cityName, state);
-                    state.addCity(city);
+                    citiesMap.put(cityName, new LinkedList<>());
+                    citiesMap.get(cityName).add(city);
+                } else {
+                    city = citiesMap.get(cityName).stream().filter(c -> stateName.equals(c.getState().getName())).findAny().orElse(null);
+                    if (city == null) {
+                        city = new City(cityName, state);
+                        citiesMap.get(cityName).add(city);
+                    }
                 }
-                if (postalCode == null || !postalCodeStr.equals(postalCode.getName())) {
-                    postalCode = new PostalCode(postalCodeStr, city);
-                    city.addPostalCode(postalCode);
+                state.addCity(city);
+
+                if (!postalCodesMap.containsKey(postalCodeName)) {
+                    postalCode = new PostalCode(postalCodeName, city);
+                    postalCodesMap.put(postalCodeName, new LinkedList<>());
+                    postalCodesMap.get(postalCodeName).add(postalCode);
+                } else {
+                    postalCode = postalCodesMap.get(postalCodeName).stream().filter(pc -> cityName.equals(pc.getCity().getName())).findAny().orElse(null);
+                    if (postalCode == null) {
+                        postalCode = new PostalCode(postalCodeName, city);
+                        postalCodesMap.get(postalCodeName).add(postalCode);
+                    }
                 }
+                city.addPostalCode(postalCode);
             }
         } catch (IOException exception) {
             logs.error(exception.getMessage());
         }
 
-        return countries;
+        return new ArrayList<Country>(countriesMap.values());
     }
 }
