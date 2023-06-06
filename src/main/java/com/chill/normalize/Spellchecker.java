@@ -43,8 +43,9 @@ public class Spellchecker {
         List<String> suggestions = new LinkedList<>();
         while (tokenizer.hasMoreTokens()) {
             String word = tokenizer.nextToken();
+            suggestions.add(word);
             try {
-                if (spellChecker.exist(word) || word.matches("\\d+")) {
+                if (spellChecker.exist(word)) {
                     suggestions.add(word);
                 } else {
                     String[] rawSuggestions =

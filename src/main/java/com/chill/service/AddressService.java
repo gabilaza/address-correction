@@ -54,7 +54,8 @@ public class AddressService {
         for (int concatTimes = 1; concatTimes <= maxConcatTimes; concatTimes++) {
             generatePermutations(suggestions, concatTimes, new Stack<>(), resultList);
         }
-
+        resultList.addAll(suggestions);
+        System.out.println(resultList);
         return resultList;
     }
 
@@ -67,6 +68,7 @@ public class AddressService {
             String concatenatedWord = String.join(" ", current);
             if (treeAddressService.existsVertexByLocation(concatenatedWord)) {
                 resultList.add(concatenatedWord);
+                System.out.println(concatenatedWord);
             }
         } else {
             for (int i = 0; i < suggestions.size(); i++) {
