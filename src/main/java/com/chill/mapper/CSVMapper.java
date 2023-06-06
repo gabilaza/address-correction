@@ -16,10 +16,10 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.LinkedList;
-import java.util.Map;
 import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
 
 @Component
 @RequiredArgsConstructor
@@ -32,15 +32,13 @@ public final class CSVMapper {
         CITY,
         STATE
     }
-
-    private final CSVFormat csvFormat =
-            CSVFormat.DEFAULT
-                    .builder()
-                    .setHeader(AddressHeaders.class)
-                    .setSkipHeaderRecord(true)
-                    .build();
-
     public List<Country> mapToCountry(Reader csvReader) {
+        CSVFormat csvFormat =
+                CSVFormat.DEFAULT
+                        .builder()
+                        .setHeader(AddressHeaders.class)
+                        .setSkipHeaderRecord(true)
+                        .build();
         Map<String, Country> countriesMap = new HashMap<>();
         Map<String, List<State>> statesMap = new HashMap<>();
         Map<String, List<City>> citiesMap = new HashMap<>();
@@ -111,5 +109,40 @@ public final class CSVMapper {
         }
 
         return new ArrayList<Country>(countriesMap.values());
+    }
+    enum LanguageHeaders {
+        ROMANIAN,
+        ENGLISH,
+        ITALIAN,
+        GERMAN,
+        FRENCH,
+        SPANISH,
+
+    }
+    public List<List<String>> mapToTranslationList (Reader csvReader) {
+        CSVFormat csvFormat =
+                CSVFormat.DEFAULT
+                        .builder()
+                        .setHeader(LanguageHeaders.class)
+                        .setSkipHeaderRecord(true)
+                        .build();
+        List<List<String>> translationLists = new ArrayList<>();
+        try {
+            Iterable<CSVRecord> records = csvFormat.parse(csvReader);
+
+            for (CSVRecord record : records) {
+                List<String> translations = new ArrayList<>();
+                for(LanguageHeaders header : LanguageHeaders.values()){
+                    String translation = record.get(header);
+                    translations.add(translation);
+                }
+
+                translationLists.add(translations);
+            }
+        } catch (IOException exception) {
+            exception.printStackTrace();
+        }
+
+        return translationLists;
     }
 }
