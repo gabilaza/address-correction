@@ -119,6 +119,18 @@ public final class CSVMapper {
         SPANISH,
 
     }
+    /**
+     * Parses a CSV file and maps each line of translations into a list of Strings,
+     * then adds each list into a primary list, which is returned at the end.
+     *
+     * @param csvReader The reader to read the CSV data.
+     * @return A list of lists of Strings.
+     * Each sublist represents a line from the CSV file,
+     *         where each element is a translation of the same word into different languages.
+     *         The languages are determined by the LanguageHeaders enum.
+     *         If there's an IOException during processing, the method prints the stack trace and
+     *         returns the list of translations parsed up to the point of the exception.
+     */
     public List<List<String>> mapToTranslationList (Reader csvReader) {
         CSVFormat csvFormat =
                 CSVFormat.DEFAULT

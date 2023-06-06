@@ -19,7 +19,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
-
+/** Application Runner class for importing translations from a CSV file into the application. */
 @Component
 @RequiredArgsConstructor
 @Order(3)
@@ -27,9 +27,9 @@ class TranslationImporter implements ApplicationRunner {
     private static final Logger logs = LoggerFactory.getLogger(AddressImporter.class);
 
     private final CSVMapper csvMapper;
-    
+
     private final Translation translation;
-    
+
     @Value("${app.translation.init.csv}")
     private String csvFilePath;
 

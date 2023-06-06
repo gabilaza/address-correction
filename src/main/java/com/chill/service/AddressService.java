@@ -41,14 +41,34 @@ public class AddressService {
         }
         return addressMapper.mapToAddress(chains.get(0));
     }
-
+    /**
+     * Normalizes an Address object to a list of normalized suggestions.
+     * It first maps the address
+     * to a string, then normalizes it, and finally provides spelling-checked suggestions for the
+     * normalized address string.
+     *
+     * @param address the Address object to normalize
+     * @return a list of string suggestions for the normalized address
+     */
     public List<String> normalizeAddress(Address address) {
         String addressStr = addressMapper.mapToString(address);
         addressStr = spellchecker.normalize(addressStr);
 
         return provideSuggestions(spellchecker.spellcheck(addressStr));
     }
-
+    /**
+     * Provides a list of possible suggestions for a given list of words.
+     * It uses the permutations
+     * of the given words, up to a specified maximum number of concatenations, to create the
+     * suggestions.
+     * It checks if the concatenated words exist as a vertex location in the
+     * treeAddressService, and if so, adds them to the list of results.
+     * Finally, it adds the
+     * original suggestions to the result list as well.
+     *
+     * @param suggestions the list of words to generate suggestions from
+     * @return a list of string suggestions
+     */
     public List<String> provideSuggestions(List<String> suggestions) {
         List<String> resultList = new ArrayList<>();
         for (int concatTimes = 1; concatTimes <= maxConcatTimes; concatTimes++) {
@@ -58,7 +78,17 @@ public class AddressService {
         System.out.println(resultList);
         return resultList;
     }
-
+    /**
+     * Recursively generates all permutations of a list of words up to a specified maximum number of
+     * concatenations.
+     * It checks if the concatenated words exist as a vertex location in the
+     * treeAddressService, and if so, adds them to the list of results.
+     *
+     * @param suggestions the list of words to generate permutations from
+     * @param concatTimes the maximum number of concatenations
+     * @param current the current permutation being built
+     * @param resultList the list of resulting permutations
+     */
     private void generatePermutations(
             List<String> suggestions,
             int concatTimes,
