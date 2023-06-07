@@ -34,6 +34,27 @@ public final class CSVMapper {
         STATE
     }
 
+    /**
+     * Parses a CSV file into a list of Country objects.
+     * The CSV file should contain records of postal addresses,
+     * where each record has columns for country, state, city, and postal code.
+     * This method creates a hierarchical
+     * structure, where each Country object contains State objects,
+     * each State contains City objects, and each City
+     * contains PostalCode objects.
+     * <p>
+     * During parsing, this method ensures that each country, state, city, and postal code appears only once in the
+     * hierarchy.
+     * If a postal code appears in different cities, or a city appears in different states, or a state
+     * appears in different countries, separate objects will be created for each distinct occurrence.
+     * <p>
+     * If the CSV file is not correctly formatted, or an I/O error occurs during parsing, this method will log the
+     * error message and return an empty list.
+     *
+     * @param csvReader the reader to read the CSV file from
+     * @return a list of Country objects parsed from the CSV file, or an empty list if an error occurred
+     */
+
     public List<Country> mapToCountry(Reader csvReader) {
         CSVFormat csvFormat =
                 CSVFormat.DEFAULT

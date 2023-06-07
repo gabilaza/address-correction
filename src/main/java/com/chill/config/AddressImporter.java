@@ -34,6 +34,14 @@ class AddressImporter implements ApplicationRunner {
     @Value("${app.database.init.csv}")
     private String csvFilePath;
 
+    /**
+     * This method reads data from a CSV file and
+     * imports it into the application.
+     * It maps the CSV data to Country objects
+     * and saves them in the service
+     *
+     * @throws IOException if there is an error reading the CSV file
+     */
     @Override
     public void run(ApplicationArguments args) throws IOException {
         logs.info("Started");

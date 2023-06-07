@@ -36,6 +36,15 @@ class TranslationImporter implements ApplicationRunner {
     @Value("${app.translation.init.csv}")
     private String csvFilePath;
 
+    /**
+     * This method reads translation data from a CSV file
+     * and imports it into the application.
+     * It maps the CSV data to a map of Language
+     * and List of Strings, which represent translations,
+     * then initializes the translations in the application.
+     *
+     * @throws IOException if there is an error reading the CSV file
+     */
     @Override
     public void run(ApplicationArguments args) throws IOException {
         logs.info("Started");
