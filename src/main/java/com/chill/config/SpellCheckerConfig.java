@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 import java.io.IOException;
 
+/** Configuration class for initializing and configuring the Spellchecker. */
 @Configuration
 public class SpellCheckerConfig {
     private static final Logger logs = LoggerFactory.getLogger(SpellCheckerConfig.class);
@@ -26,6 +27,12 @@ public class SpellCheckerConfig {
     @Value("${app.spellchecker.suggestion.accuracy}")
     private float suggestionAccuracy;
 
+    /**
+     * Initializes a Spellchecker with the configurations provided.
+     *
+     * @return Spellchecker - Initialized Spellchecker instance. In the case of an IOException
+     *     during initialization, logs the exception and returns null.
+     */
     @Bean
     public Spellchecker spellchecker() {
         try {
