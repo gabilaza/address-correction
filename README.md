@@ -35,18 +35,18 @@
 
 ### 15 points
 
-- [ ] Supports one language
-- [ ] Supports 1 country
-- [ ] Normalization of the address (i.e. lowercase, remove .,;“!?-)
-- [ ] Tests for latency: average ms to correct an address.
-- [ ] Tests for precisions (%): take 100 correct addresses, make mistakes on them, call the API, then compare the
+- [x] Supports one language
+- [x] Supports 1 country
+- [x] Normalization of the address (i.e. lowercase, remove .,;“!?-)
+- [x] Tests for latency: average ms to correct an address.
+- [x] Tests for precisions (%): take 100 correct addresses, make mistakes on them, call the API, then compare the
   original
   correct address with the response from the API.
-- [ ] Project can be executed locally
+- [x] Project can be executed locally
 
 ### 30 points
 
-- [ ] Supports addresses written in multiple languages
-- [ ] Supports 10+ countries
-- [ ] Postal code to be used as confidence booster (optional)
-- [ ] Project is deployed in the cloud
+- [x] Supports addresses written in multiple languages
+- [x] Supports 10+ countries
+- [x] Postal code to be used as confidence booster (optional)
+- [x] Project is deployed in the cloud
