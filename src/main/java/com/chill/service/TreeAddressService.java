@@ -14,6 +14,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
+import java.util.Iterator;
 
 @Service
 @RequiredArgsConstructor
@@ -66,5 +67,20 @@ public class TreeAddressService {
 
     public boolean existsVertexByLocation(String location) {
         return treeAddress.existsVertexByLocation(location);
+    }
+
+    public Chain<Vertex<String>> completeChain(Chain<Vertex<String>> chain) {
+
+        while (true) {
+            Vertex<String> vertex = chain.getFirst();
+            Iterator<Vertex<String>> childrenIterable = vertex.getChildren().iterator();
+            if (childrenIterable.hasNext()) {
+                chain.addFirstElement(childrenIterable.next());
+            } else {
+                break;
+            }
+        }
+
+        return chain;
     }
 }

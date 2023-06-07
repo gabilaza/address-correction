@@ -44,7 +44,11 @@ public class AddressService {
         if (chains.isEmpty()) {
             return new Address();
         }
-        return addressMapper.mapToAddress(chains.get(0));
+
+        Chain<Vertex<String>> chain = chains.get(0);
+        treeAddressService.completeChain(chain);
+
+        return addressMapper.mapToAddress(chain);
     }
 
     /**

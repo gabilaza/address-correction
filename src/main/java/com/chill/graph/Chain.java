@@ -10,7 +10,7 @@ import java.util.List;
 public class Chain<T> implements Iterable<T>, Comparable<Chain<T>> {
     private int score;
 
-    private List<T> chain;
+    private LinkedList<T> chain;
 
     public Chain() {
         this.score = 0;
@@ -23,6 +23,14 @@ public class Chain<T> implements Iterable<T>, Comparable<Chain<T>> {
 
     public void addElement(T element) {
         this.chain.add(element);
+    }
+
+    public void addFirstElement(T element) {
+        this.chain.addFirst(element);
+    }
+
+    public T getFirst() {
+        return this.chain.getFirst();
     }
 
     public int size() {
