@@ -352,6 +352,9 @@ Aureşti
 Aurit
 Aurora
 Auşeu
+Australia
+Australie
+Australien
 Avântu
 Avereşti
 (Avram
@@ -869,7 +872,10 @@ Beriu
 Berivoi
 Berleşti
 Berlişte
+Bern
+Berna
 Bernadea
+Berne
 Bertea
 Berteştii
 Berthelot
@@ -1392,6 +1398,7 @@ Brusturi
 Brusturoasa
 Bruznic
 Bubeşti
+Bucarest
 Bucea
 Buceava-Şoimuş
 (Bucecea)
@@ -1400,6 +1407,7 @@ Bucerdea
 Buceş
 Buceşti
 Buceş-Vulcan
+Bucharest
 Buchila
 Buchilaşi
 Buchin
@@ -1431,6 +1439,7 @@ Bucureasa
 (Bucureşci)
 Bucureşci
 Bucureşti
+București
 Bucuroaia
 Bucuru
 Bucurului
@@ -1489,6 +1498,7 @@ Bujoreni
 Bujor-Hodaie
 Bujoru
 Bujorului
+Bukarest
 Bulagei
 Bulai
 Bulboaca
@@ -1757,6 +1767,8 @@ Câmpurelu
 Câmpuri
 Câmpuri-Surduc
 Cămuieşti
+Canadá
+Canberra
 Cândeasca
 Cândeleşti
 (Cândeşti)
@@ -2196,6 +2208,8 @@ Chiscani
 Chişcăreni
 Chişcău
 Chiselet
+Chisinau
+Chișinău
 Chisindia
 Chişineu-Criş
 Chişirid
@@ -3551,6 +3565,7 @@ Elan
 Elciu
 Elena
 Eliseni
+Elveția
 Emil
 Eminescu
 Enache
@@ -3578,7 +3593,11 @@ Escu
 Esechioi
 Eşelniţa
 Esna
+Espagne
+España
+Estados Unidos
 Estelnic
+États-Unis
 Eteni
 Ezeni
 Ezeriş
@@ -3807,9 +3826,13 @@ Forţeni
 Foteşti
 Fotin
 Fotoş
+France
 Frâncenii
 Frânceşti
 Frânceşti-Coasta
+Francia
+Frankreich
+Franța
 Frasin
 Frasina
 Frasin-Deal
@@ -4150,6 +4173,7 @@ Ghizdita
 Ghizela
 Giacăş
 Gialacuta
+Giappone
 Giarmata
 Giarmata-Vii
 Gibeşti
@@ -4946,7 +4970,11 @@ Istriţa
 Isvarna
 Isverna
 Isvoarele
+Italia
+Italie
+Italien
 Italieni
+Italy
 Iţcani
 (Iteşti)
 Iteşti
@@ -5003,6 +5031,10 @@ Jacu
 Jacului
 Jahalia
 Jamu
+Japan
+Japon
+Japón
+Japonia
 (Jariştea)
 Jariştea
 Jariştei
@@ -5083,6 +5115,7 @@ Jurca
 Jurcuieşti
 Jureşti
 Jurilovca
+Kanada
 Kogălniceanu
 Kogălniceni
 L.
@@ -5303,6 +5336,9 @@ Lojniţa
 Loloiasca
 Loman
 Lompirt
+London
+Londra
+Londres
 Lopadea
 Lopătăreasa
 Lopătari
@@ -5437,6 +5473,7 @@ Mădârjac
 Mădârjeşti
 Mădei
 Măderat
+Madrid
 Mădrigeşti
 Mădulari
 Măerişte
@@ -5991,6 +6028,9 @@ Moişeni
 Moiseşti
 Moisica
 Molani
+Moldavia
+Moldavie
+Moldawien
 Moldova
 Moldova-Suliţa
 Moldovei
@@ -6596,6 +6636,7 @@ Otetelişu
 Oţetoaia
 Otomani
 Otopeni
+Ottawa
 Otveşti
 Oveselu
 Ovidiu
@@ -6716,8 +6757,10 @@ Parepa-Ruşani
 Pârgăreşti
 Părhăuţi
 Parhida
+Parigi
 (Parincea)
 Parincea
+Paris
 Pârjol
 Pârjoleşti
 Pârlagele
@@ -7611,10 +7654,13 @@ Redişoara
 (Rediu)
 Rediu
 Reea
+Regatul Unit
 Reghea
 Reghin
 Reghiu
 Reghiului
+Regno Unito
+Reino Unido
 Remecioara
 (Remetea
 (Remetea)
@@ -7684,6 +7730,7 @@ Rohani
 Rohia
 Roit
 Rojişte
+Rom
 Roma
 Romacril
 Roman
@@ -7700,6 +7747,7 @@ Români
 România
 Romanii
 Romanu
+Rome
 Romita
 Romos
 Romoşel
@@ -7747,10 +7795,12 @@ Rotund
 Rotunda
 Rotundă
 Roua
+Roumanie
 Rovina
 Rovinari
 Rovine
 Roviniţa
+Royaume-Uni
 Rozavlea
 Rozilei
 (Roznov)
@@ -7781,6 +7831,8 @@ Ruginosu
 Ruieni
 Ruja
 Rumâneştilor
+Rumanía
+Rumänien
 Runc
 Runcşor
 (Runcu)
@@ -8178,6 +8230,7 @@ Schit-Orăşeni
 Schitu
 Schitu-Matei
 Schiuleşti
+Schweiz
 Scoabe
 Scoarţa
 Scoarţei
@@ -8590,8 +8643,12 @@ Sovata
 (Soveja)
 Soveja
 Şovoaia
+Spagna
 Spahii
+Spain
 Şpălnaca
+Spania
+Spanien
 Spanţov
 Spârleni
 Spart
@@ -8673,8 +8730,10 @@ Starchiojd
 Stârci
 Stârciu
 Stârcu
+Statele Unite
 Stăteşti
 Staţiunea
+Stati Uniti
 (Stăuceni)
 Stăuceni
 Stăuini
@@ -8851,7 +8910,9 @@ Suhurlui
 (Şuici)
 Şuici
 Suieşti
+Suisse
 Suiug
+Suiza
 (Şuletea)
 Şuletea
 Sulighete
@@ -8925,6 +8986,8 @@ Suveica
 Şuviţa
 Suzana
 Sviniţa
+Svizzera
+Switzerland
 Tăbăcari
 Tabaci
 Tăbălăieşti
@@ -9300,6 +9363,8 @@ Tohat
 Ţoheşti
 Toiaga
 Tojanii
+Tokio
+Tokyo
 Tolăceşti
 Tolcesii
 Toldal
@@ -9546,6 +9611,8 @@ Unimăt
 Unip
 (Unirea)
 Unirea
+United Kingdom
+United States
 Unţeni
 Unţeşti
 Urca
@@ -9804,6 +9871,8 @@ Verde
 Verdea
 Verdeş
 Verdeşti
+Vereinigtes Königreich
+Vereinigte Staaten
 Verendin
 Vereşti
 Verguleasa
@@ -10044,6 +10113,7 @@ Vulturi
 Vulturu
 Vurpăr
 Vutcani
+Washington D.C.
 Zăbala
 Zăbalţ
 Zaboloteni

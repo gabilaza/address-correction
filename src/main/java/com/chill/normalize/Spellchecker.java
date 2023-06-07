@@ -12,6 +12,7 @@ import java.nio.file.Paths;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
+
 /**
  * Spellchecker class is a utility for providing spell checking and suggestions for corrections of a
  * given text based on a dictionary.
@@ -23,6 +24,7 @@ public class Spellchecker {
     private final float accuracy;
 
     private final SpellChecker spellChecker;
+
     /**
      * Creates a new instance of Spellchecker with a given dictionary and configuration.
      *
@@ -45,6 +47,7 @@ public class Spellchecker {
                 new IndexWriterConfig(new StandardAnalyzer()),
                 true);
     }
+
     /**
      * Normalizes a given word by removing any characters that are not letters, numbers or
      * diacritical marks.
@@ -55,6 +58,7 @@ public class Spellchecker {
     public String normalize(String word) {
         return word.replaceAll("[^\\p{L}\\p{N}\\p{M} ]", "");
     }
+
     /**
      * Splits the given text into words and provides suggestions for each word if it is not in the
      * dictionary.

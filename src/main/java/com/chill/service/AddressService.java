@@ -4,7 +4,9 @@ import com.chill.entity.Address;
 import com.chill.graph.Chain;
 import com.chill.graph.Vertex;
 import com.chill.mapper.AddressMapper;
+import com.chill.normalize.Language;
 import com.chill.normalize.Spellchecker;
+import com.chill.normalize.Translation;
 
 import lombok.RequiredArgsConstructor;
 
@@ -13,6 +15,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.Stack;
@@ -25,6 +28,8 @@ public class AddressService {
     private final Spellchecker spellchecker;
 
     private final TreeAddressService treeAddressService;
+
+    private final Translation translation;
 
     @Value("${app.normalize.suggestion.maxConcatTimes}")
     private int maxConcatTimes;
@@ -41,6 +46,7 @@ public class AddressService {
         }
         return addressMapper.mapToAddress(chains.get(0));
     }
+
     /**
      * Normalizes an Address object to a list of normalized suggestions.
      * It first maps the address
@@ -56,18 +62,23 @@ public class AddressService {
 
         return provideSuggestions(spellchecker.spellcheck(addressStr));
     }
+
     /**
      * Provides a list of possible suggestions for a given list of words.
-     * It uses the permutations
-     * of the given words, up to a specified maximum number of concatenations, to create the
-     * suggestions.
-     * It checks if the concatenated words exist as a vertex location in the
-     * treeAddressService, and if so, adds them to the list of results.
-     * Finally, it adds the
-     * original suggestions to the result list as well.
+     * The method first generates
+     * permutations of the provided suggestions, up to a specified maximum number of concatenations.
+     * If any concatenated permutation is a valid vertex location, according to the
+     * treeAddressService, it is added to the list of results.
+     * After the permutation generation, the
+     * original suggestions are also appended to the list.
+     *
+     * <p>Following this, each word in the resultant list is cross-referenced with the
+     * translationMap.
+     * If a match is found, the word is replaced in the list with its corresponding
+     * mapped value from the translationMap.
      *
      * @param suggestions the list of words to generate suggestions from
-     * @return a list of string suggestions
+     * @return a list of string suggestions, including permutations and translations
      */
     public List<String> provideSuggestions(List<String> suggestions) {
         List<String> resultList = new ArrayList<>();
@@ -75,9 +86,16 @@ public class AddressService {
             generatePermutations(suggestions, concatTimes, new Stack<>(), resultList);
         }
         resultList.addAll(suggestions);
-        System.out.println(resultList);
+
+        resultList.replaceAll(s -> translation.translate(s, Language.ENGLISH));
+
+        Set<String> set = new LinkedHashSet<>(resultList);
+        resultList.clear();
+        resultList.addAll(set);
+
         return resultList;
     }
+
     /**
      * Recursively generates all permutations of a list of words up to a specified maximum number of
      * concatenations.
@@ -98,7 +116,6 @@ public class AddressService {
             String concatenatedWord = String.join(" ", current);
             if (treeAddressService.existsVertexByLocation(concatenatedWord)) {
                 resultList.add(concatenatedWord);
-                System.out.println(concatenatedWord);
             }
         } else {
             for (int i = 0; i < suggestions.size(); i++) {

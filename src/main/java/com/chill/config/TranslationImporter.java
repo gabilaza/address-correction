@@ -1,6 +1,7 @@
 package com.chill.config;
 
 import com.chill.mapper.CSVMapper;
+import com.chill.normalize.Language;
 import com.chill.normalize.Translation;
 
 import lombok.RequiredArgsConstructor;
@@ -19,6 +20,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
+import java.util.Map;
+
 /** Application Runner class for importing translations from a CSV file into the application. */
 @Component
 @RequiredArgsConstructor
@@ -41,8 +44,8 @@ class TranslationImporter implements ApplicationRunner {
         logs.info("Import translationCSV: " + csvPath);
 
         try (Reader reader = Files.newBufferedReader(csvPath)) {
-            List<List<String>> translationList = csvMapper.mapToTranslationList(reader);
-            translation.initTranslate(translationList);
+            Map<Language, List<String>> translationList = csvMapper.mapToTranslation(reader);
+            translation.initTranslation(translationList);
         }
 
         logs.info("Finished");

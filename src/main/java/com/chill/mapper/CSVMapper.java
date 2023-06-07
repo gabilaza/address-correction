@@ -4,6 +4,7 @@ import com.chill.entity.City;
 import com.chill.entity.Country;
 import com.chill.entity.PostalCode;
 import com.chill.entity.State;
+import com.chill.normalize.Language;
 
 import lombok.RequiredArgsConstructor;
 
@@ -32,6 +33,7 @@ public final class CSVMapper {
         CITY,
         STATE
     }
+
     public List<Country> mapToCountry(Reader csvReader) {
         CSVFormat csvFormat =
                 CSVFormat.DEFAULT
@@ -44,10 +46,10 @@ public final class CSVMapper {
         Map<String, List<City>> citiesMap = new HashMap<>();
         Map<String, List<PostalCode>> postalCodesMap = new HashMap<>();
 
-        Country country = null;
-        State state = null;
-        City city = null;
-        PostalCode postalCode = null;
+        Country country;
+        State state;
+        City city;
+        PostalCode postalCode;
 
         try {
             Iterable<CSVRecord> records = csvFormat.parse(csvReader);
@@ -70,7 +72,11 @@ public final class CSVMapper {
                     statesMap.put(stateName, new LinkedList<>());
                     statesMap.get(stateName).add(state);
                 } else {
-                    state = statesMap.get(stateName).stream().filter(s -> countryName.equals(s.getCountry().getName())).findAny().orElse(null);
+                    state =
+                            statesMap.get(stateName).stream()
+                                    .filter(s -> countryName.equals(s.getCountry().getName()))
+                                    .findAny()
+                                    .orElse(null);
                     if (state == null) {
                         state = new State(stateName, country);
                         statesMap.get(stateName).add(state);
@@ -83,7 +89,11 @@ public final class CSVMapper {
                     citiesMap.put(cityName, new LinkedList<>());
                     citiesMap.get(cityName).add(city);
                 } else {
-                    city = citiesMap.get(cityName).stream().filter(c -> stateName.equals(c.getState().getName())).findAny().orElse(null);
+                    city =
+                            citiesMap.get(cityName).stream()
+                                    .filter(c -> stateName.equals(c.getState().getName()))
+                                    .findAny()
+                                    .orElse(null);
                     if (city == null) {
                         city = new City(cityName, state);
                         citiesMap.get(cityName).add(city);
@@ -96,7 +106,11 @@ public final class CSVMapper {
                     postalCodesMap.put(postalCodeName, new LinkedList<>());
                     postalCodesMap.get(postalCodeName).add(postalCode);
                 } else {
-                    postalCode = postalCodesMap.get(postalCodeName).stream().filter(pc -> cityName.equals(pc.getCity().getName())).findAny().orElse(null);
+                    postalCode =
+                            postalCodesMap.get(postalCodeName).stream()
+                                    .filter(pc -> cityName.equals(pc.getCity().getName()))
+                                    .findAny()
+                                    .orElse(null);
                     if (postalCode == null) {
                         postalCode = new PostalCode(postalCodeName, city);
                         postalCodesMap.get(postalCodeName).add(postalCode);
@@ -108,53 +122,46 @@ public final class CSVMapper {
             logs.error(exception.getMessage());
         }
 
-        return new ArrayList<Country>(countriesMap.values());
+        return new ArrayList<>(countriesMap.values());
     }
-    enum LanguageHeaders {
-        ROMANIAN,
-        ENGLISH,
-        ITALIAN,
-        GERMAN,
-        FRENCH,
-        SPANISH,
 
-    }
     /**
-     * Parses a CSV file and maps each line of translations into a list of Strings,
-     * then adds each list into a primary list, which is returned at the end.
+     * Parses a CSV file and maps each line of translations into a list of Strings, then adds each
+     * list into a primary list, which is returned at the end.
      *
      * @param csvReader The reader to read the CSV data.
-     * @return A list of lists of Strings.
-     * Each sublist represents a line from the CSV file,
-     *         where each element is a translation of the same word into different languages.
-     *         The languages are determined by the LanguageHeaders enum.
-     *         If there's an IOException during processing, the method prints the stack trace and
-     *         returns the list of translations parsed up to the point of the exception.
+     * @return A list of lists of Strings. Each sublist represents a line from the CSV file, where
+     *     each element is a translation of the same word into different languages. The languages
+     *     are determined by the LanguageHeaders enum. If there's an IOException during processing,
+     *     the method prints the stack trace and returns the list of translations parsed up to the
+     *     point of the exception.
      */
-    public List<List<String>> mapToTranslationList (Reader csvReader) {
+    public Map<Language, List<String>> mapToTranslation(Reader csvReader) {
         CSVFormat csvFormat =
                 CSVFormat.DEFAULT
                         .builder()
-                        .setHeader(LanguageHeaders.class)
+                        .setHeader(Language.class)
                         .setSkipHeaderRecord(true)
                         .build();
-        List<List<String>> translationLists = new ArrayList<>();
+
+        Map<Language, List<String>> words = new HashMap<>();
+        for (Language language : Language.values()) {
+            words.put(language, new ArrayList<>());
+        }
+
         try {
             Iterable<CSVRecord> records = csvFormat.parse(csvReader);
 
             for (CSVRecord record : records) {
-                List<String> translations = new ArrayList<>();
-                for(LanguageHeaders header : LanguageHeaders.values()){
-                    String translation = record.get(header);
-                    translations.add(translation);
+                for (Language language : Language.values()) {
+                    String word = record.get(language);
+                    words.get(language).add(word);
                 }
-
-                translationLists.add(translations);
             }
         } catch (IOException exception) {
-            exception.printStackTrace();
+            logs.error(exception.getMessage());
         }
 
-        return translationLists;
+        return words;
     }
 }
