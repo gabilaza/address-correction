@@ -35,17 +35,17 @@ jobs:
           path: backend.jar
 
 
-fake-deploy:
-  runs-on: ubuntu-latest
-  needs: build
-  steps:
-    - name: Get the artifact
-      uses: actions/download-artifact@master
-      with:
-        name: backend
+  fake-deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Get the artifact
+        uses: actions/download-artifact@master
+        with:
+          name: backend
 
-    - name: Fake Deploy
-      run: ls backend*.jar
+      - name: Fake Deploy
+        run: ls backend*.jar
 
 
 
