@@ -34,6 +34,23 @@ public class AddressService {
     @Value("${app.normalize.suggestion.maxConcatTimes}")
     private int maxConcatTimes;
 
+    /**
+     * Corrects an address by finding the optimal chain of vertices in a tree of addresses.
+     * This method begins by retrieving all vertices that correspond to the given locations
+     * from the treeAddressService.
+     * Then, it retrieves all chains that include these vertices.
+     * Scores are computed for these chains based on the chain's length.
+     * <p>
+     * The chains are sorted (by their scores, in ascending order),
+     * and the first chain (i.e., the one with the highest score) is mapped to an
+     * Address object, which is then returned.
+     * If no chains are found, an empty Address object
+     * is returned.
+     *
+     * @param locations an iterable of string locations to be included in the address correction
+     * @return an Address object representing the corrected address, or an empty Address object
+     *         if no chains are found.
+     */
     public Address correctAddress(Iterable<String> locations) {
         Set<Vertex<String>> vertices = treeAddressService.getAllVertices(locations);
         List<Chain<Vertex<String>>> chains = treeAddressService.getAllChains(vertices);
