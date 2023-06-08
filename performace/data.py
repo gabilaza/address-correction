@@ -52,7 +52,8 @@ BODIES = [
 ]
 
 def destroyString(x):
-    return ''.join(i if random.random() < 0.95 else 'b' for i in x)
+    alphabet = string.ascii_lowercase + string.ascii_uppercase
+    return ''.join(i if random.random() < 0.9 else random.choice(alphabet) for i in x)
 
 
 for _ in range(1000):
